@@ -1,0 +1,93 @@
+,Patient_ID,Sex,Race,Diagnosis Age,Prior Diagnosis,Aneuploidy Score,MSI_MANTIS_Score,MSIsensor Score,Mutation Count,Percent_Genome_Altered,TMB,Tumor Break Load,Overall_Survival_Months,Survival Status,Radiation Therapy,Tumor Progression or Recurrence
+0,OR-A5J1,Male,White,58,No,2.0,0.28,0.0,23.0,5.85,0.8,421.0,45.0,Dead w/ Tumor,No,Recurrence
+1,OR-A5J2,Female,Hispanic,44,No,10.0,0.32,1.57,29.0,40.33,0.97,68.0,55.0,Dead w/ Tumor,No,Recurrence
+2,OR-A5J3,Female,Hispanic,23,No,12.0,0.34,1.82,10.0,41.31,0.33,7.0,69.0,Alive w/ Tumor,No,Recurrence
+3,OR-A5J4,Female,Hispanic,23,No,17.0,0.3,0.45,116.0,92.59,3.87,474.0,14.0,Dead w/ Tumor,No,Recurrence
+4,OR-A5J5,Male,Hispanic,30,No,33.0,0.52,5.38,354.0,80.15,11.87,36.0,12.0,Dead w/ Tumor,No,Recurrence
+5,OR-A5J6,Female,Black,29,No,22.0,0.29,0.0,30.0,47.85,1.0,12.0,89.0,Alive Tumor-Free,No,Neither
+6,OR-A5J7,Female,Hispanic,30,No,24.0,0.29,0.79,48.0,89.33,1.6,384.0,16.0,Dead w/ Tumor,No,Recurrence
+7,OR-A5J8,Male,Hispanic,66,No,7.0,0.32,0.64,89.0,25.28,2.97,186.0,19.0,Dead w/ Tumor,Yes,Recurrence
+8,OR-A5J9,Female,Hispanic,22,No,27.0,0.32,0.9,31.0,94.66,1.03,106.0,44.0,Alive w/ Tumor,No,Recurrence
+9,OR-A5JA,Female,White,53,No,33.0,0.31,0.72,477.0,79.04,15.77,162.0,30.0,Dead w/ Tumor,No,Progression
+10,OR-A5JB,Male,White,52,No,13.0,0.29,0.35,280.0,33.72,9.4,84.0,18.0,Alive Tumor-Free,,Neither
+11,OR-A5JC,Male,White,37,No,28.0,0.3,0.56,27.0,65.36,0.9,172.0,58.0,Alive Tumor-Free,,Neither
+12,OR-A5JD,Female,White,57,No,39.0,0.3,0.46,26.0,94.77,0.87,4.0,100.0,Alive Tumor-Free,No,Neither
+13,OR-A5JE,Female,White,17,No,21.0,0.29,0.0,52.0,49.1,1.73,177.0,69.0,Dead w/ Tumor,No,Recurrence
+14,OR-A5JF,Female,White,69,No,18.0,0.29,0.91,66.0,90.14,2.2,38.0,66.0,Alive Tumor-Free,Yes,Neither
+15,OR-A5JG,Male,White,61,No,39.0,0.32,1.45,26.0,67.8,0.9,23.0,18.0,Dead w/ Tumor,,Progression
+16,OR-A5JH,Female,White,32,No,19.0,0.29,0.01,5.0,59.4,0.17,22.0,69.0,Alive Tumor-Free,No,Neither
+17,OR-A5JI,Male,White,22,No,22.0,0.28,0.01,12.0,48.28,0.4,0.0,77.0,Alive Tumor-Free,No,Neither
+18,OR-A5JJ,Male,White,65,No,17.0,0.31,1.0,18.0,94.76,0.6,31.0,16.0,Dead w/ Tumor,No,Progression
+19,OR-A5JK,Male,White,49,No,20.0,0.3,0.49,26.0,87.46,0.87,63.0,49.0,Alive Tumor-Free,Yes,Neither
+20,OR-A5JL,Female,White,36,No,14.0,0.31,0.73,11.0,87.11,0.37,19.0,68.0,Alive Tumor-Free,No,Neither
+21,OR-A5JM,Female,White,25,No,15.0,0.29,0.21,62.0,46.59,2.07,263.0,18.0,Dead w/ Tumor,Yes,Recurrence
+22,OR-A5JO,Female,White,26,No,0.0,0.27,0.01,13.0,0.0,0.43,1.0,39.0,Alive Tumor-Free,No,Neither
+23,OR-A5JP,Male,White,40,No,18.0,0.27,0.2,65.0,48.17,2.17,132.0,15.0,Alive Tumor-Free,No,Neither
+24,OR-A5JQ,Female,White,26,No,17.0,0.29,0.25,6.0,90.14,0.2,10.0,36.0,Alive Tumor-Free,No,Neither
+25,OR-A5JR,Male,White,45,No,17.0,0.3,0.88,4.0,86.12,0.13,46.0,121.0,Alive Tumor-Free,No,Neither
+26,OR-A5JS,Female,White,65,No,31.0,0.29,0.22,30.0,57.58,1.0,146.0,13.0,Alive w/ Tumor,Yes,Recurrence
+27,OR-A5JT,Female,White,65,No,37.0,0.3,1.11,25.0,89.37,0.83,59.0,30.0,Unknown,Yes,Neither
+28,OR-A5JU,Female,White,58,No,2.0,0.28,0.0,24.0,0.02,0.8,27.0,10.0,Dead w/ Tumor,Yes,Recurrence
+29,OR-A5JV,Male,White,55,No,31.0,0.31,0.0,25.0,58.78,0.83,88.0,67.0,Alive Tumor-Free,No,Progression
+30,OR-A5JW,Male,White,47,No,17.0,0.28,0.64,27.0,94.76,0.9,28.0,72.0,Alive Tumor-Free,Yes,Neither
+31,OR-A5JX,Male,White,50,No,25.0,0.28,0.52,33.0,59.57,1.1,149.0,31.0,Alive Tumor-Free,Yes,Neither
+32,OR-A5JY,Female,White,68,No,14.0,0.29,0.49,70.0,60.17,2.33,643.0,18.0,Dead w/ Tumor,Yes,Recurrence
+33,OR-A5JZ,Male,White,60,No,9.0,0.34,2.21,15.0,23.67,0.5,66.0,27.0,Alive Tumor-Free,Yes,Recurrence
+34,OR-A5K0,Female,White,69,Yes,4.0,0.29,0.29,51.0,28.2,1.67,123.0,34.0,Alive w/ Tumor,No,Recurrence
+35,OR-A5K1,Male,White,48,No,12.0,0.32,0.97,13.0,72.53,0.43,6.0,108.0,Alive Tumor-Free,No,Recurrence
+36,OR-A5K2,Female,White,32,No,16.0,0.26,0.03,43.0,33.27,1.47,170.0,33.0,Dead w/ Tumor,Yes,Recurrence
+37,OR-A5K3,Male,White,53,No,13.0,0.33,1.36,15.0,57.14,0.5,10.0,114.0,Alive Tumor-Free,No,Neither
+38,OR-A5K4,Female,White,64,No,12.0,0.33,2.41,212.0,89.04,7.1,20.0,36.0,Alive Tumor-Free,Yes,Neither
+39,OR-A5K5,Female,White,59,No,19.0,0.29,0.19,115.0,54.51,3.83,635.0,16.0,Dead w/ Tumor,Yes,Recurrence
+40,OR-A5K6,Female,White,56,No,3.0,0.28,0.04,25.0,13.86,0.83,75.0,49.0,Alive w/ Tumor,No,Recurrence
+41,OR-A5K8,Male,White,39,No,20.0,0.31,1.19,25.0,94.77,0.83,27.0,25.0,Alive Tumor-Free,No,Neither
+42,OR-A5K9,Female,White,61,No,17.0,0.29,0.75,112.0,41.84,3.8,172.0,11.0,Dead w/ Tumor,No,Recurrence
+43,OR-A5KB,Female,White,61,No,20.0,0.28,0.07,1850.0,62.3,62.07,207.0,24.0,Alive w/ Tumor,No,Recurrence
+44,OR-A5KO,Female,White,39,No,18.0,0.31,1.25,29.0,95.17,0.97,191.0,46.0,Alive w/ Tumor,No,Recurrence
+45,OR-A5KP,Female,White,45,Yes,21.0,0.29,0.04,62.0,49.46,2.07,73.0,91.0,Alive Tumor-Free,No,Recurrence
+46,OR-A5KQ,Female,White,20,No,1.0,0.28,0.0,10.0,1.1,0.33,6.0,88.0,Alive Tumor-Free,No,Neither
+47,OR-A5KS,Male,White,72,No,31.0,0.31,1.09,19.0,78.34,0.63,198.0,84.0,Alive Tumor-Free,No,Neither
+48,OR-A5KT,Female,White,44,No,1.0,0.28,0.0,24.0,8.18,0.83,142.0,95.0,Alive Tumor-Free,No,Recurrence
+49,OR-A5KU,Female,White,37,No,32.0,0.3,0.51,18.0,93.27,0.63,24.0,154.0,Alive Tumor-Free,No,Neither
+50,OR-A5KV,Female,White,17,No,0.0,0.29,0.17,19.0,0.53,0.63,35.0,127.0,Alive Tumor-Free,Yes,Recurrence
+51,OR-A5KW,Female,White,55,No,14.0,0.32,1.77,21.0,100.0,0.7,76.0,68.0,Alive Tumor-Free,Yes,Neither
+52,OR-A5KX,Female,White,25,No,11.0,0.28,0.17,35.0,28.84,1.2,307.0,45.0,Alive w/ Tumor,No,Recurrence
+53,OR-A5KY,Female,White,23,No,16.0,0.32,0.93,27.0,38.86,0.9,152.0,13.0,Dead w/ Tumor,No,Recurrence
+54,OR-A5KZ,Male,White,42,No,16.0,0.33,1.69,28.0,45.02,0.93,80.0,4.0,Dead w/ Tumor,No,Recurrence
+55,OR-A5L1,Female,White,37,No,31.0,0.3,0.87,14.0,78.41,0.43,22.0,59.0,Alive w/ Tumor,No,Recurrence
+56,OR-A5L2,Female,White,83,No,21.0,0.3,0.2,128.0,35.86,4.33,317.0,61.0,Dead w/o Tumor,No,Neither
+57,OR-A5L3,Female,White,67,No,1.0,0.29,0.0,20.0,3.64,0.67,16.0,152.0,Alive Tumor-Free,No,Neither
+58,OR-A5L4,Female,White,48,No,37.0,0.31,1.29,23.0,94.78,0.77,14.0,32.0,Alive Tumor-Free,No,Neither
+59,OR-A5L5,Female,White,77,Yes,9.0,0.3,0.22,9.0,18.75,0.3,5.0,43.0,Alive Tumor-Free,No,Neither
+60,OR-A5L6,Male,White,60,No,21.0,0.33,2.35,37.0,38.0,1.23,48.0,28.0,Alive Tumor-Free,No,Neither
+61,OR-A5L8,Female,White,36,No,29.0,0.31,0.62,16.0,94.77,0.53,7.0,29.0,Alive Tumor-Free,No,Neither
+62,OR-A5L9,Female,White,53,No,10.0,0.32,0.66,7.0,22.82,0.23,3.0,29.0,Alive Tumor-Free,No,Neither
+63,OR-A5LA,Female,White,52,No,39.0,0.29,0.07,7.0,88.55,0.23,2.0,24.0,Alive Tumor-Free,No,Neither
+64,OR-A5LB,Male,White,59,Yes,18.0,0.53,5.16,225.0,94.68,7.53,46.0,40.0,Dead w/ Tumor,Yes,Recurrence
+65,OR-A5LC,Female,White,71,No,26.0,0.29,0.4,44.0,70.58,1.47,68.0,5.0,Dead w/ Tumor,No,Recurrence
+66,OR-A5LD,Male,White,52,No,16.0,0.29,0.05,54.0,45.17,1.8,112.0,39.0,Dead w/ Tumor,No,Recurrence
+67,OR-A5LE,Male,White,14,No,7.0,0.28,0.05,22.0,19.61,0.73,70.0,22.0,Dead w/ Tumor,No,Recurrence
+68,OR-A5LF,Female,White,74,No,34.0,0.31,0.65,21.0,83.06,0.7,111.0,15.0,Dead w/o Tumor,No,Neither
+69,OR-A5LG,Male,White,46,No,4.0,0.29,0.22,18.0,22.83,0.6,94.0,52.0,Alive w/ Tumor,No,Recurrence
+70,OR-A5LH,Female,White,36,No,8.0,0.32,1.11,9.0,48.53,0.3,14.0,78.0,Dead w/ Tumor,No,Progression
+71,OR-A5LI,Female,White,42,No,18.0,0.28,0.05,51.0,35.12,1.67,512.0,14.0,Dead w/ Tumor,No,Recurrence
+72,OR-A5LJ,Female,White,54,No,15.0,0.52,6.52,401.0,94.76,13.47,30.0,36.0,Dead w/ Tumor,No,Recurrence
+73,OR-A5LK,Male,,62,No,39.0,0.29,0.24,41.0,99.99,1.33,22.0,90.0,Alive Tumor-Free,No,Neither
+74,OR-A5LL,Female,,75,No,10.0,0.29,0.08,51.0,36.24,1.7,213.0,53.0,Dead w/ Tumor,No,Recurrence
+75,OR-A5LM,Male,,23,No,32.0,0.32,1.28,24.0,67.98,0.8,105.0,61.0,Alive Tumor-Free,No,Neither
+76,OR-A5LN,Female,,31,No,26.0,0.29,0.0,11.0,65.2,0.37,9.0,77.0,Alive Tumor-Free,No,Neither
+77,OR-A5LO,Female,,61,No,33.0,0.32,1.44,62.0,93.15,2.07,213.0,79.0,Dead w/ Tumor,No,Recurrence
+78,OR-A5LP,Female,,37,No,12.0,0.3,0.58,18.0,24.88,0.6,3.0,61.0,Alive Tumor-Free,No,Neither
+79,OR-A5LR,Female,,30,No,10.0,0.31,1.33,12.0,22.7,0.37,2.0,28.0,Alive Tumor-Free,No,Neither
+80,OR-A5LS,Female,,34,No,36.0,0.31,0.88,11.0,92.55,0.37,43.0,36.0,Alive Tumor-Free,No,Neither
+81,OR-A5LT,Male,,57,No,31.0,0.33,1.29,22.0,79.57,0.73,73.0,18.0,Alive Tumor-Free,No,Neither
+82,OR-A5OG,Female,White,45,Yes,,,,,,,,,Alive Tumor-Free,No,Recurrence
+83,OU-A5PI,Female,White,53,No,19.0,0.3,0.53,28.0,94.76,0.93,111.0,38.0,Alive w/ Tumor,No,Recurrence
+84,P6-A5OF,Female,White,55,No,,0.32,0.87,28.0,,0.93,,7.0,Dead w/ Tumor,No,Recurrence
+85,P6-A5OH,Female,White,59,No,12.0,0.3,0.02,124.0,44.77,4.2,246.0,0.0,Dead w/ Tumor,No,Progression
+86,PA-A5YG,Male,White,51,No,12.0,0.3,0.57,10.0,25.75,0.33,8.0,25.0,Alive Tumor-Free,No,Neither
+87,PK-A5H8,Male,White,42,No,,0.31,1.13,20.0,,0.67,,119.0,Alive Tumor-Free,No,Neither
+88,PK-A5H9,Female,Asian,27,No,0.0,0.28,0.0,14.0,1.07,0.5,23.0,20.0,Alive Tumor-Free,No,Neither
+89,PK-A5HA,Male,,63,No,11.0,0.3,0.39,48.0,90.93,1.6,57.0,39.0,Alive Tumor-Free,No,Neither
+90,PK-A5HB,Male,,63,Yes,13.0,0.47,4.68,977.0,92.79,32.83,51.0,43.0,Alive w/ Tumor,Yes,Recurrence
+91,PK-A5HC,Female,Asian,44,No,21.0,0.3,0.56,55.0,29.01,1.83,232.0,22.0,Alive w/ Tumor,No,Recurrence

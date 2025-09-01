@@ -1,0 +1,908 @@
+,target_usi,Gender,Nationality,Age at Diagnosis in Weeks,Diagnosis Age Range in Years,Year of Diagnosis,Year of Last Follow Up,MYCN status,Diploid or Hyperdiploid,Histology,Tumor_Grade,MKI,Survival Time in Weeks,Vital Status
+12,PADFLI,Male,White,80.0,0-2,1991,1999.0,Not Amplified,Unknown,Unfavorable,3-4,High,410.0,Alive
+15,PADIHC,Male,White,274.0,5-10,1992,2005.0,Not Amplified,Unknown,Unfavorable,3-4,Low,657.0,Alive
+16,PADINC,Male,Black,143.0,2-5,1992,1993.0,Amplified,Unknown,Unfavorable,3-4,Low,58.0,Dead
+17,PADIRB,Female,Unknown,170.0,2-5,1992,2003.0,Not Amplified,Unknown,Unfavorable,3-4,Low,551.0,Alive
+20,PADKGF,Male,White,79.0,0-2,1992,2000.0,Not Amplified,Unknown,Unfavorable,3-4,High,378.0,Alive
+21,PADKNE,Female,White,250.0,2-5,1993,1994.0,Amplified,Unknown,Unfavorable,3-4,High,84.0,Dead
+22,PADKRU,Female,White,204.0,2-5,1993,1994.0,Not Amplified,Unknown,Unfavorable,3-4,Intermediate,89.0,Dead
+24,PADKXS,Female,White,93.0,0-2,1993,1994.0,Amplified,Unknown,Unfavorable,3-4,Low,49.0,Dead
+25,PADKYP,Male,White,246.0,2-5,1993,1996.0,Amplified,Unknown,Unfavorable,3-4,High,155.0,Dead
+26,PADLDA,Male,White,656.0,10+,1993,1995.0,Not Amplified,Unknown,Unfavorable,3-4,Low,113.0,Dead
+27,PADLDT,Female,White,115.0,2-5,1993,1993.0,Amplified,Unknown,Unfavorable,3-4,Intermediate,2.0,Dead
+28,PADLES,Female,White,255.0,2-5,1993,1996.0,Not Amplified,Unknown,Unfavorable,3-4,Intermediate,192.0,Dead
+29,PADLIC,Male,White,262.0,5-10,1993,2006.0,Not Amplified,Unknown,Unfavorable,3-4,High,667.0,Alive
+31,PADLKJ,Male,White,111.0,2-5,1993,1998.0,Amplified,Unknown,Unknown,Unknown,Unknown,250.0,Alive
+32,PADLNM,Male,Hispanic,135.0,2-5,1993,1994.0,Amplified,Unknown,Unfavorable,3-4,High,65.0,Dead
+33,PADLPR,Male,Black,115.0,2-5,1993,1994.0,Not Amplified,Unknown,Unfavorable,3-4,Low,63.0,Dead
+35,PADLTD,Female,Hispanic,136.0,2-5,1993,1994.0,Amplified,Unknown,Unfavorable,3-4,Intermediate,68.0,Dead
+37,PADMTD,Male,White,149.0,2-5,1993,2002.0,Amplified,Unknown,Unfavorable,3-4,High,462.0,Alive
+39,PADMXD,Male,White,155.0,2-5,1993,1999.0,Amplified,Unknown,Unfavorable,3-4,High,293.0,Alive
+40,PADMYD,Male,White,218.0,2-5,1993,1994.0,Not Amplified,Unknown,Unfavorable,3-4,Intermediate,63.0,Dead
+41,PADNFT,Male,White,213.0,2-5,1993,1995.0,Not Amplified,Unknown,Unfavorable,3-4,Intermediate,104.0,Dead
+43,PADNXC,Female,Hispanic,80.0,0-2,1994,1997.0,Amplified,Unknown,Unfavorable,3-4,High,196.0,Alive
+44,PADPCI,Male,White,285.0,5-10,1994,1994.0,Not Amplified,Unknown,Unfavorable,3-4,Intermediate,34.0,Dead
+45,PADPEY,Female,White,205.0,2-5,1994,2004.0,Amplified,Unknown,Unfavorable,3-4,Low,541.0,Alive
+46,PADPHP,Male,Black,161.0,2-5,1994,1994.0,Not Amplified,Unknown,Unfavorable,3-4,Low,31.0,Dead
+47,PADPMU,Female,Hispanic,227.0,2-5,1994,1995.0,Amplified,Unknown,Unfavorable,3-4,Intermediate,87.0,Alive
+49,PADRYN,Male,Black,96.0,0-2,1994,1996.0,Amplified,Unknown,Unfavorable,3-4,High,100.0,Dead
+50,PADSEC,Female,White,211.0,2-5,1994,1996.0,Not Amplified,Unknown,Unfavorable,3-4,Intermediate,95.0,Dead
+51,PADSMF,Female,White,175.0,2-5,1994,2002.0,Not Amplified,Unknown,Unfavorable,3-4,Intermediate,428.0,Dead
+52,PADSXE,Female,White,168.0,2-5,1994,2006.0,Not Amplified,Unknown,Unfavorable,3-4,Intermediate,612.0,Alive
+53,PADSXU,Female,White,93.0,0-2,1994,1995.0,Not Amplified,Unknown,Unfavorable,3-4,Low,47.0,Dead
+55,PADTJJ,Female,White,76.0,0-2,1995,2002.0,Amplified,Unknown,Unfavorable,3-4,High,391.0,Alive
+57,PADUKP,Male,White,237.0,2-5,1995,1996.0,Not Amplified,Unknown,Favorable,1-2,Low,88.0,Dead
+58,PADUWR,Male,Asian,240.0,2-5,1995,2009.0,Not Amplified,Unknown,Unfavorable,3-4,Low,745.0,Alive
+59,PADUYJ,Female,White,445.0,5-10,1995,1996.0,Amplified,Unknown,Unfavorable,3-4,Intermediate,59.0,Dead
+66,PADXAS,Female,White,325.0,5-10,1996,2006.0,Not Amplified,Unknown,Unfavorable,Unknown,Unknown,527.0,Dead
+72,PAICGF,Female,White,183.0,2-5,1994,1998.0,Not Amplified,Hyperdiploid,Unknown,Unknown,Unknown,188.0,Dead
+73,PAIDJS,Male,White,43.0,0-2,1995,2006.0,Not Amplified,Hyperdiploid,Favorable,1-2,Low,599.0,Alive
+75,PAIEFC,Female,White,86.0,0-2,1995,1995.0,Amplified,Diploid,Unfavorable,3-4,High,5.0,Dead
+81,PAIJGC,Male,White,201.0,2-5,1996,2005.0,Not Amplified,Hyperdiploid,Unknown,1-2,Low,463.0,Alive
+91,PAIPUD,Male,Black,94.0,0-2,1998,2003.0,Not Amplified,Diploid,Favorable,1-2,Low,263.0,Alive
+92,PAIPVH,Male,White,249.0,2-5,1998,2006.0,Not Amplified,Hyperdiploid,Unfavorable,3-4,Intermediate,419.0,Alive
+95,PAIRDP,Female,White,128.0,2-5,1998,1999.0,Amplified,Hyperdiploid,Unfavorable,3-4,High,59.0,Dead
+96,PAIRIK,Male,White,85.0,0-2,1998,2006.0,Not Amplified,Hyperdiploid,Unfavorable,3-4,Low,413.0,Alive
+97,PAIRLD,Male,White,245.0,2-5,1998,1999.0,Not Amplified,Hyperdiploid,Unfavorable,3-4,Intermediate,85.0,Dead
+98,PAIRLN,Male,White,122.0,2-5,1998,2006.0,Amplified,Hyperdiploid,Unfavorable,3-4,Intermediate,404.0,Alive
+101,PAITCI,Male,White,104.0,2-5,1998,1999.0,Not Amplified,Hyperdiploid,Favorable,1-2,Low,46.0,Dead
+103,PAITEG,Male,White,148.0,2-5,1998,2001.0,Not Amplified,Diploid,Unknown,Unknown,Unknown,116.0,Dead
+104,PAITRM,Female,Unknown,214.0,2-5,1998,2003.0,Not Amplified,Diploid,Unfavorable,3-4,Intermediate,262.0,Dead
+105,PAITZV,Male,White,241.0,2-5,1999,2004.0,Not Amplified,Hyperdiploid,Unfavorable,3-4,High,307.0,Alive
+106,PAIUBC,Female,Unknown,177.0,2-5,1999,2000.0,Not Amplified,Diploid,Unknown,Unknown,Unknown,57.0,Dead
+107,PAIUJB,Female,Unknown,78.0,0-2,1999,2001.0,Amplified,Diploid,Unfavorable,3-4,High,100.0,Dead
+108,PAIVHE,Male,White,160.0,2-5,1999,2003.0,Not Amplified,Hyperdiploid,Unfavorable,3-4,Low,229.0,Dead
+109,PAIVMJ,Male,White,29.0,0-2,1999,2005.0,Not Amplified,Hyperdiploid,Favorable,3-4,Intermediate,337.0,Alive
+110,PAIVZR,Female,Unknown,175.0,2-5,1999,2001.0,Amplified,Diploid,Unfavorable,3-4,High,112.0,Dead
+111,PAIWEH,Male,White,154.0,2-5,1999,2005.0,Not Amplified,Hyperdiploid,Unfavorable,3-4,High,316.0,Alive
+112,PAIWHU,Male,White,35.0,0-2,1999,2009.0,Not Amplified,Hyperdiploid,Favorable,1-2,Intermediate,525.0,Alive
+113,PAIWRB,Female,White,152.0,2-5,2000,2001.0,Amplified,Diploid,Unfavorable,3-4,Unknown,91.0,Dead
+114,PAIWVG,Female,White,92.0,0-2,2000,2004.0,Not Amplified,Diploid,Unfavorable,Unknown,Unknown,232.0,Dead
+115,PAIWZA,Male,White,42.0,0-2,2000,2014.0,Not Amplified,Hyperdiploid,Favorable,3-4,Intermediate,745.0,Alive
+116,PAIXBP,Male,Unknown,119.0,2-5,2000,2003.0,Not Amplified,Diploid,Unfavorable,3-4,Low,153.0,Alive
+117,PAIXFZ,Female,White,9.0,0-2,2000,2005.0,Not Amplified,Diploid,Favorable,3-4,Low,279.0,Alive
+118,PAIXHH,Male,White,5.0,0-2,2000,2011.0,Not Amplified,Hyperdiploid,Favorable,3-4,Intermediate,573.0,Alive
+120,PAIXLC,Male,White,39.0,0-2,2000,2014.0,Not Amplified,Hyperdiploid,Favorable,3-4,Intermediate,721.0,Alive
+122,PAIXNC,Male,White,103.0,0-2,2000,2002.0,Not Amplified,Hyperdiploid,Unfavorable,3-4,Intermediate,87.0,Dead
+124,PAIXNV,Female,Black,92.0,0-2,2000,2006.0,Not Amplified,Hyperdiploid,Unfavorable,3-4,Intermediate,305.0,Alive
+125,PAIXRK,Male,White,81.0,0-2,2000,2004.0,Amplified,Diploid,Unfavorable,3-4,High,195.0,Dead
+130,PAJZUU,Male,Unknown,462.0,5-10,1992,1994.0,Not Amplified,Unknown,Unfavorable,3-4,Low,113.0,Dead
+132,PAKACY,Male,Unknown,159.0,2-5,1994,1997.0,Amplified,Unknown,Unfavorable,3-4,High,195.0,Dead
+134,PAKAFK,Male,Unknown,216.0,2-5,1994,2000.0,Not Amplified,Unknown,Unfavorable,3-4,Low,289.0,Alive
+136,PAKDHL,Male,White,147.0,2-5,2000,2004.0,Not Amplified,Hyperdiploid,Unfavorable,Unknown,Unknown,232.0,Alive
+137,PAKFUY,Male,White,171.0,2-5,2000,2002.0,Not Amplified,Hyperdiploid,Unfavorable,Unknown,Unknown,123.0,Dead
+138,PAKFVB,Male,White,157.0,2-5,2000,2003.0,Not Amplified,Hyperdiploid,Unfavorable,Unknown,Unknown,150.0,Dead
+139,PAKGAB,Female,White,158.0,2-5,2000,2005.0,Not Amplified,Diploid,Unfavorable,Unknown,Unknown,260.0,Alive
+140,PAKGCI,Female,White,43.0,0-2,2000,2010.0,Not Amplified,Hyperdiploid,Favorable,Unknown,Unknown,532.0,Alive
+141,PAKGGW,Female,Black,4.0,0-2,2000,2003.0,Not Amplified,Hyperdiploid,Favorable,Unknown,Unknown,175.0,Alive
+142,PAKGKH,Male,Black,126.0,2-5,2000,2005.0,Not Amplified,Diploid,Unfavorable,Unknown,Unknown,256.0,Dead
+143,PAKGMY,Male,Black,96.0,0-2,2000,2000.0,Amplified,Diploid,Unknown,Unknown,Unknown,0.0,Alive
+144,PAKGRH,Male,White,102.0,0-2,2000,2005.0,Not Amplified,Diploid,Unfavorable,Unknown,Unknown,267.0,Alive
+145,PAKHAE,Male,White,51.0,0-2,2000,2014.0,Not Amplified,Hyperdiploid,Favorable,Unknown,Unknown,701.0,Alive
+146,PAKHAV,Male,Hispanic,21.0,0-2,2000,2005.0,Not Amplified,Hyperdiploid,Favorable,Unknown,Unknown,237.0,Alive
+147,PAKHCF,Female,White,120.0,2-5,2000,2003.0,Not Amplified,Hyperdiploid,Favorable,Unknown,Unknown,131.0,Dead
+148,PAKHHB,Male,White,98.0,0-2,2000,2001.0,Amplified,Diploid,Unfavorable,Unknown,Unknown,66.0,Dead
+150,PAKIAP,Female,White,249.0,2-5,2000,2002.0,Not Amplified,Hyperdiploid,Unfavorable,Unknown,Unknown,118.0,Dead
+151,PAKINP,Female,White,116.0,2-5,2000,2010.0,Not Amplified,Hyperdiploid,Favorable,Unknown,Unknown,525.0,Alive
+152,PAKIPY,Male,White,159.0,2-5,2000,2003.0,Not Amplified,Hyperdiploid,Unfavorable,Unknown,Unknown,119.0,Dead
+153,PAKJBA,Male,White,115.0,2-5,2000,2006.0,Amplified,Hyperdiploid,Unfavorable,Unknown,Unknown,280.0,Alive
+154,PAKJRE,Male,White,157.0,2-5,2000,2004.0,Not Amplified,Hyperdiploid,Unfavorable,Unknown,Unknown,212.0,Dead
+155,PAKMVJ,Female,Hispanic,213.0,2-5,2000,2000.0,Not Amplified,Diploid,Unfavorable,Unknown,Unknown,1.0,Alive
+156,PAKPAL,Male,White,258.0,2-5,2001,2014.0,Not Amplified,Hyperdiploid,Unfavorable,3-4,Unknown,707.0,Alive
+157,PAKPJE,Male,White,143.0,2-5,2001,2005.0,Not Amplified,Hyperdiploid,Unfavorable,Unknown,Unknown,234.0,Alive
+158,PAKPLH,Female,White,202.0,2-5,2001,2003.0,Not Amplified,Hyperdiploid,Unfavorable,Unknown,Unknown,139.0,Dead
+159,PAKPNF,Male,Hispanic,11.0,0-2,2001,2013.0,Not Amplified,Hyperdiploid,Favorable,3-4,Low,636.0,Alive
+161,PAKRKL,Female,White,74.0,0-2,2001,2009.0,Not Amplified,Hyperdiploid,Favorable,3-4,Low,449.0,Alive
+162,PAKSFV,Male,White,114.0,2-5,2001,2018.0,Not Amplified,Hyperdiploid,Unfavorable,3-4,High,879.0,Alive
+163,PAKSWB,Male,White,22.0,0-2,2001,2014.0,Not Amplified,Hyperdiploid,Favorable,3-4,Low,714.0,Alive
+165,PAKUXT,Male,White,139.0,2-5,2001,2003.0,Not Amplified,Diploid,Favorable,1-2,Low,104.0,Dead
+167,PAKVUY,Male,Asian,212.0,2-5,2001,2014.0,Amplified,Diploid,Unfavorable,3-4,High,694.0,Alive
+168,PAKWCJ,Female,White,56.0,0-2,2001,2014.0,Not Amplified,Hyperdiploid,Favorable,1-2,Low,682.0,Alive
+169,PAKWMT,Female,White,194.0,2-5,2001,2005.0,Not Amplified,Hyperdiploid,Unfavorable,3-4,Intermediate,221.0,Dead
+171,PAKXDZ,Female,White,118.0,2-5,2001,2004.0,Amplified,Diploid,Unfavorable,3-4,High,159.0,Dead
+172,PAKYMV,Female,White,93.0,0-2,2001,2012.0,Not Amplified,Diploid,Unfavorable,3-4,Intermediate,565.0,Alive
+173,PAKYRJ,Male,White,15.0,0-2,2001,2014.0,Not Amplified,Hyperdiploid,Favorable,3-4,Intermediate,659.0,Alive
+175,PAKZMI,Female,White,110.0,2-5,2001,2002.0,Amplified,Hyperdiploid,Unfavorable,3-4,High,27.0,Dead
+176,PAKZRE,Female,White,155.0,2-5,2001,2002.0,Amplified,Diploid,Unfavorable,3-4,Intermediate,66.0,Dead
+177,PAKZRF,Male,White,184.0,2-5,2001,2008.0,Unknown,Diploid,Unfavorable,3-4,High,379.0,Dead
+179,PALAKE,Male,Unknown,123.0,2-5,2001,2002.0,Amplified,Diploid,Unfavorable,3-4,Unknown,58.0,Dead
+180,PALAKM,Female,White,251.0,2-5,2001,2009.0,Not Amplified,Hyperdiploid,Unfavorable,3-4,Low,407.0,Dead
+181,PALAWZ,Male,Black,191.0,2-5,2001,2004.0,Not Amplified,Diploid,Unfavorable,3-4,Low,137.0,Dead
+182,PALAYH,Female,White,167.0,2-5,2001,2015.0,Amplified,Diploid,Unfavorable,3-4,Intermediate,735.0,Alive
+183,PALBFV,Female,White,214.0,2-5,2001,2002.0,Amplified,Diploid,Unfavorable,3-4,High,45.0,Dead
+184,PALBFW,Male,White,115.0,2-5,2001,2004.0,Not Amplified,Diploid,Unfavorable,3-4,Low,153.0,Dead
+185,PALBUY,Female,White,150.0,2-5,2001,2018.0,Amplified,Hyperdiploid,Unfavorable,3-4,High,881.0,Alive
+186,PALCBW,Female,White,97.0,0-2,2001,2014.0,Not Amplified,Diploid,Favorable,1-2,Low,652.0,Alive
+187,PALCCY,Male,White,117.0,2-5,2001,2003.0,Amplified,Hyperdiploid,Unfavorable,3-4,High,98.0,Dead
+188,PALDJW,Male,Hispanic,253.0,2-5,2001,2003.0,Not Amplified,Diploid,Unfavorable,3-4,Intermediate,114.0,Dead
+189,PALEAC,Male,White,9.0,0-2,2001,2013.0,Not Amplified,Hyperdiploid,Favorable,3-4,Low,609.0,Alive
+190,PALEBK,Male,White,3.0,0-2,2001,2012.0,Not Amplified,Hyperdiploid,Favorable,3-4,Low,542.0,Alive
+191,PALEEK,Male,White,121.0,2-5,2001,2004.0,Amplified,Diploid,Unfavorable,3-4,High,162.0,Dead
+192,PALEND,Male,Asian,105.0,2-5,2001,2002.0,Amplified,Diploid,Unfavorable,3-4,Intermediate,50.0,Dead
+193,PALETP,Female,White,209.0,2-5,2001,2002.0,Not Amplified,Diploid,Unfavorable,3-4,Intermediate,36.0,Dead
+194,PALEVG,Male,White,95.0,0-2,2001,2016.0,Amplified,Hyperdiploid,Unfavorable,3-4,Intermediate,765.0,Alive
+197,PALFIT,Male,White,204.0,2-5,2001,2004.0,Not Amplified,Diploid,Unfavorable,3-4,High,135.0,Dead
+199,PALFPI,Male,White,165.0,2-5,2001,2003.0,Not Amplified,Diploid,Unfavorable,3-4,Unknown,96.0,Dead
+201,PALFSE,Male,White,29.0,0-2,2001,2009.0,Not Amplified,Hyperdiploid,Favorable,3-4,Low,410.0,Alive
+202,PALGFF,Female,Native American,17.0,0-2,2001,2005.0,Not Amplified,Hyperdiploid,Favorable,3-4,Low,207.0,Alive
+203,PALGGL,Female,Black,113.0,2-5,2001,2016.0,Not Amplified,Hyperdiploid,Unfavorable,3-4,High,739.0,Alive
+204,PALHCB,Female,White,55.0,0-2,2001,2014.0,Not Amplified,Hyperdiploid,Favorable,1-2,Low,630.0,Alive
+205,PALHHG,Male,White,127.0,2-5,2001,2006.0,Not Amplified,Diploid,Unfavorable,3-4,Intermediate,242.0,Dead
+206,PALHTR,Female,White,137.0,2-5,2002,2004.0,Amplified,Hyperdiploid,Unfavorable,3-4,High,126.0,Alive
+207,PALHVD,Female,White,233.0,2-5,2002,2003.0,Not Amplified,Hyperdiploid,Unfavorable,3-4,Intermediate,62.0,Dead
+208,PALIIN,Male,White,183.0,2-5,2002,2005.0,Not Amplified,Hyperdiploid,Unfavorable,3-4,High,199.0,Dead
+209,PALJPF,Male,White,215.0,2-5,2002,2013.0,Amplified,Diploid,Unfavorable,3-4,High,593.0,Alive
+210,PALJPX,Male,White,123.0,2-5,2002,2002.0,Amplified,Hyperdiploid,Unfavorable,3-4,High,5.0,Dead
+212,PALJVX,Male,White,234.0,2-5,2002,2009.0,Not Amplified,Hyperdiploid,Unfavorable,3-4,Low,405.0,Dead
+213,PALJXU,Female,White,52.0,0-2,2002,2009.0,Not Amplified,Hyperdiploid,Favorable,1-2,Low,369.0,Alive
+214,PALJZV,Male,Black,257.0,2-5,2002,2016.0,Amplified,Diploid,Unfavorable,3-4,Intermediate,736.0,Alive
+215,PALKBP,Female,White,1.0,0-2,2002,2011.0,Not Amplified,Hyperdiploid,Favorable,3-4,Low,505.0,Alive
+216,PALKER,Female,White,177.0,2-5,2002,2015.0,Not Amplified,Hyperdiploid,Unfavorable,3-4,Intermediate,719.0,Alive
+217,PALKKV,Male,White,40.0,0-2,2002,2009.0,Not Amplified,Hyperdiploid,Favorable,3-4,Low,373.0,Alive
+218,PALKUC,Female,Black,118.0,2-5,2002,2014.0,Amplified,Diploid,Unfavorable,3-4,High,628.0,Alive
+219,PALKXJ,Female,White,1.0,0-2,2002,2003.0,Not Amplified,Hyperdiploid,Favorable,3-4,Low,91.0,Alive
+220,PALLJJ,Female,White,55.0,0-2,2002,2011.0,Not Amplified,Hyperdiploid,Favorable,1-2,Low,479.0,Alive
+221,PALNFE,Female,White,79.0,0-2,2002,2014.0,Not Amplified,Hyperdiploid,Favorable,1-2,Low,660.0,Alive
+222,PALNHR,Female,White,81.0,0-2,2002,2004.0,Amplified,Diploid,Unfavorable,3-4,Unknown,107.0,Dead
+223,PALNHZ,Male,White,89.0,0-2,2002,2003.0,Amplified,Hyperdiploid,Unfavorable,Unknown,Unknown,45.0,Dead
+224,PALNLU,Male,White,206.0,2-5,2002,2004.0,Not Amplified,Hyperdiploid,Unfavorable,3-4,Low,136.0,Dead
+225,PALNMX,Female,White,230.0,2-5,2002,2015.0,Not Amplified,Hyperdiploid,Unfavorable,3-4,Low,668.0,Alive
+226,PALNVP,Female,White,165.0,2-5,2002,2015.0,Not Amplified,Hyperdiploid,Unfavorable,3-4,Low,705.0,Alive
+228,PALPIN,Male,White,7.0,0-2,2002,2008.0,Not Amplified,Hyperdiploid,Favorable,3-4,Low,308.0,Alive
+229,PALPKZ,Male,White,165.0,2-5,2002,2008.0,Not Amplified,Diploid,Unfavorable,3-4,Low,300.0,Dead
+230,PALPSY,Female,White,44.0,0-2,2002,2009.0,Not Amplified,Hyperdiploid,Favorable,3-4,Low,383.0,Alive
+231,PALRFJ,Female,Black,101.0,0-2,2002,2009.0,Not Amplified,Hyperdiploid,Unfavorable,3-4,High,362.0,Alive
+232,PALRIA,Male,Asian,98.0,0-2,2002,2013.0,Not Amplified,Hyperdiploid,Favorable,1-2,Low,583.0,Alive
+234,PALSAE,Male,White,112.0,2-5,2002,2004.0,Not Amplified,Hyperdiploid,Unfavorable,3-4,Low,94.0,Dead
+235,PALTEG,Male,White,195.0,2-5,2002,2004.0,Not Amplified,Hyperdiploid,Unfavorable,3-4,Intermediate,79.0,Dead
+236,PALTYB,Female,Unknown,219.0,2-5,2002,2003.0,Not Amplified,Diploid,Favorable,1-2,Low,33.0,Dead
+237,PALTYS,Female,White,103.0,0-2,2002,2008.0,Amplified,Diploid,Unfavorable,3-4,High,314.0,Dead
+238,PALUDH,Female,White,158.0,2-5,2002,2014.0,Not Amplified,Hyperdiploid,Unfavorable,3-4,Intermediate,615.0,Alive
+239,PALURF,Male,Unknown,143.0,2-5,2002,2015.0,Not Amplified,Hyperdiploid,Unfavorable,3-4,Low,686.0,Alive
+240,PALUYS,Female,White,173.0,2-5,2002,2006.0,Not Amplified,Hyperdiploid,Unfavorable,3-4,High,183.0,Dead
+241,PALVDR,Male,Black,3.0,0-2,2002,2005.0,Not Amplified,Hyperdiploid,Favorable,3-4,Low,159.0,Alive
+242,PALVFV,Female,White,162.0,2-5,2002,2006.0,Not Amplified,Hyperdiploid,Unfavorable,3-4,Intermediate,214.0,Dead
+244,PALVUC,Male,White,28.0,0-2,2002,2014.0,Not Amplified,Hyperdiploid,Favorable,3-4,Low,624.0,Alive
+245,PALVVH,Male,White,31.0,0-2,2002,2008.0,Not Amplified,Hyperdiploid,Favorable,3-4,Low,312.0,Alive
+246,PALVXL,Female,Black,185.0,2-5,2002,2003.0,Amplified,Diploid,Unfavorable,3-4,Unknown,27.0,Dead
+247,PALWBT,Male,White,57.0,0-2,2002,2009.0,Not Amplified,Hyperdiploid,Favorable,1-2,Low,377.0,Alive
+248,PALWIP,Male,White,176.0,2-5,2002,2004.0,Not Amplified,Hyperdiploid,Unfavorable,3-4,Low,116.0,Dead
+249,PALWRG,Male,White,20.0,0-2,2002,2010.0,Not Amplified,Hyperdiploid,Favorable,3-4,Intermediate,384.0,Alive
+250,PALWSJ,Female,White,2.0,0-2,2002,2014.0,Not Amplified,Hyperdiploid,Favorable,3-4,Low,591.0,Alive
+251,PALWVJ,Male,Black,221.0,2-5,2002,2004.0,Not Amplified,Hyperdiploid,Unfavorable,3-4,Intermediate,115.0,Dead
+252,PALWXP,Male,White,10.0,0-2,2002,2009.0,Not Amplified,Hyperdiploid,Favorable,3-4,Low,359.0,Alive
+253,PALXHW,Female,White,162.0,2-5,2002,2006.0,Not Amplified,Diploid,Unfavorable,3-4,Intermediate,201.0,Dead
+254,PALXMM,Male,White,211.0,2-5,2002,2009.0,Not Amplified,Hyperdiploid,Unfavorable,3-4,Low,348.0,Dead
+255,PALXRL,Male,Black,219.0,2-5,2002,2007.0,Not Amplified,Hyperdiploid,Unfavorable,3-4,High,230.0,Alive
+256,PALXTB,Male,White,91.0,0-2,2002,2015.0,Not Amplified,Hyperdiploid,Unfavorable,3-4,Low,660.0,Alive
+257,PALXTE,Female,White,6.0,0-2,2002,2010.0,Not Amplified,Hyperdiploid,Favorable,3-4,Low,417.0,Alive
+258,PALXUM,Female,White,3.0,0-2,2002,2007.0,Not Amplified,Hyperdiploid,Favorable,3-4,Low,234.0,Alive
+259,PALYEC,Male,White,177.0,2-5,2002,2003.0,Amplified,Hyperdiploid,Unfavorable,3-4,High,23.0,Dead
+260,PALYLZ,Male,White,70.0,0-2,2002,2011.0,Not Amplified,Hyperdiploid,Favorable,3-4,Intermediate,440.0,Alive
+262,PALZBH,Male,White,199.0,2-5,2002,2005.0,Not Amplified,Diploid,Unfavorable,3-4,Low,118.0,Dead
+263,PALZHF,Male,Hispanic,2.0,0-2,2002,2014.0,Not Amplified,Hyperdiploid,Favorable,3-4,Intermediate,617.0,Alive
+264,PALZRB,Male,White,241.0,2-5,2002,2013.0,Amplified,Hyperdiploid,Unfavorable,3-4,High,573.0,Alive
+265,PALZRG,Female,White,82.0,0-2,2002,2004.0,Amplified,Hyperdiploid,Unfavorable,3-4,High,83.0,Dead
+266,PALZSL,Male,White,223.0,2-5,2002,2010.0,Amplified,Hyperdiploid,Unfavorable,3-4,Intermediate,372.0,Alive
+267,PALZZV,Female,Black,100.0,0-2,2002,2008.0,Amplified,Hyperdiploid,Unfavorable,3-4,Intermediate,276.0,Alive
+269,PAMAFV,Male,White,43.0,0-2,2002,2014.0,Not Amplified,Hyperdiploid,Favorable,3-4,Low,581.0,Alive
+270,PAMAJT,Female,White,15.0,0-2,2002,2010.0,Not Amplified,Hyperdiploid,Favorable,3-4,Low,392.0,Alive
+271,PAMANU,Female,White,200.0,2-5,2002,2012.0,Unknown,Hyperdiploid,Unfavorable,3-4,Low,510.0,Alive
+272,PAMBAC,Male,White,135.0,2-5,2002,2010.0,Amplified,Hyperdiploid,Unfavorable,3-4,Intermediate,406.0,Alive
+273,PAMBDH,Male,White,114.0,2-5,2002,2016.0,Amplified,Diploid,Unfavorable,3-4,High,682.0,Alive
+274,PAMBMJ,Male,White,136.0,2-5,2003,2004.0,Amplified,Hyperdiploid,Unfavorable,3-4,Intermediate,70.0,Dead
+275,PAMBYG,Male,White,88.0,0-2,2003,2003.0,Amplified,Diploid,Unfavorable,3-4,High,47.0,Dead
+276,PAMCJD,Male,White,105.0,2-5,2003,2007.0,Not Amplified,Diploid,Unfavorable,3-4,Low,234.0,Dead
+277,PAMCXF,Male,White,109.0,2-5,2003,2005.0,Amplified,Hyperdiploid,Unfavorable,3-4,High,103.0,Dead
+278,PAMDAL,Female,White,175.0,2-5,2003,2003.0,Amplified,Unknown,Unfavorable,3-4,High,21.0,Dead
+279,PAMEHH,Female,Black,131.0,2-5,2003,2005.0,Not Amplified,Diploid,Unfavorable,Unknown,Unknown,133.0,Dead
+281,PAMFBR,Male,White,232.0,2-5,2003,2017.0,Amplified,Diploid,Unfavorable,3-4,Intermediate,741.0,Alive
+282,PAMHDM,Male,White,137.0,2-5,2003,2004.0,Not Amplified,Hyperdiploid,Unfavorable,3-4,Low,61.0,Dead
+283,PAMHPN,Female,White,154.0,2-5,2003,2013.0,Not Amplified,Diploid,Unfavorable,3-4,Low,552.0,Alive
+284,PAMIIU,Male,Asian,214.0,2-5,2003,2015.0,Not Amplified,Diploid,Unknown,Unknown,Unknown,633.0,Alive
+285,PAMIZA,Female,White,135.0,2-5,2003,2014.0,Not Amplified,Diploid,Unfavorable,3-4,High,601.0,Alive
+286,PAMJED,Male,White,130.0,2-5,2003,2014.0,Amplified,Diploid,Unfavorable,Unknown,Unknown,559.0,Alive
+287,PAMKBM,Male,White,6.0,0-2,2003,2006.0,Not Amplified,Hyperdiploid,Favorable,3-4,Low,176.0,Alive
+288,PAMKHK,Female,White,45.0,0-2,2003,2013.0,Not Amplified,Hyperdiploid,Favorable,3-4,Low,547.0,Alive
+289,PAMLCS,Male,Black,235.0,2-5,2003,2003.0,Not Amplified,Diploid,Unfavorable,3-4,Low,12.0,Dead
+290,PAMLMY,Female,White,136.0,2-5,2003,2010.0,Not Amplified,Hyperdiploid,Unfavorable,3-4,High,370.0,Alive
+291,PAMLNB,Male,White,1.0,0-2,2003,2008.0,Not Amplified,Hyperdiploid,Favorable,3-4,Low,269.0,Alive
+292,PAMLWV,Female,White,260.0,5-10,2003,2006.0,Not Amplified,Hyperdiploid,Unfavorable,3-4,Low,159.0,Dead
+293,PAMMFV,Female,Black,161.0,2-5,2003,2006.0,Not Amplified,Hyperdiploid,Unfavorable,3-4,Intermediate,173.0,Dead
+294,PAMMWD,Male,White,116.0,2-5,2003,2004.0,Amplified,Diploid,Unfavorable,3-4,Intermediate,58.0,Dead
+295,PAMMXF,Male,Unknown,237.0,2-5,2003,2004.0,Amplified,Hyperdiploid,Unfavorable,3-4,Low,28.0,Dead
+296,PAMMYR,Male,White,221.0,2-5,2003,2006.0,Not Amplified,Hyperdiploid,Unfavorable,3-4,Intermediate,167.0,Dead
+297,PAMNAL,Female,Black,176.0,2-5,2003,2015.0,Not Amplified,Hyperdiploid,Unfavorable,3-4,Intermediate,643.0,Alive
+299,PAMNVX,Male,White,106.0,2-5,2003,2016.0,Not Amplified,Diploid,Unfavorable,1-2,High,648.0,Alive
+301,PAMPCU,Male,White,125.0,2-5,2003,2016.0,Not Amplified,Hyperdiploid,Unfavorable,3-4,High,649.0,Alive
+302,PAMPFJ,Female,White,85.0,0-2,2003,2004.0,Amplified,Hyperdiploid,Unfavorable,3-4,Intermediate,49.0,Dead
+303,PAMRKH,Female,White,172.0,2-5,2003,2008.0,Not Amplified,Diploid,Unfavorable,3-4,Low,265.0,Dead
+304,PAMRZD,Male,White,144.0,2-5,2003,2018.0,Amplified,Hyperdiploid,Unfavorable,3-4,High,784.0,Alive
+306,PAMTBI,Male,Black,218.0,2-5,2003,2018.0,Not Amplified,Hyperdiploid,Unfavorable,3-4,High,765.0,Alive
+308,PAMTUV,Male,Hispanic,685.0,10+,2003,2007.0,Not Amplified,Hyperdiploid,Unfavorable,3-4,High,175.0,Dead
+309,PAMTZV,Female,White,129.0,2-5,2003,2005.0,Amplified,Diploid,Unfavorable,3-4,Low,62.0,Dead
+310,PAMUFZ,Male,White,213.0,2-5,2003,2007.0,Amplified,Diploid,Unfavorable,3-4,High,167.0,Dead
+311,PAMUIJ,Male,White,145.0,2-5,2003,2004.0,Amplified,Hyperdiploid,Unfavorable,3-4,High,43.0,Dead
+312,PAMUTD,Male,Native American,118.0,2-5,2003,2005.0,Amplified,Hyperdiploid,Unfavorable,3-4,Low,95.0,Dead
+313,PAMVAG,Male,White,95.0,0-2,2004,2004.0,Not Amplified,Diploid,Unfavorable,3-4,Intermediate,3.0,Dead
+314,PAMVCL,Female,Black,12.0,0-2,2004,2010.0,Not Amplified,Hyperdiploid,Favorable,3-4,Low,341.0,Alive
+315,PAMVLG,Male,White,283.0,5-10,2004,2008.0,Not Amplified,Hyperdiploid,Unfavorable,3-4,Low,220.0,Dead
+318,PAMXFP,Male,White,150.0,2-5,2004,2004.0,Amplified,Hyperdiploid,Unknown,Unknown,Unknown,30.0,Dead
+321,PAMXYK,Male,White,165.0,2-5,2004,2006.0,Amplified,Diploid,Unfavorable,3-4,Intermediate,137.0,Dead
+322,PAMXYU,Female,White,26.0,0-2,2004,2011.0,Not Amplified,Hyperdiploid,Favorable,3-4,Low,365.0,Alive
+323,PAMYCE,Female,White,151.0,2-5,2004,2006.0,Not Amplified,Diploid,Unfavorable,3-4,Intermediate,142.0,Dead
+324,PAMYCK,Male,White,137.0,2-5,2004,2015.0,Amplified,Diploid,Unfavorable,3-4,Low,587.0,Alive
+325,PAMYPK,Male,White,196.0,2-5,2004,2005.0,Not Amplified,Hyperdiploid,Unfavorable,3-4,Low,85.0,Dead
+326,PAMYVA,Male,Native American,141.0,2-5,2004,2018.0,Not Amplified,Hyperdiploid,Unfavorable,3-4,Low,741.0,Alive
+328,PAMZCE,Male,White,121.0,2-5,2004,2018.0,Amplified,Diploid,Unfavorable,3-4,High,726.0,Alive
+329,PAMZGT,Male,White,86.0,0-2,2004,2015.0,Amplified,Diploid,Unknown,Unknown,Unknown,602.0,Alive
+330,PAMZMG,Female,White,88.0,0-2,2004,2006.0,Amplified,Diploid,Unfavorable,3-4,Intermediate,109.0,Dead
+331,PAMZMJ,Male,White,28.0,0-2,2004,2010.0,Not Amplified,Hyperdiploid,Favorable,3-4,Low,320.0,Alive
+332,PAMZRP,Female,White,17.0,0-2,2004,2008.0,Not Amplified,Hyperdiploid,Favorable,1-2,Low,202.0,Alive
+333,PAMZSH,Male,White,45.0,0-2,2004,2013.0,Not Amplified,Hyperdiploid,Favorable,1-2,Low,476.0,Alive
+334,PAMZYM,Male,White,170.0,2-5,2004,2014.0,Not Amplified,Diploid,Unfavorable,3-4,Intermediate,512.0,Alive
+335,PANAKY,Male,Hispanic,132.0,2-5,2004,2015.0,Amplified,Diploid,Unfavorable,3-4,Intermediate,557.0,Alive
+336,PANATP,Male,Asian,233.0,2-5,2004,2005.0,Not Amplified,Diploid,Unfavorable,3-4,Low,51.0,Dead
+337,PANBCI,Male,White,108.0,2-5,2004,2007.0,Amplified,Diploid,Unfavorable,3-4,High,150.0,Dead
+338,PANBJH,Female,Black,147.0,2-5,2004,2006.0,Not Amplified,Diploid,Unfavorable,3-4,Intermediate,131.0,Dead
+340,PANBSP,Female,White,152.0,2-5,2004,2006.0,Not Amplified,Diploid,Unfavorable,3-4,Low,94.0,Dead
+341,PANCEU,Male,Black,116.0,2-5,2004,2016.0,Not Amplified,Diploid,Unfavorable,3-4,Low,635.0,Alive
+342,PANCYF,Female,White,235.0,2-5,2004,2009.0,Amplified,Diploid,Unfavorable,3-4,High,242.0,Alive
+343,PANDGA,Female,White,95.0,0-2,2004,2013.0,Amplified,Hyperdiploid,Unfavorable,3-4,High,474.0,Alive
+344,PANDHZ,Male,Unknown,161.0,2-5,2004,2006.0,Not Amplified,Hyperdiploid,Unfavorable,3-4,Low,117.0,Dead
+345,PANDVF,Male,White,98.0,0-2,2004,2018.0,Not Amplified,Diploid,Unfavorable,3-4,High,706.0,Alive
+346,PANEYN,Female,White,79.0,0-2,2004,2004.0,Not Amplified,Hyperdiploid,Unfavorable,3-4,Low,9.0,Dead
+349,PANHUA,Female,White,204.0,2-5,2004,2005.0,Not Amplified,Diploid,Unfavorable,3-4,Intermediate,29.0,Dead
+350,PANIPC,Male,White,132.0,2-5,2004,2005.0,Amplified,Hyperdiploid,Unknown,Unknown,Unknown,30.0,Dead
+351,PANJLH,Male,White,144.0,2-5,2004,2006.0,Amplified,Diploid,Unfavorable,3-4,Intermediate,71.0,Dead
+352,PANJMD,Male,White,219.0,2-5,2002,2004.0,Not Amplified,Hyperdiploid,Unfavorable,3-4,Intermediate,117.0,Dead
+353,PANKFE,Female,White,183.0,2-5,2004,2006.0,Not Amplified,Diploid,Unfavorable,3-4,Low,57.0,Alive
+355,PANLSG,Female,White,153.0,2-5,2005,2007.0,Amplified,Hyperdiploid,Unfavorable,3-4,High,127.0,Dead
+357,PANNIJ,Male,White,155.0,2-5,2005,2007.0,Amplified,Hyperdiploid,Unknown,Unknown,Unknown,135.0,Dead
+358,PANNMS,Female,White,154.0,2-5,2005,2017.0,Not Amplified,Hyperdiploid,Unfavorable,Unknown,Unknown,621.0,Alive
+359,PANPUW,Male,White,109.0,2-5,2005,2018.0,Amplified,Diploid,Unfavorable,3-4,Intermediate,686.0,Alive
+360,PANPVI,Male,White,184.0,2-5,2005,2009.0,Not Amplified,Hyperdiploid,Unfavorable,1-2,Intermediate,244.0,Dead
+361,PANRHJ,Female,White,160.0,2-5,2005,2006.0,Not Amplified,Hyperdiploid,Unfavorable,Unknown,Unknown,59.0,Dead
+362,PANRRN,Female,White,121.0,2-5,2005,2018.0,Not Amplified,Hyperdiploid,Unfavorable,3-4,Intermediate,704.0,Alive
+363,PANRRW,Male,White,247.0,2-5,2005,2011.0,Not Amplified,Diploid,Unfavorable,Unknown,Unknown,311.0,Alive
+364,PANRVJ,Male,White,683.0,10+,2005,2018.0,Not Amplified,Hyperdiploid,Unfavorable,1-2,Intermediate,687.0,Alive
+366,PANUIF,Female,White,319.0,5-10,2005,2018.0,Not Amplified,Diploid,Unfavorable,3-4,Low,682.0,Alive
+367,PANUKV,Male,White,212.0,2-5,2005,2006.0,Amplified,Diploid,Unfavorable,3-4,Intermediate,58.0,Dead
+368,PANUVK,Female,White,147.0,2-5,2005,2010.0,Not Amplified,Hyperdiploid,Unfavorable,Unknown,Unknown,276.0,Dead
+369,PANVAN,Female,White,217.0,2-5,2005,2018.0,Amplified,Hyperdiploid,Unfavorable,3-4,High,666.0,Alive
+371,PANWAT,Female,White,161.0,2-5,2005,2015.0,Not Amplified,Hyperdiploid,Unfavorable,Unknown,Unknown,508.0,Alive
+372,PANWBG,Female,White,135.0,2-5,2005,2017.0,Amplified,Hyperdiploid,Unfavorable,Unknown,Unknown,629.0,Alive
+373,PANWRR,Male,White,420.0,5-10,2005,2006.0,Not Amplified,Diploid,Unfavorable,1-2,Low,49.0,Dead
+377,PANYGR,Male,Unknown,142.0,2-5,2005,2006.0,Not Amplified,Diploid,Unfavorable,3-4,Unknown,40.0,Dead
+378,PANYUG,Male,White,88.0,0-2,2005,2009.0,Not Amplified,Hyperdiploid,Unfavorable,3-4,Intermediate,202.0,Alive
+379,PANZHT,Male,White,208.0,2-5,2005,2012.0,Not Amplified,Hyperdiploid,Unfavorable,3-4,Intermediate,361.0,Dead
+380,PANZPV,Female,White,251.0,2-5,2005,2009.0,Not Amplified,Diploid,Unfavorable,Unknown,Unknown,180.0,Dead
+381,PANZRV,Male,White,10.0,0-2,2005,2016.0,Not Amplified,Hyperdiploid,Favorable,3-4,Intermediate,541.0,Alive
+382,PANZVU,Male,White,245.0,2-5,2005,2008.0,Not Amplified,Hyperdiploid,Unfavorable,Unknown,Unknown,133.0,Dead
+383,PAPAKS,Female,White,97.0,0-2,2005,2013.0,Amplified,Hyperdiploid,Unfavorable,3-4,Low,397.0,Alive
+384,PAPBFP,Male,White,257.0,2-5,2005,2007.0,Not Amplified,Hyperdiploid,Unfavorable,3-4,Low,84.0,Dead
+385,PAPBGH,Female,Native American,153.0,2-5,2005,2007.0,Not Amplified,Diploid,Unfavorable,3-4,Unknown,103.0,Dead
+386,PAPBJE,Male,White,266.0,5-10,2005,2015.0,Amplified,Diploid,Unfavorable,3-4,High,495.0,Alive
+387,PAPBJT,Male,White,81.0,0-2,2005,2006.0,Not Amplified,Diploid,Unknown,Unknown,Unknown,28.0,Dead
+388,PAPBWW,Male,White,127.0,2-5,2005,2016.0,Not Amplified,Hyperdiploid,Unfavorable,Unknown,Unknown,555.0,Alive
+389,PAPBZI,Male,White,244.0,2-5,2005,2007.0,Not Amplified,Hyperdiploid,Unfavorable,Unknown,Unknown,61.0,Dead
+391,PAPCTS,Male,Black,287.0,5-10,2005,2013.0,Amplified,Diploid,Unfavorable,3-4,Unknown,377.0,Dead
+392,PAPDIM,Female,Black,208.0,2-5,2005,2009.0,Not Amplified,Hyperdiploid,Unfavorable,3-4,Low,187.0,Dead
+394,PAPEAV,Female,White,99.0,0-2,2005,2018.0,Not Amplified,Hyperdiploid,Unfavorable,1-2,Low,651.0,Alive
+395,PAPEFE,Male,Black,141.0,2-5,2005,2006.0,Amplified,Diploid,Unfavorable,3-4,Intermediate,21.0,Dead
+396,PAPEJW,Female,Asian,108.0,2-5,2006,2007.0,Amplified,Diploid,Unfavorable,3-4,Intermediate,56.0,Dead
+397,PAPEVV,Male,White,150.0,2-5,2006,2014.0,Amplified,Hyperdiploid,Unfavorable,3-4,High,447.0,Alive
+398,PAPGJR,Female,White,87.0,0-2,2006,2006.0,Amplified,Diploid,Unfavorable,3-4,Intermediate,4.0,Dead
+399,PAPHGF,Female,Black,127.0,2-5,2006,2006.0,Amplified,Diploid,Unfavorable,Unknown,Unknown,3.0,Dead
+400,PAPHPE,Male,Black,115.0,2-5,2006,2007.0,Not Amplified,Hyperdiploid,Unfavorable,Unknown,Unknown,67.0,Dead
+401,PAPICY,Female,White,8.0,0-2,2006,2006.0,Not Amplified,Hyperdiploid,Favorable,3-4,Intermediate,29.0,Alive
+403,PAPKWN,Female,White,101.0,0-2,2006,2007.0,Amplified,Hyperdiploid,Unfavorable,3-4,High,66.0,Dead
+404,PAPKXS,Female,White,364.0,5-10,2006,2012.0,Not Amplified,Hyperdiploid,Unfavorable,3-4,Intermediate,341.0,Dead
+405,PAPLSD,Male,White,101.0,0-2,2006,2010.0,Not Amplified,Diploid,Unknown,Unknown,Unknown,198.0,Dead
+406,PAPNEP,Male,White,103.0,0-2,2006,2007.0,Amplified,Diploid,Unfavorable,Unknown,Unknown,29.0,Dead
+408,PAPREJ,Female,White,544.0,10+,2006,2010.0,Amplified,Hyperdiploid,Unfavorable,Unknown,Unknown,183.0,Dead
+410,PAPRPR,Female,White,88.0,0-2,2006,2010.0,Amplified,Diploid,Unfavorable,Unknown,Unknown,226.0,Dead
+412,PAPRXW,Male,White,127.0,2-5,2006,2017.0,Amplified,Diploid,Unfavorable,3-4,Intermediate,556.0,Alive
+413,PAPSEI,Female,White,82.0,0-2,2006,2012.0,Amplified,Diploid,Unfavorable,3-4,Intermediate,294.0,Dead
+414,PAPSKM,Male,Native American,190.0,2-5,2006,2009.0,Not Amplified,Hyperdiploid,Unfavorable,3-4,High,146.0,Dead
+415,PAPSMC,Male,Hispanic,191.0,2-5,2006,2018.0,Amplified,Hyperdiploid,Unfavorable,Unknown,Unknown,604.0,Alive
+418,PAPTCR,Female,White,108.0,2-5,2006,2007.0,Unknown,Unknown,Unknown,Unknown,Unknown,65.0,Dead
+419,PAPTDH,Female,White,2.0,0-2,2006,2015.0,Not Amplified,Hyperdiploid,Favorable,3-4,Low,466.0,Alive
+420,PAPTFZ,Male,Black,81.0,0-2,2006,2008.0,Amplified,Hyperdiploid,Unfavorable,3-4,High,111.0,Dead
+421,PAPTIP,Male,White,173.0,2-5,2006,2010.0,Amplified,Hyperdiploid,Unfavorable,3-4,High,213.0,Dead
+422,PAPTJB,Male,White,284.0,5-10,2006,2017.0,Not Amplified,Hyperdiploid,Unfavorable,Unknown,Unknown,564.0,Alive
+424,PAPTLD,Male,White,178.0,2-5,2006,2014.0,Not Amplified,Hyperdiploid,Unfavorable,3-4,High,383.0,Dead
+425,PAPTLV,Female,White,92.0,0-2,2006,2008.0,Amplified,Diploid,Unfavorable,3-4,Low,82.0,Dead
+426,PAPTLY,Female,White,216.0,2-5,2006,2017.0,Amplified,Hyperdiploid,Unfavorable,Unknown,Unknown,563.0,Alive
+427,PAPTMM,Female,White,80.0,0-2,2006,2017.0,Amplified,Diploid,Unfavorable,3-4,Unknown,566.0,Alive
+428,PAPUAR,Female,Asian,74.0,0-2,2006,2017.0,Not Amplified,Diploid,Favorable,3-4,Intermediate,541.0,Alive
+429,PAPUEB,Female,White,228.0,2-5,2006,2014.0,Not Amplified,Hyperdiploid,Unfavorable,3-4,Unknown,396.0,Alive
+431,PAPUNH,Female,White,489.0,5-10,2006,2015.0,Amplified,Hyperdiploid,Unfavorable,3-4,High,473.0,Alive
+433,PAPUWY,Female,White,279.0,5-10,2006,2009.0,Not Amplified,Diploid,Unfavorable,3-4,High,157.0,Dead
+434,PAPVEB,Male,White,246.0,2-5,2006,2010.0,Not Amplified,Hyperdiploid,Unfavorable,1-2,Intermediate,173.0,Dead
+435,PAPVFD,Male,White,280.0,5-10,2006,2011.0,Not Amplified,Hyperdiploid,Unfavorable,Unknown,Unknown,252.0,Dead
+437,PAPVXS,Male,Black,195.0,2-5,2006,2007.0,Not Amplified,Diploid,Unfavorable,3-4,High,32.0,Dead
+439,PAPWUC,Male,White,140.0,2-5,2006,2016.0,Not Amplified,Hyperdiploid,Unfavorable,3-4,Intermediate,519.0,Alive
+440,PAPYNZ,Male,White,146.0,2-5,2007,2007.0,Amplified,Hyperdiploid,Unfavorable,Unknown,Unknown,48.0,Dead
+442,PAPZWS,Female,White,80.0,0-2,2007,2007.0,Amplified,Diploid,Unfavorable,3-4,High,34.0,Dead
+443,PAPZYP,Female,White,144.0,2-5,2007,2013.0,Amplified,Diploid,Unfavorable,3-4,Unknown,341.0,Alive
+444,PAPZYZ,Female,Black,79.0,0-2,2007,2010.0,Amplified,Hyperdiploid,Unknown,Unknown,Unknown,173.0,Alive
+446,PARABN,Male,White,139.0,2-5,2007,2009.0,Amplified,Hyperdiploid,Unknown,Unknown,Unknown,118.0,Dead
+448,PARACR,Male,White,170.0,2-5,2007,2017.0,Unknown,Unknown,Unfavorable,3-4,Unknown,537.0,Alive
+449,PARACS,Male,White,169.0,2-5,2007,2010.0,Not Amplified,Hyperdiploid,Unfavorable,3-4,High,190.0,Alive
+450,PARAHE,Male,White,189.0,2-5,2007,2013.0,Not Amplified,Diploid,Unfavorable,3-4,Intermediate,319.0,Dead
+453,PARBAJ,Male,White,5.0,0-2,2007,2015.0,Not Amplified,Hyperdiploid,Favorable,3-4,Intermediate,446.0,Alive
+454,PARBGP,Female,Black,518.0,5-10,2007,2012.0,Not Amplified,Diploid,Unfavorable,3-4,High,291.0,Dead
+456,PARCET,Female,White,6.0,0-2,2007,2017.0,Not Amplified,Hyperdiploid,Favorable,Unknown,Unknown,536.0,Alive
+460,PARDIW,Male,White,293.0,5-10,2007,2018.0,Not Amplified,Hyperdiploid,Unfavorable,3-4,Intermediate,561.0,Alive
+461,PARDUJ,Female,Black,150.0,2-5,2007,2018.0,Not Amplified,Unknown,Unfavorable,3-4,Low,577.0,Alive
+462,PARDVT,Male,White,191.0,2-5,2007,2009.0,Not Amplified,Diploid,Unfavorable,Unknown,Unknown,105.0,Alive
+463,PARDYU,Male,White,277.0,5-10,2007,2010.0,Amplified,Diploid,Unfavorable,3-4,High,159.0,Dead
+465,PAREGK,Male,White,81.0,0-2,2007,2017.0,Not Amplified,Hyperdiploid,Unfavorable,3-4,High,529.0,Alive
+466,PARETE,Male,White,98.0,0-2,2007,2008.0,Amplified,Hyperdiploid,Unfavorable,3-4,Intermediate,37.0,Dead
+467,PARFBW,Male,Black,108.0,2-5,2007,2018.0,Unknown,Unknown,Unknown,Unknown,Unknown,570.0,Alive
+468,PARFRE,Female,Unknown,9.0,0-2,2007,2014.0,Not Amplified,Hyperdiploid,Favorable,Unknown,Unknown,350.0,Alive
+469,PARFWB,Male,White,222.0,2-5,2007,2012.0,Not Amplified,Diploid,Unfavorable,3-4,Low,262.0,Dead
+470,PARGDJ,Male,Black,159.0,2-5,2007,2009.0,Not Amplified,Hyperdiploid,Favorable,1-2,Low,112.0,Dead
+472,PARGKK,Male,Black,320.0,5-10,2007,2011.0,Not Amplified,Diploid,Unfavorable,1-2,Low,189.0,Dead
+473,PARGUX,Female,Black,243.0,2-5,2007,2012.0,Not Amplified,Diploid,Unfavorable,3-4,Low,267.0,Alive
+474,PARGZK,Male,White,226.0,2-5,2007,2007.0,Amplified,Diploid,Unfavorable,Unknown,Unknown,23.0,Alive
+475,PARHAM,Female,White,49.0,0-2,2007,2014.0,Not Amplified,Hyperdiploid,Favorable,Unknown,Unknown,352.0,Dead
+476,PARHDE,Male,Hispanic,120.0,2-5,2007,2008.0,Amplified,Hyperdiploid,Unfavorable,3-4,High,70.0,Dead
+477,PARHUX,Female,White,100.0,0-2,2007,2008.0,Amplified,Hyperdiploid,Unfavorable,3-4,High,73.0,Dead
+478,PARHYL,Female,Black,199.0,2-5,2007,2018.0,Not Amplified,Hyperdiploid,Unfavorable,3-4,Intermediate,549.0,Alive
+479,PARIKF,Male,White,119.0,2-5,2007,2015.0,Amplified,Diploid,Unfavorable,3-4,High,401.0,Alive
+481,PARIRD,Male,White,105.0,2-5,2007,2007.0,Amplified,Hyperdiploid,Unfavorable,Unknown,Unknown,15.0,Dead
+483,PARJEN,Male,White,104.0,2-5,2007,2009.0,Amplified,Diploid,Unfavorable,3-4,Intermediate,111.0,Dead
+484,PARJMX,Female,Hispanic,129.0,2-5,2007,2018.0,Not Amplified,Hyperdiploid,Unfavorable,3-4,Low,585.0,Alive
+485,PARJTB,Male,White,94.0,0-2,2007,2012.0,Amplified,Diploid,Unfavorable,3-4,High,273.0,Dead
+486,PARJVP,Male,Unknown,8.0,0-2,2007,2013.0,Not Amplified,Hyperdiploid,Favorable,3-4,Unknown,295.0,Alive
+487,PARKAG,Female,Unknown,195.0,2-5,2007,2009.0,Amplified,Diploid,Unknown,Unknown,Unknown,123.0,Dead
+488,PARKGJ,Male,White,231.0,2-5,2007,2012.0,Not Amplified,Hyperdiploid,Unfavorable,3-4,High,234.0,Dead
+489,PARKNP,Female,White,459.0,5-10,2007,2009.0,Not Amplified,Diploid,Unfavorable,3-4,Low,93.0,Dead
+490,PARKZF,Male,White,104.0,2-5,2007,2014.0,Amplified,Diploid,Unfavorable,3-4,High,370.0,Alive
+493,PARMDD,Female,Black,169.0,2-5,2007,2018.0,Not Amplified,Diploid,Unfavorable,3-4,Intermediate,537.0,Alive
+495,PARMLF,Male,Hispanic,359.0,5-10,2007,2013.0,Not Amplified,Diploid,Unfavorable,3-4,Low,292.0,Alive
+498,PARNCW,Female,Unknown,234.0,2-5,2007,2010.0,Not Amplified,Diploid,Unfavorable,3-4,Low,139.0,Dead
+499,PARNEE,Female,White,153.0,2-5,2007,2008.0,Amplified,Diploid,Unfavorable,3-4,Intermediate,45.0,Dead
+500,PARNLJ,Female,White,95.0,0-2,2007,2009.0,Amplified,Hyperdiploid,Unfavorable,3-4,High,78.0,Dead
+501,PARNNC,Female,White,6.0,0-2,2007,2018.0,Not Amplified,Hyperdiploid,Favorable,3-4,Low,582.0,Alive
+502,PARNNG,Male,White,191.0,2-5,2007,2012.0,Not Amplified,Hyperdiploid,Unfavorable,3-4,Low,243.0,Alive
+503,PARNTS,Male,White,148.0,2-5,2007,2013.0,Amplified,Hyperdiploid,Unfavorable,3-4,High,295.0,Alive
+504,PARPGU,Female,White,164.0,2-5,2007,2011.0,Unknown,Unknown,Unfavorable,3-4,Unknown,197.0,Dead
+505,PARRBU,Male,White,207.0,2-5,2007,2010.0,Amplified,Hyperdiploid,Unfavorable,3-4,High,130.0,Dead
+506,PARRLH,Female,White,186.0,2-5,2007,2009.0,Not Amplified,Diploid,Unfavorable,3-4,High,77.0,Dead
+507,PARSBI,Female,White,341.0,5-10,2007,2012.0,Not Amplified,Hyperdiploid,Unfavorable,3-4,Low,249.0,Dead
+509,PARSHT,Male,White,107.0,2-5,2007,2018.0,Amplified,Hyperdiploid,Unfavorable,3-4,Intermediate,527.0,Alive
+510,PARSRJ,Male,White,272.0,5-10,2007,2016.0,Amplified,Hyperdiploid,Unfavorable,3-4,Intermediate,461.0,Alive
+511,PARUPN,Female,White,519.0,5-10,2008,2009.0,Unknown,Diploid,Unfavorable,3-4,Intermediate,59.0,Dead
+512,PARURB,Male,Black,311.0,5-10,2008,2010.0,Not Amplified,Hyperdiploid,Unfavorable,3-4,Low,103.0,Dead
+514,PARVFJ,Male,White,195.0,2-5,2008,2018.0,Not Amplified,Diploid,Unfavorable,3-4,Low,545.0,Alive
+516,PARVME,Male,White,214.0,2-5,2008,2018.0,Not Amplified,Hyperdiploid,Unfavorable,3-4,High,556.0,Alive
+518,PARVRR,Male,White,101.0,0-2,2008,2009.0,Amplified,Hyperdiploid,Unfavorable,3-4,Intermediate,82.0,Dead
+519,PARXLM,Female,White,94.0,0-2,2008,2010.0,Not Amplified,Hyperdiploid,Unfavorable,3-4,Intermediate,107.0,Dead
+520,PARXZR,Female,Unknown,161.0,2-5,2008,2011.0,Not Amplified,Hyperdiploid,Unfavorable,3-4,Low,154.0,Dead
+521,PARYMN,Female,White,228.0,2-5,2008,2011.0,Not Amplified,Hyperdiploid,Unfavorable,3-4,Intermediate,155.0,Dead
+522,PARYNK,Female,White,326.0,5-10,2008,2018.0,Not Amplified,Diploid,Unfavorable,3-4,Intermediate,542.0,Alive
+524,PARZCJ,Male,White,35.0,0-2,2008,2017.0,Not Amplified,Hyperdiploid,Favorable,3-4,Low,556.0,Alive
+525,PARZHA,Male,Unknown,0.0,0-2,2008,2018.0,Not Amplified,Hyperdiploid,Favorable,3-4,Low,518.0,Alive
+526,PARZIP,Male,Unknown,325.0,5-10,2008,2018.0,Not Amplified,Hyperdiploid,Unfavorable,3-4,Low,512.0,Alive
+527,PARZMY,Male,White,242.0,2-5,2008,2018.0,Amplified,Diploid,Unfavorable,3-4,Low,524.0,Alive
+528,PASAAN,Male,White,218.0,2-5,2008,2018.0,Not Amplified,Hyperdiploid,Unfavorable,3-4,Low,561.0,Alive
+530,PASATK,Male,White,128.0,2-5,2008,2012.0,Not Amplified,Hyperdiploid,Unfavorable,3-4,High,208.0,Dead
+531,PASAZJ,Male,Unknown,252.0,2-5,2008,2014.0,Not Amplified,Hyperdiploid,Unfavorable,3-4,High,338.0,Alive
+534,PASCDX,Female,White,93.0,0-2,2008,2009.0,Amplified,Hyperdiploid,Unfavorable,3-4,High,27.0,Dead
+535,PASCFC,Male,White,3.0,0-2,2008,2018.0,Not Amplified,Hyperdiploid,Favorable,3-4,Low,517.0,Alive
+536,PASCJJ,Female,Black,188.0,2-5,2008,2014.0,Not Amplified,Hyperdiploid,Unfavorable,3-4,High,286.0,Dead
+538,PASCLP,Male,White,92.0,0-2,2008,2018.0,Amplified,Hyperdiploid,Unfavorable,3-4,High,524.0,Alive
+539,PASCTR,Male,White,9.0,0-2,2008,2018.0,Not Amplified,Hyperdiploid,Favorable,3-4,Low,529.0,Alive
+540,PASCUF,Male,Black,232.0,2-5,2008,2010.0,Not Amplified,Hyperdiploid,Unknown,3-4,High,119.0,Dead
+541,PASDZJ,Female,White,129.0,2-5,2008,2009.0,Amplified,Diploid,Unfavorable,3-4,Intermediate,47.0,Dead
+543,PASFGG,Female,White,148.0,2-5,2008,2010.0,Not Amplified,Hyperdiploid,Unfavorable,3-4,High,100.0,Dead
+544,PASFIC,Male,White,7.0,0-2,2008,2017.0,Not Amplified,Hyperdiploid,Favorable,3-4,Low,547.0,Alive
+545,PASFNY,Female,White,135.0,2-5,2008,2018.0,Amplified,Hyperdiploid,Unfavorable,3-4,Intermediate,531.0,Alive
+548,PASGPY,Female,White,282.0,5-10,2008,2012.0,Not Amplified,Hyperdiploid,Unfavorable,3-4,Low,205.0,Dead
+550,PASHFA,Female,White,58.0,0-2,2008,2009.0,Amplified,Diploid,Unfavorable,3-4,High,48.0,Dead
+551,PASJRT,Female,White,106.0,2-5,2008,2012.0,Amplified,Diploid,Unfavorable,3-4,High,202.0,Alive
+552,PASJYB,Female,White,75.0,0-2,2009,2010.0,Amplified,Diploid,Unfavorable,3-4,High,97.0,Dead
+553,PASJZC,Female,White,11.0,0-2,2009,2016.0,Amplified,Hyperdiploid,Favorable,3-4,Low,376.0,Alive
+554,PASKFV,Male,White,142.0,2-5,2009,2010.0,Amplified,Hyperdiploid,Unfavorable,3-4,Low,57.0,Dead
+555,PASKJX,Male,White,1064.0,10+,2009,2013.0,Not Amplified,Diploid,Unfavorable,3-4,Intermediate,240.0,Dead
+557,PASLGS,Male,Unknown,174.0,2-5,2009,2011.0,Not Amplified,Hyperdiploid,Unfavorable,3-4,Intermediate,119.0,Dead
+558,PASMDM,Male,White,4.0,0-2,2009,2012.0,Not Amplified,Hyperdiploid,Favorable,3-4,Low,189.0,Alive
+560,PASMNT,Female,Native American,686.0,10+,2009,2013.0,Not Amplified,Hyperdiploid,Unfavorable,3-4,Intermediate,242.0,Dead
+561,PASNEF,Female,Hispanic,99.0,0-2,2009,2018.0,Not Amplified,Hyperdiploid,Unfavorable,3-4,Intermediate,462.0,Dead
+562,PASNML,Male,Unknown,1.0,0-2,2009,2018.0,Not Amplified,Hyperdiploid,Favorable,3-4,Intermediate,485.0,Alive
+563,PASNPG,Female,Black,45.0,0-2,2009,2017.0,Not Amplified,Hyperdiploid,Favorable,3-4,Intermediate,431.0,Alive
+564,PASNZU,Male,Black,157.0,2-5,2009,2013.0,Amplified,Diploid,Unfavorable,3-4,High,242.0,Dead
+565,PASPBZ,Male,Black,9.0,0-2,2009,2018.0,Not Amplified,Diploid,Unfavorable,3-4,High,491.0,Alive
+566,PASPER,Female,White,108.0,2-5,2009,2018.0,Not Amplified,Diploid,Unfavorable,3-4,Low,507.0,Alive
+567,PASREY,Female,White,11.0,0-2,2009,2018.0,Not Amplified,Hyperdiploid,Favorable,3-4,Low,488.0,Alive
+568,PASRFS,Female,White,190.0,2-5,2009,2016.0,Not Amplified,Diploid,Unfavorable,3-4,Intermediate,394.0,Dead
+569,PASSRN,Male,White,764.0,10+,2009,2017.0,Amplified,Hyperdiploid,Unfavorable,3-4,Low,445.0,Alive
+570,PASSRS,Male,Unknown,356.0,5-10,2009,2012.0,Not Amplified,Hyperdiploid,Unfavorable,3-4,Intermediate,188.0,Dead
+571,PASSWB,Male,White,130.0,2-5,2009,2018.0,Amplified,Diploid,Unfavorable,3-4,High,481.0,Alive
+572,PASSWW,Male,White,1.0,0-2,2009,2018.0,Not Amplified,Diploid,Favorable,3-4,Low,463.0,Alive
+573,PASTCN,Male,White,271.0,5-10,2009,2012.0,Not Amplified,Diploid,Unfavorable,3-4,Intermediate,148.0,Dead
+574,PASTKC,Male,White,434.0,5-10,2009,2018.0,Not Amplified,Hyperdiploid,Unfavorable,3-4,Low,498.0,Alive
+575,PASTKW,Female,Hispanic,102.0,0-2,2009,2018.0,Not Amplified,Diploid,Unfavorable,3-4,Low,461.0,Alive
+576,PASTXR,Male,Unknown,157.0,2-5,2009,2018.0,Not Amplified,Hyperdiploid,Unfavorable,3-4,High,480.0,Alive
+577,PASUCB,Male,White,144.0,2-5,2009,2018.0,Not Amplified,Diploid,Unfavorable,3-4,Low,460.0,Alive
+578,PASUML,Male,Black,1.0,0-2,2009,2009.0,Not Amplified,Diploid,Favorable,3-4,Low,3.0,Dead
+579,PASUYG,Male,Black,203.0,2-5,2009,2016.0,Not Amplified,Hyperdiploid,Unfavorable,3-4,Intermediate,342.0,Dead
+580,PASVRU,Male,White,90.0,0-2,2009,2010.0,Amplified,Diploid,Unfavorable,3-4,High,63.0,Dead
+582,PASWFB,Female,Black,104.0,2-5,2009,2009.0,Amplified,Hyperdiploid,Unfavorable,3-4,High,12.0,Dead
+583,PASWIJ,Male,White,362.0,5-10,2009,2018.0,Not Amplified,Hyperdiploid,Unfavorable,3-4,Intermediate,457.0,Alive
+584,PASWLY,Male,White,140.0,2-5,2009,2018.0,Not Amplified,Diploid,Unfavorable,3-4,Low,476.0,Alive
+586,PASWYR,Male,White,137.0,2-5,2009,2017.0,Amplified,Hyperdiploid,Unfavorable,3-4,High,489.0,Alive
+588,PASXHE,Male,Black,205.0,2-5,2009,2016.0,Not Amplified,Diploid,Unfavorable,3-4,Intermediate,355.0,Alive
+589,PASXIE,Male,White,120.0,2-5,2009,2017.0,Amplified,Diploid,Unfavorable,3-4,Intermediate,398.0,Alive
+590,PASXNN,Male,Unknown,514.0,5-10,2009,2018.0,Not Amplified,Hyperdiploid,Unfavorable,3-4,Intermediate,447.0,Alive
+592,PASXRJ,Female,White,83.0,0-2,2009,2018.0,Not Amplified,Diploid,Unfavorable,3-4,Low,471.0,Alive
+594,PASYMX,Female,White,413.0,5-10,2009,2011.0,Not Amplified,Hyperdiploid,Unfavorable,3-4,High,117.0,Alive
+595,PASYPX,Female,White,216.0,2-5,2009,2018.0,Not Amplified,Hyperdiploid,Unfavorable,3-4,Intermediate,454.0,Alive
+596,PASZKE,Male,White,4.0,0-2,2009,2009.0,Not Amplified,Hyperdiploid,Unknown,3-4,High,1.0,Dead
+597,PASZPI,Male,White,92.0,0-2,2009,2012.0,Amplified,Hyperdiploid,Unfavorable,3-4,High,145.0,Dead
+598,PATAYJ,Male,White,7.0,0-2,2009,2018.0,Not Amplified,Hyperdiploid,Favorable,3-4,Low,432.0,Alive
+600,PATCFL,Male,White,149.0,2-5,2009,2018.0,Not Amplified,Diploid,Unfavorable,3-4,Intermediate,485.0,Alive
+601,PATDWN,Male,Hispanic,205.0,2-5,2009,2010.0,Amplified,Diploid,Unfavorable,3-4,High,40.0,Alive
+602,PATDXC,Male,White,237.0,2-5,2009,2012.0,Not Amplified,Hyperdiploid,Unfavorable,3-4,High,131.0,Dead
+603,PATDXG,Male,White,98.0,0-2,2009,2018.0,Amplified,Hyperdiploid,Unfavorable,3-4,High,430.0,Alive
+606,PATESI,Male,Black,107.0,2-5,2010,2012.0,Amplified,Diploid,Unfavorable,3-4,High,137.0,Dead
+607,PATFCY,Male,White,149.0,2-5,2010,2012.0,Not Amplified,Hyperdiploid,Unfavorable,3-4,High,112.0,Dead
+608,PATFIN,Female,White,90.0,0-2,2010,2013.0,Amplified,Diploid,Unfavorable,3-4,High,195.0,Dead
+609,PATFXV,Female,White,93.0,0-2,2010,2010.0,Amplified,Diploid,Unfavorable,3-4,High,42.0,Dead
+610,PATGJU,Female,White,8.0,0-2,2010,2013.0,Not Amplified,Hyperdiploid,Favorable,3-4,Low,174.0,Alive
+611,PATGLU,Male,White,148.0,2-5,2010,2013.0,Not Amplified,Diploid,Unfavorable,3-4,Intermediate,190.0,Dead
+612,PATGWT,Male,Black,84.0,0-2,2010,2012.0,Amplified,Diploid,Unfavorable,3-4,High,133.0,Dead
+613,PATHKB,Male,White,1.0,0-2,2010,2017.0,Not Amplified,Hyperdiploid,Favorable,3-4,Low,380.0,Alive
+614,PATHVK,Female,White,301.0,5-10,2010,2018.0,Not Amplified,Hyperdiploid,Unfavorable,3-4,High,409.0,Alive
+615,PATILE,Male,White,118.0,2-5,2010,2011.0,Not Amplified,Diploid,Unfavorable,3-4,Intermediate,44.0,Dead
+616,PATINJ,Male,White,148.0,2-5,2010,2012.0,Not Amplified,Diploid,Unfavorable,3-4,Intermediate,117.0,Dead
+617,PATNKP,Male,White,492.0,5-10,2010,2014.0,Not Amplified,Hyperdiploid,Unfavorable,3-4,Intermediate,221.0,Dead
+618,PATYIL,Female,White,47.0,0-2,2011,2012.0,Not Amplified,Diploid,Favorable,3-4,Intermediate,69.0,Dead
+619,PAUDDK,Male,Black,52.0,0-2,2011,2018.0,Not Amplified,Hyperdiploid,Favorable,3-4,Low,367.0,Alive
+0,PARPUF,Male,White,14.0,0-2,2007,2017.0,Not Amplified,Hyperdiploid,Favorable,3-4,Low,529.0,Alive
+1,PARSVF,Male,White,138.0,2-5,2007,2012.0,Not Amplified,Diploid,Unfavorable,3-4,High,217.0,Dead
+2,PARSXI,Female,White,77.0,0-2,2007,2018.0,Not Amplified,Hyperdiploid,Favorable,3-4,Low,561.0,Alive
+3,PARSZV,Male,White,41.0,0-2,2008,2018.0,Not Amplified,Hyperdiploid,Favorable,3-4,Low,571.0,Alive
+4,PARTCE,Male,White,10.0,0-2,2008,2017.0,Not Amplified,Hyperdiploid,Favorable,3-4,Low,518.0,Alive
+5,PARTPF,Female,Unknown,33.0,0-2,2008,2018.0,Not Amplified,Hyperdiploid,Favorable,3-4,Low,550.0,Alive
+6,PARTRP,Female,White,134.0,2-5,2008,2018.0,Not Amplified,Hyperdiploid,Unfavorable,3-4,Low,544.0,Alive
+7,PARTYI,Female,White,17.0,0-2,2008,2014.0,Not Amplified,Hyperdiploid,Favorable,3-4,Low,329.0,Alive
+8,PARTZW,Female,White,49.0,0-2,2008,2008.0,Not Amplified,Hyperdiploid,Favorable,3-4,Intermediate,5.0,Dead
+9,PARUCL,Male,White,282.0,5-10,2008,2017.0,Not Amplified,Hyperdiploid,Unfavorable,3-4,Intermediate,489.0,Alive
+10,PARUCM,Female,White,72.0,0-2,2008,2014.0,Not Amplified,Hyperdiploid,Favorable,3-4,Intermediate,319.0,Alive
+11,PARUGX,Male,White,36.0,0-2,2008,2018.0,Not Amplified,Hyperdiploid,Favorable,3-4,Low,525.0,Alive
+12,PARUPT,Male,White,142.0,2-5,2008,2008.0,Not Amplified,Hyperdiploid,Unfavorable,3-4,Intermediate,25.0,Alive
+13,PARUTJ,Female,White,99.0,0-2,2008,2008.0,Not Amplified,Hyperdiploid,Unfavorable,3-4,Low,24.0,Alive
+14,PARUTX,Female,White,54.0,0-2,2008,2018.0,Amplified,Diploid,Unfavorable,3-4,Intermediate,522.0,Alive
+15,PARVHG,Male,White,104.0,2-5,2008,2013.0,Unknown,Unknown,Unknown,Unknown,Unknown,273.0,Alive
+16,PARVIH,Male,White,26.0,0-2,2008,2012.0,Not Amplified,Hyperdiploid,Favorable,3-4,Low,220.0,Alive
+17,PARVMU,Female,White,18.0,0-2,2008,2014.0,Not Amplified,Hyperdiploid,Favorable,3-4,Low,326.0,Dead
+18,PARVVM,Male,White,49.0,0-2,2008,2009.0,Amplified,Hyperdiploid,Unknown,Unknown,Unknown,45.0,Dead
+19,PARVWL,Female,Unknown,181.0,2-5,2008,2010.0,Not Amplified,Hyperdiploid,Unfavorable,3-4,High,138.0,Dead
+20,PARVZT,Female,White,112.0,2-5,2008,2018.0,Not Amplified,Hyperdiploid,Unfavorable,3-4,Low,545.0,Alive
+22,PARWBC,Female,Black,8.0,0-2,2008,2012.0,Not Amplified,Hyperdiploid,Favorable,3-4,Low,238.0,Alive
+23,PARWEH,Male,White,58.0,0-2,2008,2015.0,Not Amplified,Hyperdiploid,Favorable,3-4,Low,372.0,Alive
+24,PARWEV,Female,White,71.0,0-2,2008,2018.0,Not Amplified,Hyperdiploid,Favorable,3-4,Intermediate,532.0,Alive
+25,PARWTY,Male,White,17.0,0-2,2008,2018.0,Not Amplified,Hyperdiploid,Favorable,3-4,Intermediate,522.0,Alive
+26,PARXAX,Female,White,40.0,0-2,2008,2018.0,Not Amplified,Diploid,Unknown,3-4,Unknown,537.0,Alive
+27,PARXLL,Male,Black,42.0,0-2,2008,2013.0,Not Amplified,Hyperdiploid,Favorable,3-4,Intermediate,298.0,Alive
+28,PARXLN,Male,White,31.0,0-2,2008,2018.0,Not Amplified,Hyperdiploid,Favorable,3-4,Low,526.0,Alive
+29,PARXMH,Female,Unknown,35.0,0-2,2008,2018.0,Not Amplified,Hyperdiploid,Favorable,3-4,Low,539.0,Alive
+30,PARXMM,Male,Black,92.0,0-2,2008,2018.0,Unknown,Unknown,Unfavorable,3-4,High,557.0,Alive
+31,PARXPD,Male,White,42.0,0-2,2008,2018.0,Not Amplified,Hyperdiploid,Favorable,3-4,Intermediate,562.0,Alive
+32,PARXVA,Male,White,12.0,0-2,2008,2014.0,Not Amplified,Hyperdiploid,Favorable,3-4,Low,321.0,Alive
+33,PARXXC,Male,White,247.0,2-5,2008,2010.0,Not Amplified,Diploid,Unfavorable,3-4,High,97.0,Dead
+34,PARXZA,Female,White,52.0,0-2,2008,2018.0,Not Amplified,Hyperdiploid,Favorable,3-4,Intermediate,553.0,Alive
+35,PARYEH,Female,White,29.0,0-2,2008,2018.0,Not Amplified,Hyperdiploid,Favorable,3-4,Intermediate,582.0,Alive
+36,PARYRJ,Female,White,57.0,0-2,2008,2016.0,Not Amplified,Hyperdiploid,Favorable,3-4,Intermediate,450.0,Alive
+37,PARYSR,Male,White,73.0,0-2,2008,2018.0,Amplified,Diploid,Unfavorable,3-4,High,511.0,Alive
+38,PARYUK,Male,White,48.0,0-2,2008,2018.0,Not Amplified,Hyperdiploid,Unfavorable,3-4,High,553.0,Alive
+39,PARYVD,Female,Black,110.0,2-5,2008,2017.0,Amplified,Hyperdiploid,Unfavorable,3-4,High,489.0,Alive
+40,PARYWX,Male,White,59.0,0-2,2008,2018.0,Not Amplified,Hyperdiploid,Favorable,3-4,Intermediate,544.0,Alive
+41,PARZBH,Male,White,38.0,0-2,2008,2018.0,Not Amplified,Hyperdiploid,Favorable,3-4,Low,521.0,Alive
+42,PARZKK,Male,Native American,59.0,0-2,2008,2009.0,Amplified,Hyperdiploid,Unknown,Unknown,Unknown,80.0,Alive
+43,PARZNV,Male,White,68.0,0-2,2008,2018.0,Amplified,Hyperdiploid,Favorable,3-4,Low,524.0,Alive
+45,PARZZD,Male,White,95.0,0-2,2008,2015.0,Amplified,Diploid,Unfavorable,3-4,Intermediate,384.0,Alive
+46,PASAAB,Male,White,39.0,0-2,2008,2018.0,Not Amplified,Hyperdiploid,Favorable,3-4,Low,546.0,Alive
+48,PASAHC,Female,White,74.0,0-2,2008,2018.0,Not Amplified,Hyperdiploid,Favorable,1-2,Intermediate,540.0,Alive
+49,PASAJY,Male,White,21.0,0-2,2008,2018.0,Not Amplified,Hyperdiploid,Favorable,3-4,Low,508.0,Alive
+50,PASALE,Female,Black,240.0,2-5,2008,2018.0,Not Amplified,Hyperdiploid,Favorable,1-2,Low,524.0,Alive
+52,PASATF,Male,White,19.0,0-2,2008,2017.0,Not Amplified,Hyperdiploid,Favorable,3-4,Low,483.0,Alive
+53,PASAVJ,Male,Black,2.0,0-2,2008,2018.0,Not Amplified,Hyperdiploid,Favorable,3-4,Intermediate,530.0,Alive
+54,PASAZZ,Female,White,274.0,5-10,2008,2015.0,Not Amplified,Hyperdiploid,Unfavorable,3-4,Intermediate,349.0,Alive
+55,PASBDN,Male,White,7.0,0-2,2008,2018.0,Not Amplified,Hyperdiploid,Favorable,3-4,Low,539.0,Alive
+56,PASBJY,Female,Unknown,10.0,0-2,2008,2017.0,Not Amplified,Hyperdiploid,Favorable,3-4,Intermediate,485.0,Alive
+57,PASBKP,Female,Black,54.0,0-2,2008,2018.0,Not Amplified,Hyperdiploid,Favorable,3-4,Low,527.0,Alive
+58,PASBMW,Male,Asian,235.0,2-5,2008,2018.0,Amplified,Diploid,Unfavorable,3-4,High,498.0,Alive
+59,PASBPN,Female,Hispanic,40.0,0-2,2008,2018.0,Not Amplified,Hyperdiploid,Favorable,3-4,Low,572.0,Alive
+61,PASBZV,Female,White,5.0,0-2,2008,2008.0,Not Amplified,Hyperdiploid,Favorable,3-4,Intermediate,2.0,Dead
+62,PASCEW,Male,Black,211.0,2-5,2008,2011.0,Not Amplified,Hyperdiploid,Unfavorable,3-4,Unknown,161.0,Dead
+63,PASCFA,Male,White,5.0,0-2,2008,2015.0,Not Amplified,Hyperdiploid,Favorable,3-4,Low,348.0,Alive
+64,PASCFD,Female,White,26.0,0-2,2008,2013.0,Not Amplified,Diploid,Favorable,3-4,Low,259.0,Alive
+66,PASCRK,Male,White,23.0,0-2,2008,2015.0,Not Amplified,Hyperdiploid,Favorable,3-4,Low,366.0,Alive
+67,PASCWD,Male,White,19.0,0-2,2008,2018.0,Amplified,Diploid,Unfavorable,3-4,High,548.0,Alive
+68,PASCZY,Female,White,70.0,0-2,2008,2018.0,Not Amplified,Hyperdiploid,Favorable,3-4,Low,528.0,Alive
+69,PASDDP,Male,White,40.0,0-2,2008,2013.0,Not Amplified,Hyperdiploid,Favorable,3-4,Low,263.0,Alive
+70,PASDRV,Female,White,62.0,0-2,2008,2017.0,Not Amplified,Hyperdiploid,Favorable,1-2,Low,458.0,Alive
+71,PASDYT,Male,Unknown,97.0,0-2,2008,2018.0,Not Amplified,Hyperdiploid,Unfavorable,3-4,Intermediate,511.0,Alive
+72,PASEAR,Male,Unknown,12.0,0-2,2008,2011.0,Not Amplified,Hyperdiploid,Favorable,3-4,Low,162.0,Alive
+73,PASEDP,Male,White,198.0,2-5,2008,2018.0,Not Amplified,Hyperdiploid,Unfavorable,3-4,Low,512.0,Alive
+75,PASEJZ,Male,White,81.0,0-2,2008,2010.0,Amplified,Diploid,Unfavorable,3-4,Intermediate,90.0,Dead
+76,PASESX,Female,White,64.0,0-2,2008,2018.0,Not Amplified,Hyperdiploid,Unfavorable,3-4,High,497.0,Alive
+77,PASEVK,Female,Black,15.0,0-2,2008,2016.0,Amplified,Diploid,Unfavorable,3-4,High,419.0,Alive
+78,PASEWX,Female,White,26.0,0-2,2008,2018.0,Not Amplified,Hyperdiploid,Favorable,3-4,Intermediate,492.0,Alive
+79,PASEWZ,Male,White,61.0,0-2,2008,2018.0,Not Amplified,Hyperdiploid,Favorable,3-4,Intermediate,567.0,Alive
+80,PASEYW,Male,White,101.0,0-2,2008,2018.0,Not Amplified,Hyperdiploid,Favorable,1-2,Low,527.0,Alive
+81,PASFCG,Male,White,21.0,0-2,2008,2016.0,Not Amplified,Hyperdiploid,Favorable,3-4,Low,401.0,Alive
+82,PASFDJ,Male,Unknown,21.0,0-2,2008,2018.0,Not Amplified,Hyperdiploid,Favorable,3-4,Intermediate,497.0,Alive
+83,PASFDU,Female,White,108.0,2-5,2008,2017.0,Not Amplified,Hyperdiploid,Unfavorable,3-4,High,483.0,Alive
+84,PASFDV,Female,Hispanic,6.0,0-2,2008,2014.0,Not Amplified,Hyperdiploid,Favorable,3-4,Low,320.0,Alive
+85,PASFEV,Female,White,23.0,0-2,2008,2018.0,Not Amplified,Diploid,Unknown,3-4,High,551.0,Alive
+86,PASFGD,Female,Black,49.0,0-2,2008,2018.0,Not Amplified,Hyperdiploid,Favorable,1-2,Low,521.0,Alive
+87,PASFKX,Male,White,39.0,0-2,2008,2018.0,Amplified,Diploid,Unfavorable,3-4,High,508.0,Alive
+88,PASFNF,Male,White,7.0,0-2,2008,2018.0,Not Amplified,Hyperdiploid,Favorable,3-4,Low,514.0,Alive
+89,PASFWL,Female,White,26.0,0-2,2008,2018.0,Not Amplified,Hyperdiploid,Favorable,3-4,Low,514.0,Alive
+90,PASFXC,Male,Black,20.0,0-2,2008,2018.0,Not Amplified,Hyperdiploid,Favorable,3-4,Low,521.0,Alive
+91,PASFXS,Male,Asian,55.0,0-2,2008,2017.0,Not Amplified,Hyperdiploid,Unknown,3-4,Low,477.0,Alive
+92,PASGCD,Female,Hispanic,56.0,0-2,2008,2018.0,Not Amplified,Hyperdiploid,Favorable,3-4,Low,524.0,Alive
+93,PASGDB,Male,Unknown,236.0,2-5,2008,2016.0,Not Amplified,Hyperdiploid,Unfavorable,3-4,Intermediate,422.0,Alive
+94,PASGEE,Male,Asian,261.0,5-10,2008,2015.0,Not Amplified,Diploid,Unfavorable,3-4,High,355.0,Alive
+96,PASGGI,Female,White,2.0,0-2,2008,2017.0,Not Amplified,Hyperdiploid,Favorable,3-4,Intermediate,547.0,Alive
+97,PASGHN,Female,White,99.0,0-2,2008,2018.0,Not Amplified,Hyperdiploid,Favorable,1-2,Low,526.0,Alive
+98,PASGKP,Male,White,442.0,5-10,2008,2011.0,Not Amplified,Diploid,Unfavorable,3-4,Intermediate,120.0,Dead
+99,PASGNT,Female,Asian,22.0,0-2,2008,2018.0,Not Amplified,Hyperdiploid,Favorable,3-4,Low,516.0,Alive
+100,PASJTA,Male,White,51.0,0-2,2008,2018.0,Not Amplified,Hyperdiploid,Favorable,3-4,Intermediate,531.0,Alive
+101,PASJUU,Male,White,0.0,0-2,2008,2018.0,Not Amplified,Hyperdiploid,Unfavorable,3-4,High,483.0,Alive
+102,PASJWA,Female,Hispanic,49.0,0-2,2009,2013.0,Not Amplified,Hyperdiploid,Favorable,3-4,Intermediate,224.0,Alive
+103,PASJWG,Male,White,129.0,2-5,2009,2018.0,Not Amplified,Hyperdiploid,Unfavorable,1-2,Intermediate,525.0,Alive
+104,PASJWU,Male,White,38.0,0-2,2009,2018.0,Not Amplified,Hyperdiploid,Favorable,3-4,Low,506.0,Alive
+105,PASKCS,Female,White,14.0,0-2,2009,2018.0,Not Amplified,Hyperdiploid,Favorable,3-4,Low,502.0,Alive
+106,PASKKZ,Male,White,122.0,2-5,2009,2010.0,Amplified,Diploid,Unfavorable,3-4,High,74.0,Dead
+107,PASKNK,Female,White,69.0,0-2,2009,2018.0,Not Amplified,Hyperdiploid,Favorable,1-2,Low,516.0,Alive
+108,PASKPC,Male,Black,138.0,2-5,2009,2015.0,Not Amplified,Unknown,Unfavorable,3-4,Intermediate,316.0,Alive
+109,PASKRA,Male,White,36.0,0-2,2009,2018.0,Amplified,Diploid,Unfavorable,3-4,High,490.0,Alive
+110,PASKRS,Male,Unknown,68.0,0-2,2009,2015.0,Not Amplified,Diploid,Unknown,3-4,Intermediate,315.0,Alive
+111,PASKRX,Female,White,146.0,2-5,2009,2015.0,Not Amplified,Hyperdiploid,Favorable,1-2,Low,338.0,Alive
+112,PASKSR,Male,White,57.0,0-2,2009,2010.0,Amplified,Hyperdiploid,Unfavorable,3-4,High,89.0,Dead
+113,PASKSX,Female,White,48.0,0-2,2009,2018.0,Not Amplified,Hyperdiploid,Favorable,3-4,Intermediate,479.0,Alive
+114,PASKYH,Female,White,14.0,0-2,2009,2018.0,Not Amplified,Hyperdiploid,Favorable,3-4,Low,492.0,Alive
+115,PASKZT,Female,White,154.0,2-5,2009,2017.0,Not Amplified,Hyperdiploid,Favorable,1-2,Low,519.0,Alive
+117,PASLCD,Male,White,167.0,2-5,2009,2018.0,Amplified,Hyperdiploid,Unfavorable,3-4,High,488.0,Alive
+118,PASLDM,Female,White,271.0,5-10,2009,2018.0,Amplified,Hyperdiploid,Unfavorable,3-4,High,492.0,Alive
+119,PASLFG,Male,White,67.0,0-2,2009,2018.0,Not Amplified,Hyperdiploid,Favorable,3-4,Low,494.0,Alive
+120,PASLGM,Male,White,6.0,0-2,2009,2018.0,Not Amplified,Hyperdiploid,Favorable,3-4,Intermediate,478.0,Alive
+121,PASLIH,Male,Black,224.0,2-5,2009,2013.0,Not Amplified,Hyperdiploid,Unfavorable,3-4,Low,233.0,Alive
+122,PASLMN,Male,White,1.0,0-2,2009,2018.0,Not Amplified,Hyperdiploid,Favorable,3-4,Low,491.0,Alive
+123,PASLPG,Male,Unknown,111.0,2-5,2009,2014.0,Not Amplified,Hyperdiploid,Favorable,1-2,Low,287.0,Alive
+124,PASLRM,Male,White,84.0,0-2,2009,2018.0,Not Amplified,Hyperdiploid,Unfavorable,3-4,Intermediate,466.0,Alive
+125,PASLSS,Female,White,20.0,0-2,2009,2018.0,Not Amplified,Hyperdiploid,Favorable,3-4,Intermediate,485.0,Alive
+126,PASLTC,Male,Black,106.0,2-5,2009,2018.0,Not Amplified,Hyperdiploid,Unfavorable,3-4,Low,509.0,Alive
+127,PASLXS,Female,White,123.0,2-5,2009,2009.0,Amplified,Diploid,Unfavorable,3-4,High,17.0,Dead
+128,PASLYF,Male,White,41.0,0-2,2009,2014.0,Not Amplified,Hyperdiploid,Favorable,3-4,Intermediate,260.0,Alive
+129,PASMCP,Female,Unknown,64.0,0-2,2009,2018.0,Not Amplified,Hyperdiploid,Favorable,3-4,Intermediate,498.0,Alive
+130,PASMDG,Female,White,21.0,0-2,2009,2017.0,Not Amplified,Hyperdiploid,Favorable,3-4,Low,420.0,Alive
+131,PASMET,Male,White,60.0,0-2,2009,2018.0,Amplified,Diploid,Unfavorable,3-4,High,526.0,Alive
+132,PASMNU,Male,Unknown,53.0,0-2,2009,2014.0,Not Amplified,Hyperdiploid,Favorable,3-4,Intermediate,279.0,Alive
+133,PASMPT,Male,White,64.0,0-2,2009,2018.0,Amplified,Diploid,Unfavorable,3-4,High,474.0,Alive
+134,PASMRC,Female,Unknown,7.0,0-2,2009,2013.0,Not Amplified,Hyperdiploid,Favorable,3-4,Intermediate,212.0,Alive
+135,PASMUB,Male,White,12.0,0-2,2009,2018.0,Not Amplified,Hyperdiploid,Favorable,3-4,Low,514.0,Alive
+136,PASNMJ,Male,Asian,8.0,0-2,2009,2018.0,Not Amplified,Hyperdiploid,Favorable,3-4,Low,484.0,Alive
+137,PASNUI,Female,White,161.0,2-5,2009,2018.0,Amplified,Hyperdiploid,Unfavorable,3-4,High,536.0,Alive
+138,PASNVM,Male,White,41.0,0-2,2009,2017.0,Not Amplified,Diploid,Favorable,3-4,Low,456.0,Alive
+139,PASNWH,Male,White,88.0,0-2,2009,2018.0,Not Amplified,Hyperdiploid,Unfavorable,3-4,Intermediate,484.0,Alive
+140,PASPBY,Female,White,14.0,0-2,2009,2017.0,Not Amplified,Hyperdiploid,Favorable,3-4,Low,422.0,Alive
+141,PASPGB,Male,White,65.0,0-2,2009,2018.0,Amplified,Hyperdiploid,Unfavorable,3-4,High,499.0,Alive
+142,PASPGU,Male,Black,161.0,2-5,2009,2012.0,Not Amplified,Hyperdiploid,Unfavorable,3-4,Low,185.0,Alive
+143,PASPIK,Male,White,36.0,0-2,2009,2018.0,Not Amplified,Hyperdiploid,Favorable,3-4,Intermediate,494.0,Alive
+144,PASPSE,Male,White,14.0,0-2,2009,2018.0,Not Amplified,Hyperdiploid,Favorable,3-4,Low,493.0,Alive
+145,PASPTF,Female,White,19.0,0-2,2009,2015.0,Not Amplified,Hyperdiploid,Favorable,3-4,Intermediate,313.0,Alive
+146,PASPVR,Male,White,159.0,2-5,2009,2014.0,Amplified,Hyperdiploid,Unfavorable,3-4,Unknown,252.0,Dead
+147,PASPVZ,Male,White,292.0,5-10,2009,2015.0,Amplified,Hyperdiploid,Unfavorable,3-4,Unknown,342.0,Alive
+148,PASPXU,Female,White,751.0,10+,2009,2012.0,Not Amplified,Hyperdiploid,Unfavorable,3-4,Low,187.0,Dead
+149,PASRIB,Female,White,7.0,0-2,2009,2015.0,Not Amplified,Hyperdiploid,Favorable,3-4,Low,324.0,Alive
+150,PASRLC,Female,White,27.0,0-2,2009,2015.0,Not Amplified,Hyperdiploid,Favorable,3-4,Low,320.0,Alive
+151,PASRSG,Male,White,194.0,2-5,2009,2018.0,Not Amplified,Diploid,Unfavorable,3-4,High,481.0,Alive
+152,PASRWE,Female,White,71.0,0-2,2009,2018.0,Not Amplified,Hyperdiploid,Favorable,3-4,Low,466.0,Alive
+153,PASSEC,Male,White,111.0,2-5,2009,2017.0,Not Amplified,Hyperdiploid,Unfavorable,3-4,Low,441.0,Alive
+155,PASSII,Male,Hispanic,39.0,0-2,2009,2018.0,Not Amplified,Hyperdiploid,Favorable,3-4,Low,497.0,Alive
+156,PASSJK,Female,Hispanic,35.0,0-2,2009,2016.0,Not Amplified,Hyperdiploid,Favorable,1-2,Low,390.0,Alive
+157,PASSNN,Male,Black,146.0,2-5,2009,2011.0,Amplified,Diploid,Unfavorable,3-4,High,119.0,Alive
+158,PASSPI,Male,White,106.0,2-5,2009,2013.0,Amplified,Diploid,Unfavorable,3-4,Intermediate,209.0,Alive
+159,PASSUU,Male,White,14.0,0-2,2009,2018.0,Not Amplified,Hyperdiploid,Favorable,3-4,Low,489.0,Alive
+160,PASSXA,Female,White,148.0,2-5,2009,2017.0,Not Amplified,Hyperdiploid,Favorable,1-2,Low,413.0,Alive
+161,PASSZI,Female,White,33.0,0-2,2009,2017.0,Not Amplified,Hyperdiploid,Unknown,3-4,Unknown,443.0,Alive
+163,PASTGD,Male,White,132.0,2-5,2009,2010.0,Amplified,Diploid,Unfavorable,3-4,High,81.0,Dead
+165,PASTHF,Female,White,63.0,0-2,2009,2018.0,Amplified,Unknown,Unfavorable,3-4,High,483.0,Alive
+166,PASTIJ,Male,Black,0.0,0-2,2009,2018.0,Not Amplified,Hyperdiploid,Favorable,3-4,Low,472.0,Alive
+167,PASTMW,Male,White,38.0,0-2,2009,2018.0,Amplified,Diploid,Unknown,3-4,Unknown,483.0,Alive
+169,PASTSI,Female,White,77.0,0-2,2009,2014.0,Not Amplified,Hyperdiploid,Favorable,3-4,Low,281.0,Alive
+170,PASTSY,Female,Asian,15.0,0-2,2009,2018.0,Not Amplified,Hyperdiploid,Favorable,3-4,Low,493.0,Alive
+171,PASTTX,Female,White,31.0,0-2,2009,2016.0,Not Amplified,Hyperdiploid,Favorable,3-4,Low,352.0,Alive
+172,PASTWY,Female,White,17.0,0-2,2009,2009.0,Not Amplified,Hyperdiploid,Favorable,3-4,Low,1.0,Dead
+173,PASTXV,Male,White,3.0,0-2,2009,2018.0,Not Amplified,Hyperdiploid,Favorable,3-4,Low,480.0,Alive
+174,PASUCU,Male,White,33.0,0-2,2009,2018.0,Not Amplified,Hyperdiploid,Favorable,3-4,Intermediate,487.0,Alive
+175,PASUEA,Female,White,152.0,2-5,2009,2018.0,Amplified,Hyperdiploid,Unfavorable,3-4,High,452.0,Alive
+176,PASUEZ,Male,White,3.0,0-2,2009,2017.0,Not Amplified,Hyperdiploid,Favorable,3-4,Low,403.0,Alive
+178,PASUMG,Male,White,171.0,2-5,2009,2018.0,Amplified,Hyperdiploid,Unfavorable,3-4,High,462.0,Alive
+179,PASUTC,Female,White,153.0,2-5,2009,2018.0,Amplified,Diploid,Unfavorable,3-4,Intermediate,485.0,Alive
+181,PASUYL,Male,White,61.0,0-2,2009,2010.0,Amplified,Hyperdiploid,Unfavorable,3-4,High,79.0,Dead
+182,PASVKE,Female,White,23.0,0-2,2009,2018.0,Not Amplified,Hyperdiploid,Favorable,3-4,Intermediate,479.0,Alive
+184,PASVSU,Female,White,93.0,0-2,2009,2016.0,Not Amplified,Diploid,Unfavorable,3-4,High,369.0,Alive
+185,PASVWG,Male,Black,591.0,10+,2009,2018.0,Not Amplified,Diploid,Unknown,Unknown,Unknown,449.0,Alive
+186,PASVYV,Male,White,44.0,0-2,2009,2018.0,Not Amplified,Hyperdiploid,Favorable,3-4,Low,474.0,Alive
+187,PASWCY,Male,White,77.0,0-2,2009,2010.0,Amplified,Diploid,Unfavorable,3-4,High,72.0,Dead
+188,PASWKI,Male,White,3.0,0-2,2009,2018.0,Not Amplified,Hyperdiploid,Favorable,3-4,Intermediate,490.0,Alive
+189,PASWNG,Male,White,42.0,0-2,2009,2018.0,Not Amplified,Hyperdiploid,Favorable,3-4,Low,468.0,Alive
+190,PASWSZ,Female,Unknown,88.0,0-2,2009,2018.0,Not Amplified,Hyperdiploid,Unfavorable,3-4,Intermediate,440.0,Alive
+192,PASWVE,Male,White,14.0,0-2,2009,2018.0,Not Amplified,Hyperdiploid,Favorable,3-4,Low,469.0,Alive
+193,PASWXG,Male,Unknown,106.0,2-5,2009,2010.0,Amplified,Diploid,Unfavorable,3-4,Intermediate,27.0,Dead
+194,PASXCG,Male,White,35.0,0-2,2009,2017.0,Not Amplified,Hyperdiploid,Favorable,3-4,Low,414.0,Alive
+195,PASXMI,Female,White,207.0,2-5,2009,2010.0,Not Amplified,Diploid,Unfavorable,3-4,Unknown,29.0,Dead
+196,PASYIP,Male,White,118.0,2-5,2009,2010.0,Amplified,Hyperdiploid,Unfavorable,3-4,High,31.0,Dead
+198,PASYTP,Male,White,185.0,2-5,2009,2018.0,Amplified,Hyperdiploid,Unfavorable,3-4,High,438.0,Alive
+199,PASYYM,Male,White,48.0,0-2,2009,2010.0,Amplified,Diploid,Unfavorable,3-4,High,46.0,Dead
+202,PASZGB,Female,White,65.0,0-2,2009,2010.0,Amplified,Diploid,Unfavorable,3-4,High,23.0,Dead
+203,PASZJB,Female,White,19.0,0-2,2009,2018.0,Not Amplified,Hyperdiploid,Favorable,3-4,Low,465.0,Alive
+204,PASZST,Male,White,132.0,2-5,2009,2018.0,Amplified,Unknown,Unfavorable,3-4,High,463.0,Alive
+205,PASZTV,Male,Hispanic,4.0,0-2,2009,2017.0,Not Amplified,Diploid,Favorable,3-4,Low,407.0,Alive
+206,PASZYY,Female,White,71.0,0-2,2009,2010.0,Amplified,Hyperdiploid,Unfavorable,3-4,High,64.0,Dead
+207,PATAAV,Female,White,271.0,5-10,2009,2011.0,Not Amplified,Diploid,Unfavorable,3-4,Intermediate,117.0,Dead
+208,PATACA,Male,White,78.0,0-2,2009,2018.0,Not Amplified,Diploid,Favorable,1-2,Low,474.0,Alive
+209,PATAFE,Female,White,10.0,0-2,2009,2015.0,Not Amplified,Hyperdiploid,Favorable,3-4,Low,273.0,Alive
+210,PATAFI,Female,White,48.0,0-2,2009,2017.0,Not Amplified,Hyperdiploid,Favorable,3-4,Intermediate,422.0,Alive
+211,PATAKH,Female,Native American,26.0,0-2,2009,2018.0,Not Amplified,Hyperdiploid,Favorable,3-4,Low,437.0,Alive
+212,PATBAC,Female,Hispanic,57.0,0-2,2009,2016.0,Not Amplified,Hyperdiploid,Favorable,3-4,Low,373.0,Alive
+213,PATBHY,Female,White,46.0,0-2,2009,2018.0,Not Amplified,Hyperdiploid,Favorable,3-4,Intermediate,498.0,Alive
+214,PATBJI,Female,Unknown,13.0,0-2,2009,2018.0,Not Amplified,Hyperdiploid,Favorable,3-4,Low,448.0,Alive
+216,PATBPG,Male,White,74.0,0-2,2009,2014.0,Not Amplified,Hyperdiploid,Favorable,3-4,Low,230.0,Alive
+217,PATBRX,Female,Black,26.0,0-2,2009,2018.0,Not Amplified,Hyperdiploid,Favorable,3-4,Intermediate,438.0,Alive
+218,PATCDJ,Female,White,50.0,0-2,2009,2010.0,Amplified,Hyperdiploid,Unfavorable,3-4,High,48.0,Dead
+219,PATCEM,Male,Black,180.0,2-5,2009,2016.0,Amplified,Hyperdiploid,Unfavorable,3-4,Intermediate,327.0,Alive
+220,PATCJF,Male,White,19.0,0-2,2009,2014.0,Not Amplified,Hyperdiploid,Favorable,3-4,Low,238.0,Alive
+222,PATCKU,Male,White,291.0,5-10,2009,2017.0,Amplified,Hyperdiploid,Unfavorable,3-4,Intermediate,421.0,Alive
+223,PATDBR,Male,White,118.0,2-5,2009,2018.0,Not Amplified,Hyperdiploid,Favorable,1-2,Low,444.0,Alive
+224,PATDCJ,Male,White,29.0,0-2,2009,2018.0,Not Amplified,Hyperdiploid,Favorable,3-4,Intermediate,482.0,Alive
+225,PATDFU,Male,White,78.0,0-2,2009,2011.0,Amplified,Diploid,Unfavorable,3-4,High,76.0,Dead
+226,PATDSY,Male,White,103.0,0-2,2009,2018.0,Amplified,Diploid,Unfavorable,3-4,High,425.0,Alive
+227,PATDVF,Female,White,28.0,0-2,2009,2012.0,Not Amplified,Diploid,Unknown,3-4,Unknown,129.0,Alive
+228,PATECM,Male,Black,89.0,0-2,2009,2018.0,Not Amplified,Hyperdiploid,Unfavorable,3-4,Low,443.0,Alive
+229,PATEUC,Female,White,227.0,2-5,2010,2011.0,Not Amplified,Diploid,Unfavorable,3-4,Intermediate,93.0,Dead
+230,PATEWM,Male,White,29.0,0-2,2010,2018.0,Not Amplified,Hyperdiploid,Favorable,3-4,Low,459.0,Alive
+231,PATFES,Male,White,91.0,0-2,2010,2012.0,Not Amplified,Hyperdiploid,Unfavorable,3-4,Intermediate,121.0,Dead
+232,PATFMU,Female,Asian,26.0,0-2,2010,2012.0,Not Amplified,Hyperdiploid,Favorable,3-4,Low,117.0,Dead
+233,PATFPS,Female,White,160.0,2-5,2010,2018.0,Not Amplified,Hyperdiploid,Unfavorable,3-4,Unknown,433.0,Alive
+234,PATFTN,Male,White,66.0,0-2,2010,2014.0,Not Amplified,Diploid,Favorable,3-4,Intermediate,257.0,Alive
+235,PATFTR,Male,White,28.0,0-2,2010,2018.0,Not Amplified,Hyperdiploid,Favorable,3-4,Low,480.0,Alive
+236,PATFTY,Female,Black,23.0,0-2,2010,2018.0,Not Amplified,Hyperdiploid,Favorable,3-4,Low,427.0,Alive
+238,PATHJU,Male,White,143.0,2-5,2010,2018.0,Amplified,Diploid,Unfavorable,3-4,High,482.0,Alive
+239,PATHJZ,Female,White,49.0,0-2,2010,2015.0,Not Amplified,Diploid,Favorable,3-4,Low,299.0,Dead
+240,PATHUU,Female,Black,101.0,0-2,2010,2011.0,Not Amplified,Diploid,Unfavorable,3-4,Intermediate,53.0,Dead
+241,PATHYK,Male,White,37.0,0-2,2010,2010.0,Not Amplified,Diploid,Favorable,3-4,Low,11.0,Alive
+242,PATIHB,Male,White,53.0,0-2,2010,2014.0,Amplified,Diploid,Unfavorable,3-4,High,236.0,Alive
+243,PATISU,Male,Black,61.0,0-2,2010,2012.0,Amplified,Hyperdiploid,Unfavorable,3-4,High,128.0,Dead
+244,PATIWH,Male,White,74.0,0-2,2010,2018.0,Amplified,Hyperdiploid,Unfavorable,3-4,High,425.0,Alive
+245,PATIYD,Male,White,77.0,0-2,2010,2017.0,Amplified,Diploid,Favorable,1-2,Low,471.0,Alive
+246,PATJET,Female,White,25.0,0-2,2010,2018.0,Not Amplified,Hyperdiploid,Favorable,3-4,Low,431.0,Alive
+248,PATJHU,Female,White,227.0,2-5,2010,2011.0,Amplified,Diploid,Unfavorable,3-4,Intermediate,71.0,Dead
+249,PATJIN,Female,Hispanic,178.0,2-5,2010,2018.0,Not Amplified,Hyperdiploid,Unfavorable,3-4,Low,441.0,Alive
+250,PATJPI,Male,White,20.0,0-2,2010,2018.0,Not Amplified,Hyperdiploid,Favorable,3-4,Intermediate,428.0,Alive
+251,PATJXV,Female,White,1.0,0-2,2010,2018.0,Not Amplified,Hyperdiploid,Favorable,3-4,Intermediate,466.0,Alive
+252,PATJZC,Male,Native American,46.0,0-2,2010,2011.0,Not Amplified,Diploid,Favorable,3-4,Low,40.0,Dead
+253,PATJZF,Male,White,148.0,2-5,2010,2018.0,Amplified,Hyperdiploid,Unfavorable,3-4,High,443.0,Alive
+254,PATKGB,Male,White,25.0,0-2,2010,2018.0,Not Amplified,Hyperdiploid,Favorable,3-4,Low,425.0,Alive
+255,PATKHS,Female,White,63.0,0-2,2010,2016.0,Not Amplified,Diploid,Favorable,3-4,Low,345.0,Alive
+256,PATKPD,Male,White,82.0,0-2,2010,2018.0,Amplified,Diploid,Unfavorable,3-4,High,405.0,Alive
+257,PATKSX,Female,Black,492.0,5-10,2010,2014.0,Not Amplified,Hyperdiploid,Unfavorable,3-4,High,211.0,Dead
+258,PATLCM,Male,White,292.0,5-10,2010,2018.0,Not Amplified,Diploid,Unfavorable,3-4,High,444.0,Alive
+260,PATLLI,Male,White,80.0,0-2,2010,2011.0,Amplified,Diploid,Unfavorable,3-4,High,51.0,Dead
+261,PATLNM,Male,Asian,724.0,10+,2010,2016.0,Not Amplified,Hyperdiploid,Unfavorable,3-4,Low,333.0,Alive
+262,PATLUI,Male,White,114.0,2-5,2010,2018.0,Amplified,Hyperdiploid,Unfavorable,3-4,High,413.0,Alive
+264,PATMAJ,Female,White,86.0,0-2,2010,2018.0,Amplified,Hyperdiploid,Unfavorable,3-4,High,424.0,Alive
+265,PATMAW,Female,White,2.0,0-2,2010,2018.0,Not Amplified,Hyperdiploid,Favorable,3-4,Intermediate,407.0,Alive
+266,PATMFL,Female,Asian,431.0,5-10,2010,2018.0,Amplified,Hyperdiploid,Unfavorable,3-4,High,436.0,Alive
+267,PATMJV,Female,White,621.0,10+,2010,2018.0,Not Amplified,Diploid,Unfavorable,3-4,Unknown,402.0,Alive
+268,PATMPC,Male,White,188.0,2-5,2010,2016.0,Not Amplified,Diploid,Unfavorable,3-4,Intermediate,295.0,Dead
+269,PATMRZ,Male,White,146.0,2-5,2010,2017.0,Not Amplified,Hyperdiploid,Unfavorable,3-4,Intermediate,433.0,Alive
+270,PATMSI,Male,White,888.0,10+,2010,2012.0,Amplified,Hyperdiploid,Unfavorable,3-4,Low,107.0,Alive
+271,PATMSR,Male,White,69.0,0-2,2010,2018.0,Amplified,Hyperdiploid,Unfavorable,3-4,High,438.0,Alive
+272,PATMTX,Male,White,42.0,0-2,2010,2012.0,Not Amplified,Diploid,Favorable,3-4,Low,123.0,Alive
+273,PATMXC,Female,White,226.0,2-5,2010,2012.0,Not Amplified,Hyperdiploid,Unfavorable,3-4,Intermediate,110.0,Dead
+274,PATNCI,Male,Unknown,290.0,5-10,2010,2011.0,Not Amplified,Hyperdiploid,Unfavorable,3-4,Low,41.0,Dead
+275,PATNEA,Female,White,176.0,2-5,2010,2011.0,Not Amplified,Diploid,Unfavorable,3-4,High,46.0,Dead
+276,PATNGD,Male,White,152.0,2-5,2010,2015.0,Not Amplified,Diploid,Unfavorable,3-4,Low,257.0,Alive
+277,PATNPW,Male,White,82.0,0-2,2010,2018.0,Amplified,Hyperdiploid,Unfavorable,3-4,Intermediate,396.0,Alive
+278,PATNRI,Female,Unknown,341.0,5-10,2010,2014.0,Not Amplified,Hyperdiploid,Unfavorable,3-4,Intermediate,197.0,Dead
+279,PATNRK,Male,Black,196.0,2-5,2010,2018.0,Amplified,Diploid,Unfavorable,3-4,High,406.0,Alive
+280,PATNWL,Female,Hispanic,256.0,2-5,2010,2013.0,Not Amplified,Unknown,Unfavorable,3-4,Low,154.0,Dead
+281,PATNXK,Male,White,30.0,0-2,2010,2018.0,Not Amplified,Hyperdiploid,Favorable,3-4,Low,430.0,Alive
+285,PATPJD,Male,White,226.0,2-5,2010,2011.0,Amplified,Diploid,Unfavorable,3-4,High,53.0,Dead
+286,PATPNR,Female,White,43.0,0-2,2010,2018.0,Not Amplified,Diploid,Favorable,3-4,Low,392.0,Alive
+287,PATPPK,Male,White,83.0,0-2,2010,2015.0,Not Amplified,Diploid,Unfavorable,3-4,High,251.0,Dead
+288,PATPPU,Female,White,150.0,2-5,2010,2011.0,Not Amplified,Diploid,Unfavorable,3-4,High,49.0,Dead
+289,PATPXF,Female,White,0.0,0-2,2010,2018.0,Not Amplified,Hyperdiploid,Favorable,3-4,Intermediate,435.0,Alive
+291,PATPYK,Male,White,91.0,0-2,2010,2012.0,Amplified,Hyperdiploid,Unfavorable,3-4,High,89.0,Dead
+292,PATRHD,Male,White,362.0,5-10,2010,2018.0,Not Amplified,Hyperdiploid,Unfavorable,3-4,Intermediate,408.0,Alive
+293,PATRJG,Female,White,158.0,2-5,2010,2012.0,Not Amplified,Diploid,Unfavorable,3-4,Low,92.0,Dead
+295,PATRMB,Male,White,155.0,2-5,2010,2018.0,Amplified,Diploid,Unfavorable,3-4,High,434.0,Alive
+297,PATRUX,Female,White,58.0,0-2,2010,2012.0,Amplified,Unknown,Unfavorable,3-4,High,85.0,Dead
+298,PATRXC,Female,White,22.0,0-2,2010,2011.0,Amplified,Diploid,Unfavorable,3-4,High,33.0,Dead
+299,PATSDR,Female,White,97.0,0-2,2010,2013.0,Amplified,Diploid,Unfavorable,3-4,Intermediate,129.0,Dead
+300,PATSJV,Male,Black,49.0,0-2,2010,2014.0,Not Amplified,Hyperdiploid,Favorable,3-4,Low,224.0,Alive
+301,PATSKE,Male,Black,612.0,10+,2010,2018.0,Not Amplified,Hyperdiploid,Unfavorable,3-4,Low,401.0,Dead
+302,PATSPZ,Male,White,144.0,2-5,2010,2012.0,Amplified,Hyperdiploid,Unfavorable,3-4,High,70.0,Dead
+303,PATSRD,Male,Black,175.0,2-5,2010,2018.0,Amplified,Hyperdiploid,Unfavorable,3-4,High,423.0,Alive
+304,PATSSA,Male,White,184.0,2-5,2010,2018.0,Not Amplified,Diploid,Unfavorable,3-4,Low,419.0,Alive
+305,PATSXC,Female,White,16.0,0-2,2010,2018.0,Amplified,Diploid,Favorable,3-4,Intermediate,395.0,Alive
+306,PATTDY,Female,White,83.0,0-2,2010,2018.0,Not Amplified,Hyperdiploid,Unfavorable,3-4,Low,410.0,Alive
+307,PATTEF,Female,White,32.0,0-2,2010,2018.0,Not Amplified,Hyperdiploid,Favorable,3-4,Intermediate,384.0,Alive
+308,PATTFB,Female,White,78.0,0-2,2010,2018.0,Not Amplified,Hyperdiploid,Unfavorable,3-4,Intermediate,391.0,Alive
+310,PATTMM,Male,White,39.0,0-2,2010,2018.0,Amplified,Diploid,Unfavorable,3-4,High,386.0,Alive
+312,PATTPC,Female,White,59.0,0-2,2010,2018.0,Amplified,Diploid,Unfavorable,3-4,High,402.0,Alive
+313,PATTPL,Male,White,372.0,5-10,2010,2014.0,Amplified,Hyperdiploid,Unfavorable,3-4,Intermediate,185.0,Dead
+314,PATTPW,Male,White,399.0,5-10,2010,2018.0,Not Amplified,Hyperdiploid,Unfavorable,3-4,Low,387.0,Alive
+315,PATUEH,Female,Asian,130.0,2-5,2010,2018.0,Not Amplified,Diploid,Unfavorable,3-4,Low,380.0,Alive
+316,PATUNK,Male,White,10.0,0-2,2010,2018.0,Not Amplified,Hyperdiploid,Favorable,3-4,Low,400.0,Alive
+317,PATUNX,Female,White,19.0,0-2,2010,2013.0,Not Amplified,Hyperdiploid,Favorable,3-4,Low,157.0,Alive
+318,PATUNZ,Male,White,45.0,0-2,2010,2018.0,Amplified,Diploid,Unfavorable,3-4,High,386.0,Alive
+319,PATUPR,Male,White,39.0,0-2,2010,2011.0,Amplified,Diploid,Unfavorable,3-4,High,37.0,Dead
+320,PATUVB,Male,Black,65.0,0-2,2010,2012.0,Not Amplified,Diploid,Favorable,3-4,Low,68.0,Dead
+321,PATUWG,Female,White,207.0,2-5,2010,2014.0,Not Amplified,Hyperdiploid,Unfavorable,3-4,High,183.0,Dead
+322,PATUZF,Male,White,97.0,0-2,2010,2012.0,Not Amplified,Hyperdiploid,Unfavorable,3-4,Intermediate,96.0,Alive
+323,PATVDI,Female,White,429.0,5-10,2010,2016.0,Not Amplified,Hyperdiploid,Unfavorable,3-4,Low,282.0,Dead
+324,PATVDP,Male,White,371.0,5-10,2010,2014.0,Amplified,Diploid,Unfavorable,3-4,Intermediate,166.0,Dead
+326,PATVJX,Female,White,82.0,0-2,2010,2018.0,Amplified,Hyperdiploid,Unfavorable,3-4,High,398.0,Alive
+327,PATVMF,Male,White,42.0,0-2,2010,2018.0,Not Amplified,Hyperdiploid,Favorable,3-4,Low,434.0,Alive
+329,PATVSU,Male,Black,181.0,2-5,2010,2017.0,Not Amplified,Hyperdiploid,Unfavorable,3-4,Intermediate,324.0,Dead
+330,PATVTL,Male,White,133.0,2-5,2010,2011.0,Amplified,Diploid,Unfavorable,3-4,High,10.0,Dead
+331,PATVWA,Male,White,219.0,2-5,2010,2012.0,Not Amplified,Hyperdiploid,Unfavorable,3-4,Low,86.0,Dead
+333,PATVZB,Male,Black,148.0,2-5,2010,2012.0,Amplified,Diploid,Unfavorable,3-4,Intermediate,64.0,Dead
+334,PATWED,Male,Asian,7.0,0-2,2010,2011.0,Amplified,Diploid,Unfavorable,3-4,High,14.0,Dead
+335,PATWGC,Male,White,136.0,2-5,2010,2018.0,Not Amplified,Hyperdiploid,Unfavorable,3-4,Low,442.0,Alive
+336,PATWGR,Male,White,148.0,2-5,2010,2017.0,Amplified,Unknown,Unknown,Unknown,Unknown,323.0,Alive
+337,PATWIL,Male,Unknown,83.0,0-2,2010,2018.0,Not Amplified,Hyperdiploid,Unfavorable,3-4,Low,420.0,Alive
+338,PATWMX,Female,Black,66.0,0-2,2010,2018.0,Not Amplified,Hyperdiploid,Favorable,1-2,Low,377.0,Alive
+339,PATWNB,Female,Hispanic,80.0,0-2,2010,2017.0,Not Amplified,Hyperdiploid,Unfavorable,3-4,Low,358.0,Alive
+340,PATWTW,Female,White,229.0,2-5,2010,2012.0,Amplified,Diploid,Unfavorable,3-4,Intermediate,79.0,Dead
+341,PATWWJ,Male,White,77.0,0-2,2010,2013.0,Not Amplified,Hyperdiploid,Favorable,3-4,Intermediate,112.0,Dead
+342,PATWZB,Female,Black,33.0,0-2,2010,2015.0,Not Amplified,Hyperdiploid,Favorable,3-4,Intermediate,258.0,Alive
+343,PATWZZ,Male,White,153.0,2-5,2010,2013.0,Not Amplified,Hyperdiploid,Unfavorable,3-4,High,121.0,Dead
+344,PATXDV,Male,White,115.0,2-5,2010,2017.0,Amplified,Hyperdiploid,Unfavorable,3-4,High,341.0,Alive
+345,PATXHC,Male,White,229.0,2-5,2010,2014.0,Not Amplified,Hyperdiploid,Unfavorable,3-4,Low,162.0,Dead
+346,PATXHT,Female,White,169.0,2-5,2010,2018.0,Not Amplified,Diploid,Unfavorable,3-4,Low,405.0,Alive
+348,PATXKG,Female,White,101.0,0-2,2010,2018.0,Amplified,Hyperdiploid,Unfavorable,3-4,High,409.0,Alive
+349,PATXTF,Male,White,0.0,0-2,2010,2018.0,Not Amplified,Hyperdiploid,Favorable,3-4,Low,392.0,Alive
+350,PATXUG,Female,White,186.0,2-5,2010,2018.0,Not Amplified,Diploid,Favorable,1-2,Low,383.0,Alive
+351,PATXWS,Male,Unknown,117.0,2-5,2010,2018.0,Amplified,Hyperdiploid,Unfavorable,3-4,High,414.0,Alive
+352,PATXWY,Male,White,136.0,2-5,2010,2013.0,Not Amplified,Diploid,Unknown,Unknown,Unknown,146.0,Alive
+353,PATXXF,Male,Black,113.0,2-5,2010,2018.0,Amplified,Diploid,Unfavorable,3-4,Intermediate,373.0,Alive
+354,PATXXI,Male,White,533.0,10+,2010,2015.0,Not Amplified,Hyperdiploid,Unfavorable,3-4,High,225.0,Dead
+355,PATYCM,Female,White,57.0,0-2,2011,2018.0,Amplified,Diploid,Unfavorable,3-4,High,386.0,Alive
+356,PATYDC,Male,White,274.0,5-10,2011,2015.0,Not Amplified,Hyperdiploid,Unfavorable,3-4,Intermediate,224.0,Dead
+357,PATYEJ,Male,White,168.0,2-5,2011,2014.0,Not Amplified,Hyperdiploid,Unfavorable,3-4,Intermediate,161.0,Dead
+358,PATYMK,Female,Black,252.0,2-5,2011,2018.0,Not Amplified,Hyperdiploid,Unfavorable,3-4,High,392.0,Alive
+359,PATYMS,Male,White,228.0,2-5,2011,2018.0,Not Amplified,Hyperdiploid,Unfavorable,3-4,High,415.0,Alive
+360,PATYMZ,Female,White,335.0,5-10,2011,2018.0,Not Amplified,Diploid,Unfavorable,1-2,Low,386.0,Alive
+361,PATYPH,Female,White,386.0,5-10,2011,2017.0,Not Amplified,Diploid,Unfavorable,3-4,Intermediate,339.0,Alive
+362,PATYWM,Female,White,47.0,0-2,2011,2011.0,Amplified,Diploid,Unfavorable,3-4,High,26.0,Dead
+363,PATYWX,Male,White,209.0,2-5,2011,2017.0,Not Amplified,Hyperdiploid,Unfavorable,3-4,Intermediate,317.0,Dead
+364,PATZBH,Male,White,661.0,10+,2011,2016.0,Not Amplified,Hyperdiploid,Unfavorable,3-4,Low,267.0,Dead
+365,PATZIG,Female,White,76.0,0-2,2011,2018.0,Not Amplified,Hyperdiploid,Favorable,3-4,Low,409.0,Alive
+366,PATZRF,Male,White,27.0,0-2,2011,2013.0,Amplified,Hyperdiploid,Unfavorable,3-4,High,126.0,Dead
+367,PATZRU,Male,White,119.0,2-5,2011,2016.0,Not Amplified,Hyperdiploid,Unfavorable,3-4,Intermediate,269.0,Alive
+369,PAUATG,Female,White,520.0,,2011,2016.0,Not Amplified,Diploid,Unfavorable,3-4,Low,269.0,Dead
+370,PAUAZA,Female,White,100.0,0-2,2011,2018.0,Not Amplified,Hyperdiploid,Unfavorable,3-4,Intermediate,392.0,Alive
+371,PAUBDC,Female,White,117.0,2-5,2011,2018.0,Not Amplified,Diploid,Unfavorable,3-4,Low,392.0,Alive
+372,PAUBEC,Female,White,627.0,10+,2011,2018.0,Not Amplified,Diploid,Unfavorable,3-4,Low,396.0,Alive
+374,PAUBGW,Male,White,254.0,2-5,2011,2018.0,Amplified,Hyperdiploid,Unfavorable,3-4,Intermediate,382.0,Alive
+375,PAUBHV,Male,White,1088.0,10+,2011,2014.0,Not Amplified,Diploid,Unfavorable,3-4,Low,167.0,Dead
+376,PAUBPW,Male,Unknown,178.0,2-5,2011,2018.0,Not Amplified,Diploid,Unfavorable,3-4,Unknown,361.0,Alive
+377,PAUBRR,Female,White,23.0,0-2,2011,2018.0,Not Amplified,Hyperdiploid,Favorable,3-4,Low,399.0,Alive
+378,PAUBSW,Female,White,151.0,2-5,2011,2013.0,Amplified,Diploid,Unfavorable,3-4,Intermediate,100.0,Dead
+379,PAUBVN,Male,White,152.0,2-5,2011,2013.0,Not Amplified,Diploid,Unfavorable,3-4,High,121.0,Dead
+380,PAUBWP,Male,White,132.0,2-5,2011,2011.0,Not Amplified,Hyperdiploid,Unfavorable,3-4,Low,29.0,Dead
+381,PAUBYW,Female,White,48.0,0-2,2011,2015.0,Not Amplified,Hyperdiploid,Favorable,3-4,Low,216.0,Alive
+382,PAUCFI,Female,White,151.0,2-5,2011,2018.0,Amplified,Hyperdiploid,Unfavorable,3-4,High,396.0,Alive
+383,PAUCGP,Female,White,100.0,0-2,2011,2018.0,Not Amplified,Hyperdiploid,Unfavorable,3-4,Unknown,384.0,Alive
+384,PAUCKF,Male,White,274.0,5-10,2011,2018.0,Amplified,Diploid,Unfavorable,3-4,High,396.0,Alive
+386,PAUDBX,Male,White,83.0,0-2,2011,2018.0,Amplified,Hyperdiploid,Unfavorable,3-4,High,386.0,Alive
+388,PAUDFR,Female,White,160.0,2-5,2011,2018.0,Not Amplified,Hyperdiploid,Unfavorable,3-4,High,378.0,Alive
+389,PAUDIK,Female,Black,129.0,2-5,2011,2018.0,Not Amplified,Hyperdiploid,Unfavorable,3-4,Intermediate,378.0,Alive
+391,PAUDPP,Male,White,140.0,2-5,2011,2018.0,Not Amplified,Diploid,Unfavorable,3-4,Low,379.0,Alive
+392,PAUDVA,Male,White,219.0,2-5,2011,2017.0,Amplified,Diploid,Unfavorable,3-4,High,343.0,Alive
+393,PAUELT,Female,Black,233.0,2-5,2011,2011.0,Not Amplified,Diploid,Unfavorable,3-4,High,4.0,Dead
+394,PAUEYW,Female,White,309.0,5-10,2011,2015.0,Not Amplified,Unknown,Unfavorable,3-4,Intermediate,242.0,Dead
+395,PAUEZU,Male,White,137.0,2-5,2011,2013.0,Not Amplified,Diploid,Unfavorable,3-4,High,133.0,Alive
+396,PAUFFP,Female,White,108.0,2-5,2011,2012.0,Not Amplified,Diploid,Unfavorable,3-4,Intermediate,76.0,Dead
+397,PAUFIM,Male,White,120.0,2-5,2011,2018.0,Unknown,Unknown,Unfavorable,3-4,Unknown,423.0,Alive
+398,PAUFPG,Female,White,81.0,0-2,2011,2012.0,Amplified,Diploid,Unfavorable,3-4,High,41.0,Dead
+399,PAUFSR,Male,White,97.0,0-2,2011,2018.0,Amplified,Diploid,Unfavorable,3-4,High,384.0,Alive
+400,PAUFUS,Female,White,123.0,2-5,2011,2012.0,Not Amplified,Hyperdiploid,Unfavorable,3-4,Intermediate,77.0,Dead
+401,PAUFVW,Male,White,356.0,5-10,2011,2018.0,Not Amplified,Diploid,Unfavorable,3-4,Intermediate,396.0,Alive
+402,PAUGGK,Female,White,126.0,2-5,2011,2017.0,Amplified,Diploid,Unfavorable,3-4,High,331.0,Alive
+403,PAUGIP,Female,White,194.0,2-5,2011,2018.0,Amplified,Hyperdiploid,Unfavorable,3-4,High,373.0,Alive
+404,PAUGJI,Female,Hispanic,47.0,0-2,2011,2012.0,Amplified,Diploid,Unfavorable,3-4,High,68.0,Dead
+405,PAUGNL,Female,Black,164.0,2-5,2011,2015.0,Not Amplified,Diploid,Unfavorable,3-4,Low,198.0,Alive
+406,PAUGRP,Male,White,28.0,0-2,2011,2018.0,Amplified,Diploid,Favorable,1-2,Intermediate,341.0,Alive
+407,PAUGVZ,Female,White,231.0,2-5,2011,2018.0,Not Amplified,Hyperdiploid,Unfavorable,3-4,High,367.0,Alive
+408,PAUGWT,Male,White,27.0,0-2,2011,2011.0,Amplified,Diploid,Favorable,3-4,Intermediate,25.0,Dead
+409,PAUGZD,Male,Native American,288.0,5-10,2011,2018.0,Not Amplified,Diploid,Unfavorable,3-4,High,384.0,Dead
+410,PAUHBZ,Male,White,137.0,2-5,2011,2018.0,Not Amplified,Diploid,Favorable,1-2,Low,359.0,Alive
+411,PAUHFW,Male,White,113.0,2-5,2011,2018.0,Not Amplified,Hyperdiploid,Unfavorable,3-4,Intermediate,376.0,Alive
+412,PAUHHW,Male,White,395.0,5-10,2011,2018.0,Not Amplified,Hyperdiploid,Unfavorable,3-4,Intermediate,361.0,Alive
+413,PAUHIK,Male,White,2.0,0-2,2011,2018.0,Not Amplified,Hyperdiploid,Favorable,3-4,Low,355.0,Alive
+414,PAUHSJ,Male,White,133.0,2-5,2011,2018.0,Amplified,Diploid,Unfavorable,3-4,High,395.0,Alive
+415,PAUHYY,Male,Black,319.0,5-10,2011,2012.0,Not Amplified,Diploid,Unfavorable,3-4,Low,46.0,Dead
+416,PAUICI,Female,Black,214.0,2-5,2011,2018.0,Not Amplified,Diploid,Unfavorable,3-4,Intermediate,385.0,Alive
+418,PAUIHH,Male,White,28.0,0-2,2011,2012.0,Amplified,Diploid,Unfavorable,3-4,High,48.0,Dead
+419,PAUITU,Male,White,50.0,0-2,2011,2012.0,Amplified,Hyperdiploid,Unfavorable,3-4,High,68.0,Dead
+420,PAUIWS,Female,White,132.0,2-5,2011,2018.0,Not Amplified,Hyperdiploid,Unfavorable,3-4,Intermediate,394.0,Alive
+421,PAUJLH,Male,White,149.0,2-5,2011,2013.0,Amplified,Hyperdiploid,Unfavorable,3-4,High,107.0,Dead
+422,PAUJPC,Male,Unknown,110.0,2-5,2011,2018.0,Not Amplified,Hyperdiploid,Unfavorable,3-4,High,346.0,Alive
+423,PAUJRW,Female,White,135.0,2-5,2011,2012.0,Amplified,Hyperdiploid,Unfavorable,3-4,High,68.0,Dead
+424,PAUJTY,Female,White,85.0,0-2,2011,2018.0,Not Amplified,Unknown,Unfavorable,3-4,High,372.0,Alive
+425,PAUJVX,Female,White,72.0,0-2,2011,2018.0,Amplified,Unknown,Favorable,3-4,Intermediate,376.0,Alive
+426,PAUKAP,Male,White,182.0,2-5,2011,2018.0,Amplified,Hyperdiploid,Unfavorable,3-4,High,337.0,Alive
+427,PAUKAW,Female,Unknown,72.0,0-2,2011,2018.0,Amplified,Hyperdiploid,Favorable,3-4,Low,354.0,Alive
+428,PAUKIJ,Male,White,161.0,2-5,2011,2016.0,Unknown,Unknown,Unfavorable,3-4,Intermediate,255.0,Dead
+429,PAUKLK,Male,White,140.0,2-5,2011,2018.0,Amplified,Diploid,Unfavorable,3-4,High,388.0,Alive
+431,PAUKRF,Male,White,108.0,2-5,2011,2018.0,Amplified,Hyperdiploid,Unfavorable,3-4,High,350.0,Alive
+432,PAUKVC,Female,White,95.0,0-2,2011,2018.0,Amplified,Diploid,Unfavorable,3-4,Intermediate,341.0,Alive
+433,PAULMT,Female,White,183.0,2-5,2011,2017.0,Not Amplified,Hyperdiploid,Unfavorable,3-4,Intermediate,382.0,Dead
+434,PAULNF,Female,White,152.0,2-5,2011,2014.0,Not Amplified,Diploid,Unfavorable,3-4,Intermediate,129.0,Dead
+435,PAULVH,Male,Black,44.0,0-2,2011,2018.0,Amplified,Hyperdiploid,Unfavorable,3-4,High,340.0,Alive
+436,PAUMBB,Male,White,118.0,2-5,2011,2012.0,Not Amplified,Hyperdiploid,Unfavorable,3-4,Intermediate,30.0,Dead
+437,PAUMMZ,Female,White,215.0,2-5,2011,2018.0,Amplified,Diploid,Unfavorable,3-4,High,359.0,Alive
+438,PAUMUC,Female,Asian,247.0,2-5,2011,2013.0,Amplified,Hyperdiploid,Unfavorable,3-4,High,111.0,Alive
+440,PAUNST,Female,White,20.0,0-2,2011,2018.0,Not Amplified,Hyperdiploid,Favorable,3-4,Low,349.0,Alive
+441,PAUNTY,Male,Asian,83.0,0-2,2011,2014.0,Amplified,Hyperdiploid,Unfavorable,3-4,Unknown,120.0,Dead
+442,PAUNWR,Female,White,137.0,2-5,2011,2018.0,Not Amplified,Hyperdiploid,Unfavorable,3-4,Low,371.0,Alive
+443,PAUPDY,Male,Black,233.0,2-5,2011,2016.0,Not Amplified,Diploid,Unfavorable,3-4,High,226.0,Alive
+444,PAUPGV,Male,White,182.0,2-5,2011,2017.0,Not Amplified,Hyperdiploid,Unfavorable,3-4,Intermediate,279.0,Dead
+445,PAUPIC,Male,Black,131.0,2-5,2011,2018.0,Not Amplified,Diploid,Unknown,Unknown,Unknown,353.0,Alive
+446,PAUPRN,Female,White,135.0,2-5,2011,2013.0,Not Amplified,Hyperdiploid,Unfavorable,3-4,Intermediate,70.0,Dead
+448,PAURCG,Female,Hispanic,32.0,0-2,2011,2013.0,Amplified,Hyperdiploid,Unfavorable,3-4,High,83.0,Dead
+450,PAURPL,Female,Unknown,494.0,5-10,2011,2016.0,Not Amplified,Hyperdiploid,Unfavorable,3-4,Intermediate,222.0,Dead
+451,PAURUR,Female,Hispanic,96.0,0-2,2011,2013.0,Amplified,Diploid,Unfavorable,3-4,High,83.0,Dead
+452,PAURYJ,Male,White,2.0,0-2,2012,2018.0,Not Amplified,Hyperdiploid,Favorable,3-4,Low,351.0,Alive
+453,PAURZH,Female,White,216.0,2-5,2012,2013.0,Not Amplified,Hyperdiploid,Unfavorable,3-4,High,52.0,Dead
+454,PAUSJB,Female,White,78.0,0-2,2012,2018.0,Not Amplified,Hyperdiploid,Unfavorable,3-4,Low,361.0,Alive
+455,PAUSXH,Female,Black,68.0,0-2,2012,2018.0,Amplified,Diploid,Unfavorable,3-4,High,331.0,Alive
+456,PAUTKJ,Female,White,61.0,0-2,2012,2012.0,Amplified,Diploid,Unfavorable,3-4,Low,3.0,Dead
+457,PAUTKP,Male,White,87.0,0-2,2012,2015.0,Amplified,Diploid,Unfavorable,3-4,High,205.0,Alive
+458,PAUTLP,Male,White,67.0,0-2,2012,2012.0,Amplified,Hyperdiploid,Unfavorable,3-4,High,8.0,Dead
+459,PAUTVX,Male,White,203.0,2-5,2012,2018.0,Amplified,Diploid,Unfavorable,3-4,High,326.0,Alive
+461,PAUUHD,Female,Black,265.0,5-10,2012,2018.0,Not Amplified,Diploid,Unfavorable,3-4,High,311.0,Alive
+463,PAUVVE,Male,White,21.0,0-2,2012,2016.0,Not Amplified,Hyperdiploid,Favorable,3-4,Low,246.0,Alive
+464,PAUWDK,Female,Black,213.0,2-5,2012,2018.0,Not Amplified,Hyperdiploid,Unfavorable,3-4,Low,338.0,Alive
+465,PAUWED,Female,White,46.0,0-2,2012,2015.0,Not Amplified,Hyperdiploid,Favorable,3-4,Intermediate,160.0,Dead
+466,PAUWEV,Female,White,21.0,0-2,2012,2015.0,Not Amplified,Hyperdiploid,Favorable,3-4,Low,159.0,Alive
+468,PAUWXY,Male,White,21.0,0-2,2012,2018.0,Not Amplified,Hyperdiploid,Favorable,3-4,Low,299.0,Alive
+469,PAUWYM,Female,White,89.0,0-2,2012,2018.0,Amplified,Hyperdiploid,Unfavorable,3-4,High,306.0,Alive
+470,PAUXFZ,Male,White,23.0,0-2,2012,2018.0,Not Amplified,Hyperdiploid,Favorable,3-4,Low,316.0,Alive
+471,PAUXIW,Female,White,117.0,2-5,2012,2017.0,Amplified,Diploid,Unfavorable,3-4,High,260.0,Dead
+472,PAUXSZ,Male,White,827.0,10+,2012,2018.0,Not Amplified,Diploid,Unfavorable,3-4,Intermediate,297.0,Alive
+473,PAUXUP,Male,White,241.0,2-5,2012,2018.0,Not Amplified,Diploid,Unfavorable,3-4,High,341.0,Alive
+474,PAUYDE,Male,White,297.0,5-10,2012,2018.0,Not Amplified,Hyperdiploid,Unfavorable,3-4,Low,341.0,Dead
+475,PAUYXX,Female,White,70.0,0-2,2012,2017.0,Not Amplified,Hyperdiploid,Favorable,3-4,Low,262.0,Alive
+476,PAUZAE,Male,White,182.0,2-5,2012,2018.0,Not Amplified,Hyperdiploid,Unfavorable,3-4,High,319.0,Alive
+477,PAUZMG,Male,White,26.0,0-2,2012,2015.0,Not Amplified,Hyperdiploid,Favorable,3-4,Intermediate,172.0,Alive
+478,PAUZRC,Female,White,28.0,0-2,2012,2018.0,Not Amplified,Diploid,Favorable,3-4,Low,333.0,Alive
+480,PAUZTF,Female,Unknown,8.0,0-2,2012,2018.0,Not Amplified,Hyperdiploid,Favorable,3-4,Low,336.0,Alive
+481,PAUZZI,Female,White,104.0,2-5,2012,2018.0,Not Amplified,Diploid,Unfavorable,3-4,High,328.0,Alive
+482,PAVABN,Female,White,72.0,0-2,2012,2018.0,Amplified,Hyperdiploid,Unfavorable,3-4,High,290.0,Alive
+484,PAVALS,Female,White,79.0,0-2,2012,2017.0,Not Amplified,Hyperdiploid,Unfavorable,3-4,Low,276.0,Alive
+485,PAVAYF,Male,White,428.0,5-10,2012,2018.0,Not Amplified,Diploid,Unfavorable,3-4,Low,314.0,Alive
+486,PAVCGD,Female,White,171.0,2-5,2012,2014.0,Not Amplified,Diploid,Unfavorable,3-4,Low,75.0,Dead
+487,PAVCHH,Female,White,178.0,2-5,2012,2018.0,Amplified,Diploid,Unfavorable,3-4,Intermediate,325.0,Alive
+489,PAVCKK,Female,White,358.0,5-10,2012,2016.0,Not Amplified,Hyperdiploid,Unfavorable,3-4,Intermediate,199.0,Dead
+491,PAVDBS,Female,White,173.0,2-5,2012,2014.0,Amplified,Hyperdiploid,Unfavorable,3-4,High,123.0,Dead
+492,PAVDGG,Male,Asian,94.0,0-2,2012,2013.0,Amplified,Hyperdiploid,Unfavorable,3-4,High,26.0,Dead
+493,PAVDNK,Male,Native American,108.0,2-5,2012,2015.0,Not Amplified,Hyperdiploid,Unfavorable,3-4,Low,137.0,Alive
+494,PAVDPE,Male,White,164.0,2-5,2012,2013.0,Amplified,Diploid,Unfavorable,3-4,Intermediate,33.0,Alive
+495,PAVDYS,Male,Black,3.0,0-2,2012,2017.0,Not Amplified,Hyperdiploid,Favorable,3-4,Low,268.0,Alive
+496,PAVEKN,Female,White,293.0,5-10,2012,2014.0,Not Amplified,Hyperdiploid,Unfavorable,3-4,Intermediate,73.0,Dead
+497,PAVETV,Male,White,157.0,2-5,2012,2014.0,Amplified,Diploid,Unfavorable,3-4,High,104.0,Alive
+498,PAVEZM,Female,White,360.0,5-10,2012,2018.0,Amplified,Diploid,Unfavorable,3-4,High,280.0,Alive

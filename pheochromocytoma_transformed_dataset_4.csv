@@ -1,0 +1,179 @@
+,Patient_ID,Cancer Type Detailed,Sex,Race,Diagnosis Age,Diagnosis Age Range,Prior Diagnosis,Aneuploidy Score,Buffa Hypoxia Score,Ragnum Hypoxia Score,Winter Hypoxia Score,MSI_MANTIS_Score,MSIsensor Score,Mutation Count,Percent_Genome_Altered,TMB,Tumor Break Load,Overall_Survival_Months,Survival Status,Radiation Therapy,Tumor Progression or Recurrence,Tumor Disease Anatomic Site
+0,P7-A5NX,Pheochromocytoma,Female,Hispanic,78,71+,No,,-19,-20,-34,0.35,0.0,17,,0.57,45.0,27.0,Alive Tumor-Free,No,Neither,Adrenal Gland
+1,P7-A5NY,Pheochromocytoma,Female,White,21,18-30,Yes,2.0,-19,-10,-36,0.36,0.03,6,7.51,0.2,2.0,31.0,Alive Tumor-Free,No,Neither,Adrenal Gland
+2,P8-A5KC,Pheochromocytoma,Male,White,48,31-50,No,0.0,-21,-26,-46,0.32,0.02,11,0.04,0.73,20.0,29.0,Alive Tumor-Free,No,Neither,Adrenal Gland
+3,P8-A5KD,Pheochromocytoma,Female,White,35,31-50,No,9.0,-33,-14,-44,0.33,0.0,7,21.75,0.47,4.0,4.0,Alive Tumor-Free,No,Neither,Adrenal Gland
+4,P8-A6RX,Paraganglioma,Male,White,65,51-70,No,6.0,13,-8,-18,0.36,0.06,20,23.55,0.67,20.0,18.0,Alive Tumor-Free,No,Neither,Extra-Adrenal
+5,P8-A6RY,Pheochromocytoma,Male,White,55,51-70,No,3.0,-23,-22,-40,0.32,0.0,4,5.71,0.13,0.0,6.0,Alive Tumor-Free,No,Neither,Adrenal Gland
+6,PR-A5PF,Pheochromocytoma,Female,White,62,51-70,No,8.0,-19,-22,-40,0.36,0.02,16,20.69,0.53,43.0,18.0,Alive Tumor-Free,No,Neither,Adrenal Gland
+7,PR-A5PG,Pheochromocytoma,Female,White,42,31-50,No,5.0,-23,-16,-34,0.37,0.03,15,13.6,0.5,9.0,82.0,Alive Tumor-Free,No,Recurrence,Adrenal Gland
+8,PR-A5PH,Pheochromocytoma,Male,White,47,31-50,No,2.0,-21,-22,-44,0.36,0.0,8,7.25,0.27,29.0,28.0,Alive Tumor-Free,No,Neither,Adrenal Gland
+9,QR-A6GO,Pheochromocytoma,Male,White,43,31-50,No,6.0,-15,-18,-16,0.36,0.0,11,10.7,0.37,7.0,35.0,Alive Tumor-Free,No,Neither,Adrenal Gland
+10,QR-A6GR,Pheochromocytoma,Female,White,30,18-30,No,2.0,-9,-24,-18,0.31,0.0,12,6.49,0.37,59.0,23.0,Alive Tumor-Free,No,Neither,Adrenal Gland
+11,QR-A6GS,Pheochromocytoma,Female,White,51,51-70,No,2.0,-33,-24,-38,0.32,0.0,9,7.2,0.3,37.0,1.0,Alive Tumor-Free,No,Neither,Adrenal Gland
+12,QR-A6GT,Pheochromocytoma,Female,White,63,51-70,No,6.0,-1,-16,-6,0.33,0.04,24,20.96,0.83,3.0,138.0,Alive w/ Tumor,No,Recurrence,Extra-Adrenal
+13,QR-A6GU,Pheochromocytoma,Male,White,31,31-50,No,5.0,-13,-16,-32,0.32,0.02,17,12.06,0.57,4.0,59.0,Alive Tumor-Free,No,Neither,Adrenal Gland
+14,QR-A6GW,Pheochromocytoma,Female,White,53,51-70,No,,-11,-18,-22,0.35,0.06,16,,0.53,,16.0,Alive Tumor-Free,No,Neither,Adrenal Gland
+15,QR-A6GX,Pheochromocytoma,Female,Black,28,18-30,No,20.0,-17,-18,-36,0.35,0.02,12,44.2,0.4,6.0,19.0,Alive Tumor-Free,No,Neither,Adrenal Gland
+16,QR-A6GY,Pheochromocytoma,Female,White,37,31-50,No,5.0,-13,-20,-24,0.36,0.03,16,11.13,0.53,17.0,1.0,Alive Tumor-Free,No,Neither,Adrenal Gland
+17,QR-A6GZ,Pheochromocytoma,Male,White,31,31-50,Yes,23.0,13,-10,-2,0.34,0.0,4,12.23,0.13,15.0,31.0,Alive Tumor-Free,No,Neither,Adrenal Gland
+18,QR-A6H0,Paraganglioma,Male,White,53,51-70,No,2.0,-13,-22,-32,0.32,0.0,4,6.79,0.13,2.0,9.0,Alive Tumor-Free,No,Neither,Extra-Adrenal
+19,QR-A6H1,Pheochromocytoma,Male,White,55,51-70,Yes,5.0,-5,-18,-22,0.32,0.0,14,12.86,0.47,5.0,14.0,Alive Tumor-Free,No,Neither,Adrenal Gland
+20,QR-A6H2,Pheochromocytoma,Male,Asian,33,31-50,No,1.0,-7,-20,-10,0.33,0.0,8,5.37,0.27,6.0,10.0,Alive Tumor-Free,No,Neither,Adrenal Gland
+21,QR-A6H3,Paraganglioma,Male,White,41,31-50,No,2.0,-3,-16,-10,0.33,0.0,3,8.43,0.1,0.0,14.0,Alive Tumor-Free,No,Neither,Extra-Adrenal
+22,QR-A6H4,Pheochromocytoma,Female,White,56,51-70,No,,-15,-20,-18,0.36,0.04,12,,0.4,16.0,87.0,Alive Tumor-Free,No,Neither,Adrenal Gland
+23,QR-A6H5,Pheochromocytoma,Female,Black,30,18-30,No,4.0,3,-16,-28,0.35,0.04,7,11.34,0.23,1.0,32.0,Alive Tumor-Free,No,Neither,Adrenal Gland
+24,QR-A6H6,Paraganglioma,Male,White,27,18-30,No,5.0,-27,-24,-48,0.36,0.01,7,15.35,0.23,5.0,16.0,Alive Tumor-Free,No,Neither,Extra-Adrenal
+25,QR-A6ZZ,Pheochromocytoma,Female,White,30,18-30,No,,13,-12,-6,0.33,0.0,13,,0.43,1138.0,2.0,Alive Tumor-Free,No,Neither,Adrenal Gland
+26,QR-A700,Pheochromocytoma,Male,White,67,51-70,Yes,25.0,-9,-24,-30,0.34,0.0,36,62.34,1.2,207.0,32.0,Alive w/ Tumor,No,Recurrence,Adrenal Gland
+27,QR-A702,Paraganglioma,Female,White,75,71+,No,3.0,-13,-20,-28,0.33,0.0,7,11.5,0.23,90.0,1.0,Alive Tumor-Free,No,Neither,Extra-Adrenal
+28,QR-A703,Pheochromocytoma,Male,White,23,18-30,Yes,,9,-14,-6,0.33,0.0,4,,0.13,803.0,38.0,Alive Tumor-Free,No,Recurrence,Adrenal Gland
+29,QR-A705,Paraganglioma,Female,White,63,51-70,Yes,,-9,-24,-20,0.31,0.0,8,,0.27,708.0,10.0,Alive Tumor-Free,No,Neither,Extra-Adrenal
+30,QR-A706,Paraganglioma,Female,White,50,31-50,No,2.0,-1,-16,-22,0.36,0.0,8,4.35,0.27,174.0,4.0,Alive Tumor-Free,No,Neither,Extra-Adrenal
+31,QR-A707,Pheochromocytoma,Female,White,43,31-50,No,,-15,-22,-28,0.35,0.03,9,,0.3,2254.0,13.0,Alive Tumor-Free,No,Neither,Adrenal Gland
+32,QR-A708,Pheochromocytoma,Female,White,44,31-50,No,,-31,-18,-40,0.36,0.0,15,,0.5,650.0,1.0,Alive Tumor-Free,No,Neither,Adrenal Gland
+33,QR-A70A,Pheochromocytoma,Female,White,54,51-70,No,,-21,-20,-36,0.31,0.02,7,,0.23,2742.0,70.0,Alive Tumor-Free,No,Neither,Adrenal Gland
+34,QR-A70C,Pheochromocytoma,Female,Black,51,51-70,No,0.0,-21,-22,-24,0.32,0.0,8,0.02,0.27,4.0,116.0,Alive Tumor-Free,No,Neither,Adrenal Gland
+35,QR-A70D,Paraganglioma,Female,Black,39,31-50,Yes,4.0,-19,-16,-32,0.32,0.02,7,14.3,0.2,6.0,0.0,Alive Tumor-Free,No,Neither,Extra-Adrenal
+36,QR-A70E,Pheochromocytoma,Female,White,31,31-50,No,3.0,-11,-10,-30,0.33,0.0,8,9.54,0.3,3.0,6.0,Alive Tumor-Free,No,Neither,Adrenal Gland
+37,QR-A70G,Pheochromocytoma,Male,Black,54,51-70,No,1.0,-21,-20,-52,0.32,0.04,12,1.15,0.4,21.0,2.0,Alive Tumor-Free,No,Neither,Adrenal Gland
+38,QR-A70H,Pheochromocytoma,Male,White,36,31-50,No,5.0,-19,-20,-26,0.36,0.08,11,12.85,0.37,30.0,27.0,Alive Tumor-Free,No,Neither,Adrenal Gland
+39,QR-A70I,Paraganglioma,Male,Black,24,18-30,No,2.0,-9,-18,-36,0.35,0.0,4,2.38,0.13,27.0,30.0,Alive Tumor-Free,No,Neither,Extra-Adrenal
+40,QR-A70J,Pheochromocytoma,Female,White,42,31-50,No,6.0,9,-10,-4,0.37,0.0,11,15.39,0.37,4.0,13.0,Alive Tumor-Free,No,Neither,Adrenal Gland
+41,QR-A70K,Pheochromocytoma,Male,White,61,51-70,No,11.0,-15,-14,-14,0.37,0.04,22,32.46,0.73,35.0,9.0,Alive Tumor-Free,No,Neither,Adrenal Gland
+42,QR-A70M,Pheochromocytoma,Male,White,38,31-50,No,,-11,-18,-10,0.32,0.02,8,,0.27,333.0,34.0,Alive Tumor-Free,No,Neither,Adrenal Gland
+43,QR-A70N,Pheochromocytoma,Male,Black,32,31-50,No,27.0,5,-10,-6,0.34,0.0,13,31.02,0.47,2.0,1.0,Alive Tumor-Free,No,Neither,Adrenal Gland
+44,QR-A70O,Pheochromocytoma,Female,Hispanic,35,31-50,No,,-27,-14,-44,0.34,0.06,13,,0.43,1235.0,4.0,Alive Tumor-Free,No,Neither,Adrenal Gland
+45,QR-A70P,Paraganglioma,Female,White,45,31-50,Yes,4.0,-17,-8,-42,0.33,0.02,21,12.26,0.7,11.0,117.0,Dead w/ Tumor,Yes,Recurrence,Extra-Adrenal
+46,QR-A70Q,Paraganglioma,Male,White,33,31-50,No,,-15,-22,-28,0.36,0.0,9,,0.3,0.0,5.0,Alive Tumor-Free,No,Neither,Extra-Adrenal
+47,QR-A70R,Pheochromocytoma,Male,White,43,31-50,No,,-27,-20,-30,0.36,0.1,8,24.47,0.27,259.0,14.0,Alive Tumor-Free,No,Neither,Adrenal Gland
+48,QR-A70T,Paraganglioma,Female,Black,40,31-50,Yes,,-21,-22,-44,0.37,0.03,10,,0.33,486.0,9.0,Alive Tumor-Free,No,Neither,Extra-Adrenal
+49,QR-A70U,Pheochromocytoma,Female,White,46,31-50,No,,-15,-20,-28,0.36,0.0,18,,0.6,322.0,48.0,Alive Tumor-Free,No,Neither,Adrenal Gland
+50,QR-A70V,Pheochromocytoma,Female,,66,51-70,No,,-29,-18,-52,0.31,0.05,13,,0.43,618.0,0.0,Alive Tumor-Free,No,Neither,Adrenal Gland
+51,QR-A70W,Pheochromocytoma,Male,White,40,31-50,No,5.0,-23,-16,-30,0.33,0.02,5,13.24,0.17,20.0,42.0,Alive Tumor-Free,No,Neither,Adrenal Gland
+52,QR-A70X,Pheochromocytoma,Female,Black,46,31-50,No,3.0,-23,-20,-28,0.32,0.04,6,9.18,0.2,27.0,6.0,Alive Tumor-Free,No,Neither,Adrenal Gland
+53,QR-A7IN,Pheochromocytoma,Female,Black,52,51-70,No,9.0,-17,-22,-40,0.33,0.0,6,9.13,0.2,35.0,12.0,Alive Tumor-Free,No,Neither,Adrenal Gland
+54,QR-A7IP,Paraganglioma,Male,White,30,18-30,No,11.0,-19,-16,-34,0.36,0.01,11,13.66,0.33,4.0,18.0,Alive Tumor-Free,No,Neither,Extra-Adrenal
+55,QT-A5XJ,Pheochromocytoma,Female,Black,42,31-50,No,3.0,-17,-8,-28,0.37,0.2,23,20.98,0.77,66.0,36.0,Alive w/ Tumor,No,Recurrence,Adrenal Gland
+56,QT-A5XK,Pheochromocytoma,Female,Black,56,51-70,No,6.0,-21,-22,-36,0.36,0.0,8,16.96,0.27,21.0,7.0,Alive Tumor-Free,No,Neither,Adrenal Gland
+57,QT-A5XL,Pheochromocytoma,Male,White,27,18-30,No,1.0,-19,-24,-44,0.34,0.0,4,7.24,0.13,57.0,2.0,Alive Tumor-Free,No,Neither,Adrenal Gland
+58,QT-A5XM,Pheochromocytoma,Male,White,43,31-50,No,4.0,-17,-16,-24,0.33,0.0,7,13.42,0.23,24.0,1.0,Alive Tumor-Free,No,Neither,Adrenal Gland
+59,QT-A5XN,Pheochromocytoma,Female,Black,51,51-70,No,6.0,-11,-14,-26,0.33,0.02,9,21.42,0.3,71.0,25.0,Alive Tumor-Free,No,Neither,Adrenal Gland
+60,QT-A5XO,Pheochromocytoma,Female,Black,63,51-70,No,2.0,-25,-22,-28,0.31,0.0,21,13.21,0.7,127.0,2.0,Alive Tumor-Free,No,Neither,Adrenal Gland
+61,QT-A5XP,Pheochromocytoma,Female,Black,57,51-70,No,4.0,-5,-12,-22,0.33,0.0,15,15.87,0.5,19.0,4.0,Alive Tumor-Free,No,Neither,Adrenal Gland
+62,QT-A69Q,Pheochromocytoma,Male,White,40,31-50,No,18.0,-27,-24,-48,0.36,0.0,10,52.11,0.33,3.0,1.0,Alive Tumor-Free,No,Neither,Adrenal Gland
+63,QT-A7U0,Paraganglioma,Male,White,56,51-70,No,4.0,-17,-18,-40,0.36,0.0,4,7.83,0.13,2.0,13.0,Alive Tumor-Free,No,Neither,Extra-Adrenal
+64,RM-A68T,Paraganglioma,Male,Black,46,31-50,No,4.0,-15,-22,-32,0.35,0.0,10,13.03,0.33,0.0,78.0,Alive Tumor-Free,No,Neither,Extra-Adrenal
+65,RM-A68W,Paraganglioma,Female,White,41,31-50,No,5.0,1,-24,-26,0.36,0.02,6,14.04,0.2,15.0,1.0,Alive Tumor-Free,No,Neither,Extra-Adrenal
+66,RT-A6Y9,Pheochromocytoma,Female,White,50,31-50,No,2.0,-11,-16,-34,0.32,0.0,4,7.83,0.13,0.0,108.0,Alive Tumor-Free,No,Recurrence,Adrenal Gland
+67,RT-A6YA,Pheochromocytoma,Female,White,71,71+,No,13.0,-19,-26,-28,0.33,0.02,19,19.56,0.63,6.0,51.0,Alive Tumor-Free,No,Neither,Adrenal Gland
+68,RT-A6YC,Pheochromocytoma,Male,White,31,31-50,No,3.0,-19,-18,-30,0.32,0.0,3,13.04,0.1,45.0,8.0,Alive Tumor-Free,No,Neither,Adrenal Gland
+69,RW-A67V,Pheochromocytoma,Female,White,44,31-50,No,1.0,-37,-20,-30,0.33,0.15,11,7.5,0.37,20.0,87.0,Alive Tumor-Free,No,Recurrence,Adrenal Gland
+70,RW-A67W,Pheochromocytoma,Female,White,46,31-50,No,2.0,-19,-20,-30,0.35,0.0,8,10.79,0.27,39.0,20.0,Alive Tumor-Free,No,Neither,Adrenal Gland
+71,RW-A67X,Pheochromocytoma,Male,White,47,31-50,No,9.0,13,-10,-4,0.36,0.03,9,11.34,0.3,3.0,3.0,Alive Tumor-Free,No,Neither,Adrenal Gland
+72,RW-A67Y,Pheochromocytoma,Female,White,43,31-50,No,5.0,-25,-22,-60,0.33,0.06,8,31.82,0.27,29.0,7.0,Alive Tumor-Free,No,Neither,Adrenal Gland
+73,RW-A680,Paraganglioma,Female,White,57,51-70,No,4.0,1,-16,-28,0.36,0.0,22,14.29,0.73,3.0,48.0,Alive Tumor-Free,No,Neither,Extra-Adrenal
+74,RW-A681,Pheochromocytoma,Male,White,56,51-70,No,21.0,-15,-22,-38,0.37,0.07,21,50.91,0.7,27.0,38.0,Alive Tumor-Free,No,Neither,Adrenal Gland
+75,RW-A684,Pheochromocytoma,Female,White,64,51-70,No,3.0,-15,-18,-24,0.36,0.0,10,7.88,0.33,8.0,1.0,Alive Tumor-Free,No,Neither,Adrenal Gland
+76,RW-A685,Pheochromocytoma,Female,White,70,51-70,No,4.0,-25,-20,-32,0.37,0.05,9,12.24,0.3,5.0,1.0,Alive Tumor-Free,No,Neither,Adrenal Gland
+77,RW-A686,Pheochromocytoma,Male,White,62,51-70,No,1.0,-25,-26,-32,0.36,0.0,10,4.37,0.33,31.0,19.0,Alive Tumor-Free,No,Neither,Adrenal Gland
+78,RW-A688,Pheochromocytoma,Female,White,69,51-70,No,4.0,-23,-14,-48,0.35,0.02,11,18.29,0.37,38.0,1.0,Alive Tumor-Free,No,Recurrence,Adrenal Gland
+79,RW-A689,Pheochromocytoma,Male,White,58,51-70,No,5.0,-7,-14,-22,0.33,0.0,8,16.74,0.27,5.0,27.0,Alive Tumor-Free,No,Neither,Adrenal Gland
+80,RW-A68A,Pheochromocytoma,Female,White,19,18-30,Yes,8.0,-15,-16,-24,0.33,0.04,4,23.34,0.13,8.0,25.0,Alive Tumor-Free,No,Neither,Adrenal Gland
+81,RW-A68B,Pheochromocytoma,Male,,31,31-50,Yes,4.0,-27,-16,-52,0.37,0.05,6,12.2,0.2,6.0,24.0,Alive Tumor-Free,No,Neither,Adrenal Gland
+82,RW-A68C,Pheochromocytoma,Male,White,43,31-50,No,5.0,11,-12,-18,0.35,0.0,10,14.1,0.33,0.0,6.0,Alive Tumor-Free,No,Neither,Adrenal Gland
+83,RW-A68D,Pheochromocytoma,Female,Asian,31,31-50,No,3.0,-29,-24,-50,0.35,0.0,10,9.36,0.33,63.0,73.0,Alive Tumor-Free,No,Neither,Adrenal Gland
+84,RW-A68F,Pheochromocytoma,Female,White,51,51-70,Yes,5.0,-3,-16,-22,0.35,0.01,9,11.68,0.3,8.0,45.0,Alive Tumor-Free,No,Neither,Adrenal Gland
+85,RW-A68G,Pheochromocytoma,Male,White,49,31-50,Yes,3.0,-25,-20,-26,0.36,0.0,4,5.84,0.13,7.0,42.0,Alive Tumor-Free,No,Neither,Adrenal Gland
+86,RW-A7CZ,Paraganglioma,Female,White,72,71+,Yes,4.0,-7,-20,-38,0.32,0.05,9,0.0,0.3,2.0,14.0,Alive Tumor-Free,No,Neither,Extra-Adrenal
+87,RW-A7D0,Pheochromocytoma,Female,White,47,31-50,No,3.0,-11,-16,-26,0.32,0.05,9,10.17,0.3,26.0,12.0,Alive Tumor-Free,No,Neither,Adrenal Gland
+88,RW-A8AZ,Pheochromocytoma,Male,White,66,51-70,No,4.0,-7,-18,-8,0.33,0.03,23,13.47,0.77,105.0,3.0,Dead w/o Tumor,No,Neither,Adrenal Gland
+89,RX-A8JQ,Paraganglioma,Male,White,44,31-50,No,3.0,-27,-24,-50,0.37,0.0,10,10.83,0.33,9.0,20.0,Alive Tumor-Free,No,Neither,Extra-Adrenal
+90,S7-A7WL,Pheochromocytoma,Male,White,59,51-70,No,8.0,-1,-22,-30,0.35,0.04,12,25.18,0.4,31.0,32.0,Alive Tumor-Free,No,Neither,Adrenal Gland
+91,S7-A7WM,Pheochromocytoma,Male,White,76,71+,No,4.0,-13,-16,-20,0.31,0.0,13,6.99,0.43,40.0,37.0,Alive Tumor-Free,No,Neither,Adrenal Gland
+92,S7-A7WN,Pheochromocytoma,Male,White,40,31-50,No,4.0,-13,-16,-20,0.33,0.0,4,14.78,0.13,6.0,37.0,Alive Tumor-Free,No,Neither,Adrenal Gland
+93,S7-A7WO,Pheochromocytoma,Female,White,76,71+,No,0.0,-17,-12,-34,0.32,0.0,3,0.0,0.1,0.0,36.0,Alive Tumor-Free,No,Neither,Adrenal Gland
+94,S7-A7WP,Pheochromocytoma,Female,White,25,18-30,No,6.0,1,-14,-28,0.32,0.0,3,13.3,0.1,8.0,31.0,Alive Tumor-Free,No,Neither,Adrenal Gland
+95,S7-A7WQ,Pheochromocytoma,Male,White,19,18-30,Yes,10.0,7,-14,-16,0.32,0.05,10,11.43,0.33,3.0,27.0,Alive Tumor-Free,No,Neither,Adrenal Gland
+96,S7-A7WR,Pheochromocytoma,Female,White,32,31-50,No,8.0,-17,-16,-38,0.33,0.09,2,86.64,0.07,13.0,41.0,Alive Tumor-Free,No,Neither,Adrenal Gland
+97,S7-A7WT,Pheochromocytoma,Male,White,74,71+,No,3.0,-25,-14,-32,0.32,0.0,17,9.05,0.57,47.0,43.0,Alive Tumor-Free,No,Neither,Adrenal Gland
+98,S7-A7WU,Pheochromocytoma,Female,White,63,51-70,Yes,2.0,-29,-20,-48,0.33,0.0,2,4.6,0.07,0.0,31.0,Alive Tumor-Free,No,Neither,Adrenal Gland
+99,S7-A7WV,Pheochromocytoma,Female,White,35,31-50,No,1.0,-5,-14,-12,0.33,0.0,5,0.0,0.17,0.0,28.0,Alive Tumor-Free,No,Neither,Adrenal Gland
+100,S7-A7WW,Pheochromocytoma,Male,White,34,31-50,No,10.0,-17,-22,-44,0.33,0.0,8,20.5,0.27,1.0,23.0,Alive Tumor-Free,No,Neither,Adrenal Gland
+101,S7-A7WX,Pheochromocytoma,Male,White,52,51-70,No,4.0,-17,-18,-36,0.34,0.0,5,9.53,0.17,28.0,25.0,Alive Tumor-Free,No,Neither,Adrenal Gland
+102,S7-A7X0,Paraganglioma,Female,White,75,71+,No,6.0,-13,-18,-40,0.33,0.02,15,4.61,0.5,4.0,18.0,Alive Tumor-Free,No,Neither,Extra-Adrenal
+103,S7-A7X1,Pheochromocytoma,Male,White,23,18-30,Yes,6.0,15,-12,-6,0.32,0.0,7,14.09,0.23,0.0,19.0,Alive Tumor-Free,No,Neither,Adrenal Gland
+104,S7-A7X2,Pheochromocytoma,Female,White,57,51-70,No,5.0,-7,-14,-20,0.33,0.0,12,10.17,0.4,6.0,24.0,Alive Tumor-Free,No,Neither,Adrenal Gland
+105,SA-A6C2,Paraganglioma,Female,Black,46,31-50,No,0.0,-27,-22,-52,0.33,0.0,22,0.0,0.73,0.0,10.0,Alive Tumor-Free,No,Neither,Extra-Adrenal
+106,SP-A6QC,Pheochromocytoma,Male,White,46,31-50,No,5.0,-5,-20,-8,0.32,0.0,8,17.07,0.27,6.0,115.0,Alive Tumor-Free,No,Neither,Adrenal Gland
+107,SP-A6QD,Pheochromocytoma,Male,,26,18-30,No,3.0,-7,-20,-30,0.33,0.0,6,8.32,0.2,15.0,109.0,Alive Tumor-Free,No,Neither,Adrenal Gland
+108,SP-A6QF,Pheochromocytoma,Male,Asian,48,31-50,No,5.0,-11,-12,-20,0.33,0.0,13,20.77,0.43,32.0,83.0,Alive Tumor-Free,No,Recurrence,Adrenal Gland
+109,SP-A6QG,Paraganglioma,Female,White,35,31-50,No,5.0,-25,-16,-38,0.33,0.0,4,19.05,0.13,5.0,79.0,Alive Tumor-Free,No,Progression,Extra-Adrenal
+110,SP-A6QH,Pheochromocytoma,Female,Asian,35,31-50,Yes,,-15,-18,-28,0.32,0.05,7,,0.23,516.0,72.0,Alive Tumor-Free,No,Neither,Adrenal Gland
+111,SP-A6QI,Pheochromocytoma,Male,White,47,31-50,No,3.0,-21,-18,-38,0.32,0.02,4,8.32,0.13,41.0,110.0,Alive Tumor-Free,No,Neither,Adrenal Gland
+112,SP-A6QJ,Pheochromocytoma,Female,White,64,51-70,No,3.0,-25,-18,-32,0.34,0.0,11,11.22,0.37,7.0,16.0,Alive Tumor-Free,No,Neither,Adrenal Gland
+113,SP-A6QK,Pheochromocytoma,Female,Asian,46,31-50,No,4.0,-21,-16,-28,0.32,0.0,8,9.96,0.27,9.0,111.0,Alive Tumor-Free,No,Neither,Adrenal Gland
+114,SQ-A6I4,Pheochromocytoma,Male,White,53,51-70,No,2.0,-5,-12,-6,0.32,0.0,5,8.75,0.33,2.0,1.0,Alive Tumor-Free,,Neither,Adrenal Gland
+115,SQ-A6I6,Pheochromocytoma,Male,White,39,31-50,No,6.0,-25,-24,-48,0.32,0.1,14,16.54,0.43,5.0,0.0,Alive Tumor-Free,,Neither,Adrenal Gland
+116,SR-A6MP,Pheochromocytoma,Female,White,30,18-30,No,6.0,-13,-16,-40,0.33,0.0,20,20.95,0.67,134.0,51.0,Alive Tumor-Free,No,Neither,Adrenal Gland
+117,SR-A6MQ,Paraganglioma,Female,Asian,61,51-70,No,5.0,-33,-16,-48,0.32,0.0,6,17.45,0.2,19.0,69.0,Alive Tumor-Free,No,Neither,Extra-Adrenal
+118,SR-A6MR,Paraganglioma,Male,White,41,31-50,Yes,,-9,-18,-20,0.32,0.04,9,,0.3,437.0,79.0,Unknown,No,Progression,Extra-Adrenal
+119,SR-A6MS,Pheochromocytoma,Female,White,35,31-50,No,6.0,-11,-16,-24,0.32,0.16,4,15.2,0.13,9.0,82.0,Alive Tumor-Free,No,Neither,Adrenal Gland
+120,SR-A6MT,Pheochromocytoma,Female,White,57,51-70,No,24.0,-17,-20,-40,0.34,0.0,7,90.68,0.23,2.0,107.0,Alive Tumor-Free,No,Neither,Adrenal Gland
+121,SR-A6MU,Pheochromocytoma,Female,White,49,31-50,No,4.0,-11,-14,-18,0.32,0.0,10,17.46,0.33,6.0,111.0,Alive Tumor-Free,No,Neither,Adrenal Gland
+122,SR-A6MV,Paraganglioma,Female,White,35,31-50,No,10.0,-17,-14,-24,0.33,0.0,9,27.57,0.3,54.0,121.0,Unknown,Yes,Neither,Extra-Adrenal
+123,SR-A6MX,Paraganglioma,Male,White,55,51-70,No,5.0,5,-12,-20,0.33,0.07,15,27.03,0.5,46.0,3.0,Dead w/ Tumor,No,Progression,Extra-Adrenal
+124,SR-A6MY,Pheochromocytoma,Female,White,54,51-70,No,3.0,-15,-14,-28,0.34,0.0,6,14.03,0.2,30.0,25.0,Alive Tumor-Free,No,Neither,Adrenal Gland
+125,SR-A6MZ,Pheochromocytoma,Female,White,46,31-50,No,7.0,-21,-18,-22,0.34,0.0,4,27.88,0.13,22.0,26.0,Alive Tumor-Free,No,Neither,Adrenal Gland
+126,SR-A6N0,Pheochromocytoma,Female,White,45,31-50,No,11.0,-21,-16,-50,0.32,0.0,8,26.65,0.27,6.0,50.0,Alive Tumor-Free,No,Neither,Adrenal Gland
+127,TT-A6YJ,Pheochromocytoma,Female,,45,31-50,No,4.0,-27,-16,-42,0.32,0.06,8,14.85,0.27,176.0,4.0,Alive Tumor-Free,,Neither,Adrenal Gland
+128,TT-A6YK,Paraganglioma,Male,White,61,51-70,No,7.0,-11,-18,-24,0.32,0.0,9,14.58,0.3,12.0,37.0,Alive Tumor-Free,No,Neither,Extra-Adrenal
+129,TT-A6YN,Pheochromocytoma,Female,White,37,31-50,No,5.0,-25,-18,-40,0.33,0.0,3,11.06,0.1,42.0,20.0,Alive Tumor-Free,No,Neither,Adrenal Gland
+130,TT-A6YO,Pheochromocytoma,Female,Black,64,51-70,No,0.0,-15,-12,-20,0.34,0.0,1,0.04,0.03,9.0,13.0,Alive Tumor-Free,No,Progression,Adrenal Gland
+131,TT-A6YP,Pheochromocytoma,Female,White,19,18-30,No,6.0,7,-12,-18,0.32,0.0,6,11.37,0.2,5.0,42.0,Alive Tumor-Free,No,Neither,Adrenal Gland
+132,W2-A7H5,Pheochromocytoma,Female,White,25,18-30,No,25.0,-25,-4,-42,0.33,0.0,3,61.62,0.1,4.0,20.0,Alive Tumor-Free,No,Neither,Adrenal Gland
+133,W2-A7H7,Pheochromocytoma,Male,White,59,51-70,No,7.0,3,-12,-14,0.33,0.0,10,22.53,0.33,26.0,17.0,Alive Tumor-Free,No,Neither,Adrenal Gland
+134,W2-A7HA,Pheochromocytoma,Female,American Indian or Alaska Native,63,51-70,No,5.0,-17,-14,-36,0.33,0.0,16,13.78,0.53,15.0,1.0,Alive Tumor-Free,No,Neither,Adrenal Gland
+135,W2-A7HB,Pheochromocytoma,Male,White,24,18-30,Yes,6.0,-31,-22,-42,0.31,0.0,9,17.47,0.3,50.0,20.0,Alive Tumor-Free,No,Neither,Adrenal Gland
+136,W2-A7HC,Pheochromocytoma,Male,White,67,51-70,No,6.0,-19,-16,-26,0.34,0.0,16,14.35,0.53,29.0,14.0,Alive Tumor-Free,No,Neither,Adrenal Gland
+137,W2-A7HD,Pheochromocytoma,Female,White,76,71+,No,4.0,-27,-18,-30,0.34,0.0,13,15.26,0.43,22.0,18.0,Alive Tumor-Free,No,Neither,Adrenal Gland
+138,W2-A7HE,Pheochromocytoma,Male,White,80,71+,No,6.0,-27,-16,-40,0.31,0.0,3,14.46,0.1,3.0,17.0,Alive Tumor-Free,No,Neither,Adrenal Gland
+139,W2-A7HF,Pheochromocytoma,Female,Black,28,18-30,Yes,6.0,-29,-18,-52,0.34,0.14,5,25.2,0.17,20.0,18.0,Alive Tumor-Free,No,Neither,Adrenal Gland
+140,W2-A7HH,Paraganglioma,Female,White,69,51-70,No,0.0,-29,-22,-50,0.32,0.02,9,0.01,0.3,5.0,26.0,Alive Tumor-Free,No,Neither,Extra-Adrenal
+141,W2-A7UY,Pheochromocytoma,Female,White,44,31-50,No,11.0,9,-14,6,0.32,0.14,15,55.97,0.5,16.0,15.0,Alive Tumor-Free,No,Neither,Adrenal Gland
+142,WB-A80K,Pheochromocytoma,Male,White,49,31-50,No,5.0,-27,-24,-48,0.32,0.0,12,17.25,0.4,20.0,41.0,Alive w/ Tumor,No,Recurrence,Adrenal Gland
+143,WB-A80L,Pheochromocytoma,Female,White,30,18-30,No,15.0,-23,-22,-40,0.33,0.02,1,28.51,0.03,7.0,34.0,Alive Tumor-Free,No,Neither,Adrenal Gland
+144,WB-A80M,Pheochromocytoma,Male,White,63,51-70,No,3.0,-17,-18,-32,0.35,0.04,8,13.03,0.27,34.0,4.0,Alive Tumor-Free,No,Neither,Adrenal Gland
+145,WB-A80N,Pheochromocytoma,Male,White,54,51-70,No,4.0,-29,-22,-36,0.32,0.0,10,10.12,0.33,6.0,5.0,Alive Tumor-Free,No,Neither,Adrenal Gland
+146,WB-A80O,Pheochromocytoma,Female,White,83,71+,No,5.0,-29,-18,-40,0.33,0.0,9,12.43,0.3,6.0,26.0,Alive Tumor-Free,No,Neither,Adrenal Gland
+147,WB-A80P,Paraganglioma,Male,White,20,18-30,No,1.0,-15,-16,-30,0.33,0.0,5,4.62,0.17,4.0,317.0,Alive w/ Tumor,Yes,Recurrence,Extra-Adrenal
+148,WB-A80Q,Pheochromocytoma,Female,White,64,51-70,No,0.0,-27,-20,-32,0.32,0.0,13,0.01,0.43,4.0,128.0,Alive Tumor-Free,No,Neither,Adrenal Gland
+149,WB-A80V,Pheochromocytoma,Female,White,63,51-70,No,8.0,-25,-14,-34,0.32,0.05,17,38.08,0.57,6.0,29.0,Alive Tumor-Free,No,Neither,Adrenal Gland
+150,WB-A80Y,Pheochromocytoma,Female,White,59,51-70,No,2.0,-33,-24,-48,0.33,0.06,7,6.8,0.23,45.0,20.0,Dead w/o Tumor,No,Neither,Adrenal Gland
+151,WB-A814,Paraganglioma,Female,Black,35,31-50,Yes,3.0,5,-14,-14,0.33,0.0,9,9.64,0.3,20.0,74.0,Alive Tumor-Free,No,Neither,Extra-Adrenal
+152,WB-A815,Pheochromocytoma,Female,White,68,51-70,No,10.0,-3,-22,-22,0.32,0.02,17,23.16,0.57,11.0,54.0,Alive Tumor-Free,No,Neither,Adrenal Gland
+153,WB-A816,Pheochromocytoma,Female,Hispanic,42,31-50,No,4.0,-19,-14,-28,0.32,0.0,11,11.16,0.37,18.0,41.0,Alive Tumor-Free,No,Neither,Adrenal Gland
+154,WB-A817,Pheochromocytoma,Male,White,27,18-30,Yes,0.0,-15,-16,-46,0.33,0.0,8,0.0,0.27,1.0,43.0,Alive Tumor-Free,No,Neither,Adrenal Gland
+155,WB-A818,Pheochromocytoma,Male,White,37,31-50,No,3.0,-17,-16,-32,0.33,0.0,9,10.07,0.3,28.0,42.0,Alive Tumor-Free,No,Neither,Adrenal Gland
+156,WB-A819,Pheochromocytoma,Male,White,36,31-50,No,4.0,-15,-18,-36,0.33,0.0,6,15.53,0.23,3.0,34.0,Alive Tumor-Free,No,Neither,Adrenal Gland
+157,WB-A81A,Pheochromocytoma,Female,White,65,51-70,No,10.0,-29,-20,-54,0.33,0.0,6,16.24,0.2,5.0,24.0,Alive Tumor-Free,No,Neither,Adrenal Gland
+158,WB-A81D,Pheochromocytoma,Female,White,82,71+,No,1.0,-31,-24,-40,0.33,0.0,13,9.11,0.43,70.0,36.0,Alive Tumor-Free,No,Neither,Adrenal Gland
+159,WB-A81E,Paraganglioma,Female,White,47,31-50,Yes,3.0,-7,-12,-18,0.33,0.09,17,12.03,0.57,5.0,49.0,Alive Tumor-Free,No,Recurrence,Extra-Adrenal
+160,WB-A81F,Pheochromocytoma,Male,White,40,31-50,No,2.0,-1,-16,-28,0.32,0.0,4,10.31,0.13,49.0,57.0,Alive Tumor-Free,No,Neither,Adrenal Gland
+161,WB-A81G,Pheochromocytoma,Male,White,25,18-30,No,3.0,-19,-16,-42,0.33,0.0,10,11.13,0.33,2.0,39.0,Alive Tumor-Free,No,Neither,Adrenal Gland
+162,WB-A81H,Pheochromocytoma,Female,White,44,31-50,No,4.0,-27,-18,-40,0.32,0.03,11,6.7,0.37,21.0,64.0,Alive Tumor-Free,No,Neither,Adrenal Gland
+163,WB-A81I,Pheochromocytoma,Male,White,64,51-70,No,1.0,-11,-22,-38,0.34,0.0,10,2.96,0.33,20.0,22.0,Alive Tumor-Free,No,Neither,Adrenal Gland
+164,WB-A81J,Pheochromocytoma,Male,White,40,31-50,No,4.0,-21,-18,-30,0.33,0.02,10,9.72,0.33,154.0,24.0,Alive Tumor-Free,No,Neither,Adrenal Gland
+165,WB-A81K,Pheochromocytoma,Male,White,45,31-50,No,2.0,-17,-12,-38,0.34,0.0,6,14.54,0.2,55.0,40.0,Alive Tumor-Free,No,Neither,Adrenal Gland
+166,WB-A81M,Pheochromocytoma,Female,White,42,31-50,No,2.0,-31,-24,-46,0.34,0.02,9,6.29,0.3,12.0,46.0,Alive Tumor-Free,No,Neither,Adrenal Gland
+167,WB-A81N,Pheochromocytoma,Female,White,28,18-30,No,4.0,-17,-20,-30,0.34,0.0,4,8.35,0.13,19.0,62.0,Alive Tumor-Free,No,Neither,Adrenal Gland
+168,WB-A81P,Pheochromocytoma,Female,White,73,71+,No,2.0,-21,-20,-46,0.32,0.0,20,8.2,0.67,28.0,13.0,Alive Tumor-Free,No,Neither,Adrenal Gland
+169,WB-A81Q,Pheochromocytoma,Male,White,44,31-50,Yes,7.0,-25,-16,-34,0.32,0.16,19,15.86,0.63,21.0,25.0,Dead w/ Tumor,Yes,Progression,Adrenal Gland
+170,WB-A81R,Pheochromocytoma,Female,White,55,51-70,No,5.0,-25,-16,-30,0.33,0.0,8,14.96,0.27,13.0,2.0,Alive Tumor-Free,No,Neither,Adrenal Gland
+171,WB-A81S,Pheochromocytoma,Female,White,59,51-70,No,12.0,-31,-18,-42,0.33,0.0,11,26.24,0.37,46.0,24.0,Alive Tumor-Free,No,Neither,Adrenal Gland
+172,WB-A81T,Pheochromocytoma,Male,White,45,31-50,No,6.0,-23,-16,-32,0.32,0.02,15,15.42,0.5,18.0,26.0,Alive Tumor-Free,No,Neither,Adrenal Gland
+173,WB-A81V,Pheochromocytoma,Male,White,57,51-70,No,4.0,-13,-20,-16,0.32,0.0,10,11.11,0.33,5.0,71.0,Alive Tumor-Free,No,Neither,Adrenal Gland
+174,WB-A81W,Pheochromocytoma,Male,White,41,31-50,No,7.0,-25,-18,-34,0.33,0.02,14,17.08,0.47,57.0,78.0,Alive Tumor-Free,No,Neither,Adrenal Gland
+175,WB-A821,Pheochromocytoma,Female,White,73,71+,No,25.0,-7,-20,-24,0.33,0.0,24,62.46,0.8,3.0,93.0,Alive Tumor-Free,No,Neither,Adrenal Gland
+176,WB-A822,Pheochromocytoma,Male,White,23,18-30,No,4.0,-1,-6,-4,0.34,0.0,5,11.17,0.17,6.0,103.0,Unknown,Yes,Progression,Adrenal Gland
+177,XG-A823,Pheochromocytoma,Female,Hispanic,25,18-30,Yes,2.0,-1,-12,-8,0.31,0.0,6,11.34,0.17,1.0,20.0,Alive Tumor-Free,No,Progression,Adrenal Gland
